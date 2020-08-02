@@ -5,6 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - {name: 不限流, server: mail.liuboping.win, port: 1443, type: vmess, uuid: 23ad6b10-8d1a-40f7-8ad0-e3e35cd38297, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: s.liuboping.com}, udp: true}
   - {name: "🇭🇰 [vip2]香港阿里云03 - 39889 单端口", server: vip2-ali3.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
   - {name: "🇭🇰 [vip2]香港阿里云04 - 39889 单端口", server: vip2-ali4.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
   - {name: "🇭🇰 [vip2]香港阿里云05 - 39889 单端口", server: vip2-ali5.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
@@ -20,7 +21,6 @@ proxies:
   - {name: "🇯🇵 [vip2]日本01 - 39889 单端口", server: vip2-jp1.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
   - {name: "🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口", server: vip2-us1.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
   - {name: "🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口", server: vip2-sgp1.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
-  - {name: 不限流, server: 2607:9000:0:28::fb26:45e2, port: 1443, type: vmess, uuid: 23ad6b10-8d1a-40f7-8ad0-e3e35cd38297, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: s.liuboping.com}, udp: true}
   - {name: 不稳定, server: t.ibcl.us, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: t.ibcl.us}, udp: true}
   - {name: 不是人, server: login.class10time.xyz, port: 443, type: vmess, uuid: 52e6f783-5a28-459c-b42e-c46d4c0bc04c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /8dfbd986b7f160a/, ws-headers: {Host: login.class10time.xyz}, udp: true}
   - {name: 🇭🇰 Azure HK 2, server: 137.116.164.113, port: 10086, type: vmess, uuid: 9d324ed5-064c-437e-830b-0e43b2d889c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 137.116.164.113}, udp: true}
@@ -36,6 +36,7 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
+      - 不限流
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
@@ -51,7 +52,6 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
-      - 不限流
       - 不稳定
       - 不是人
       - 🇭🇰 Azure HK 2
@@ -64,6 +64,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - 不限流
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
@@ -79,7 +80,6 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
-      - 不限流
       - 不稳定
       - 不是人
       - 🇭🇰 Azure HK 2
@@ -92,6 +92,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
+      - 不限流
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
@@ -107,7 +108,6 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
-      - 不限流
       - 不稳定
       - 不是人
       - 🇭🇰 Azure HK 2
@@ -120,6 +120,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
+      - 不限流
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
@@ -135,7 +136,6 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
-      - 不限流
       - 不稳定
       - 不是人
       - 🇭🇰 Azure HK 2
@@ -162,6 +162,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
+      - 不限流
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
@@ -177,7 +178,6 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
-      - 不限流
       - 不稳定
       - 不是人
       - 🇭🇰 Azure HK 2
