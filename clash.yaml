@@ -36,15 +36,15 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - 不限流
-      - 不稳定
-      - 不是人
-      - 🇭🇰 Azure HK 2
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云01 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云02 - 39889 单端口
+      - 🇭🇰 [vip9]香港1-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港2-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港3-游戏节点-极速8K-私人定制专线 - 39889 单端口
+      - 🇭🇰 [vip9]香港4-游戏节点-极速8K-私人定制专线 - 39889 单端口
       - 🇭🇰 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 39889 单端口
@@ -55,20 +55,24 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
+      - 不限流
+      - 不稳定
+      - 不是人
+      - 🇭🇰 Azure HK 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 不限流
-      - 不稳定
-      - 不是人
-      - 🇭🇰 Azure HK 2
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云01 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云02 - 39889 单端口
+      - 🇭🇰 [vip9]香港1-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港2-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港3-游戏节点-极速8K-私人定制专线 - 39889 单端口
+      - 🇭🇰 [vip9]香港4-游戏节点-极速8K-私人定制专线 - 39889 单端口
       - 🇭🇰 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 39889 单端口
@@ -79,20 +83,24 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
+      - 不限流
+      - 不稳定
+      - 不是人
+      - 🇭🇰 Azure HK 2
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 不限流
-      - 不稳定
-      - 不是人
-      - 🇭🇰 Azure HK 2
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云01 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云02 - 39889 单端口
+      - 🇭🇰 [vip9]香港1-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港2-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港3-游戏节点-极速8K-私人定制专线 - 39889 单端口
+      - 🇭🇰 [vip9]香港4-游戏节点-极速8K-私人定制专线 - 39889 单端口
       - 🇭🇰 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 39889 单端口
@@ -103,20 +111,24 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
+      - 不限流
+      - 不稳定
+      - 不是人
+      - 🇭🇰 Azure HK 2
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 不限流
-      - 不稳定
-      - 不是人
-      - 🇭🇰 Azure HK 2
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云01 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云02 - 39889 单端口
+      - 🇭🇰 [vip9]香港1-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港2-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港3-游戏节点-极速8K-私人定制专线 - 39889 单端口
+      - 🇭🇰 [vip9]香港4-游戏节点-极速8K-私人定制专线 - 39889 单端口
       - 🇭🇰 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 39889 单端口
@@ -127,6 +139,10 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
+      - 不限流
+      - 不稳定
+      - 不是人
+      - 🇭🇰 Azure HK 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -146,15 +162,15 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - 不限流
-      - 不稳定
-      - 不是人
-      - 🇭🇰 Azure HK 2
       - 🇭🇰 [vip2]香港阿里云03 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云04 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云05 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云01 - 39889 单端口
       - 🇭🇰 [vip2]香港阿里云02 - 39889 单端口
+      - 🇭🇰 [vip9]香港1-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港2-游戏节点-极速8K-私人定制专线-NETFLIX - 39889 单端口
+      - 🇭🇰 [vip9]香港3-游戏节点-极速8K-私人定制专线 - 39889 单端口
+      - 🇭🇰 [vip9]香港4-游戏节点-极速8K-私人定制专线 - 39889 单端口
       - 🇭🇰 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 39889 单端口
       - 🇭🇰 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 39889 单端口
@@ -165,6 +181,10 @@ proxy-groups:
       - 🇯🇵 [vip2]日本01 - 39889 单端口
       - 🇺🇲 [vip2]美国01 原生IP-CN2/GIA-Netflix|Hulu|TVB-1000m - 39889 单端口
       - 🇰🇷 [vip2]韩国01 游戏节点 - 39889 单端口
+      - 不限流
+      - 不稳定
+      - 不是人
+      - 🇭🇰 Azure HK 2
 rules:
  - DOMAIN-SUFFIX,acl4ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
