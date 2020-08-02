@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 不限流, server: mail.liuboping.win, port: 1443, type: vmess, uuid: 23ad6b10-8d1a-40f7-8ad0-e3e35cd38297, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: s.liuboping.com}, udp: true}
+  - {name: 不限流, server: 2607:9000:0:28::fb26:45e2, port: 1443, type: vmess, uuid: 23ad6b10-8d1a-40f7-8ad0-e3e35cd38297, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: s.liuboping.com}, udp: true}
   - {name: "🇭🇰 [vip2]香港阿里云03 - 39889 单端口", server: vip2-ali3.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
   - {name: "🇭🇰 [vip2]香港阿里云04 - 39889 单端口", server: vip2-ali4.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
   - {name: "🇭🇰 [vip2]香港阿里云05 - 39889 单端口", server: vip2-ali5.mxssr.top, port: 39889, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
