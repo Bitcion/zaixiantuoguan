@@ -3,7 +3,7 @@ socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
-external-controller: 127.0.0.1:9090
+external-controller: 127.0.0.1:9
 proxies:
   - {name: "🇭🇰 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 42036 单端口", server: vip2-hk4.mxssr.top, port: 42036, type: ssr, cipher: rc4-md5, password: TdHOEE, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 5375:654321, obfs-param: ed2445375.microsoft.com, udp: true}
   - {name: "🇭🇰 V2RAY [vip1]广州移动-香港 Netflix 01", server: v109.mxv2ssr.xyz, port: 41109, type: vmess, uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
@@ -2186,7 +2186,7 @@ rules:
  - DOMAIN-KEYWORD,fbcdn,🚀 节点选择
  - DOMAIN-KEYWORD,github,🚀 节点选择
  - DOMAIN-KEYWORD,gmail,🚀 节点选择
- - DOMAIN-KEYWORD,google,🚀 节点选择
+ - DOMAIN-KEYWORD,google,🐟 漏网之鱼
  - DOMAIN-KEYWORD,instagram,🚀 节点选择
  - DOMAIN-KEYWORD,porn,🚀 节点选择
  - DOMAIN-KEYWORD,sci-hub,🚀 节点选择
@@ -2381,8 +2381,8 @@ rules:
  - DOMAIN-SUFFIX,g.co,🚀 节点选择
  - DOMAIN-SUFFIX,ggpht.com,🚀 节点选择
  - DOMAIN-SUFFIX,goo.gl,🚀 节点选择
- - DOMAIN-SUFFIX,googleapis.cn,🚀 节点选择
- - DOMAIN-SUFFIX,googleapis.com,🚀 节点选择
+ - DOMAIN-SUFFIX,googleapis.cn,🐟 漏网之鱼
+ - DOMAIN-SUFFIX,googleapis.com,🐟 漏网之鱼
  - DOMAIN-SUFFIX,gstatic.cn,🚀 节点选择
  - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
  - DOMAIN-SUFFIX,gvt0.com,🚀 节点选择
