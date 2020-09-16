@@ -3322,5 +3322,6 @@ rules:
  - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
  - DOMAIN-SUFFIX,dubox.com,🐟 漏网之鱼
  - DOMAIN-SUFFIX,duboxcdn.com,🐟 漏网之鱼
+ - IP-CIDR,103.235.46.182/22,🐟 漏网之鱼,no-resolve
  - GEOIP,CN,🎯 全球直连
  - MATCH,🎯 全球直连
