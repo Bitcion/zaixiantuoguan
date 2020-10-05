@@ -1986,14 +1986,14 @@ rules:
  - DOMAIN-SUFFIX,viu.now.com,🚀 节点选择
  - DOMAIN-SUFFIX,viu.tv,🚀 节点选择
  - DOMAIN-KEYWORD,youtube,🚀 节点选择
- - DOMAIN,youtubei.googleapis.com,🚀 节点选择
- - DOMAIN,yt3.ggpht.com,🚀 节点选择
- - DOMAIN-SUFFIX,app-measurement.com,🚀 节点选择
- - DOMAIN-SUFFIX,googlevideo.com,🚀 节点选择
- - DOMAIN-SUFFIX,gvt2.com,🚀 节点选择
- - DOMAIN-SUFFIX,youtu.be,🚀 节点选择
- - DOMAIN-SUFFIX,youtube.com,🚀 节点选择
- - DOMAIN-SUFFIX,ytimg.com,🚀 节点选择
+ - DOMAIN,youtubei.googleapis.com,🐟 漏网之鱼
+ - DOMAIN,yt3.ggpht.com,🐟 漏网之鱼
+ - DOMAIN-SUFFIX,app-measurement.com,🐟 漏网之鱼
+ - DOMAIN-SUFFIX,googlevideo.com,🐟 漏网之鱼
+ - DOMAIN-SUFFIX,gvt2.com,🐟 漏网之鱼
+ - DOMAIN-SUFFIX,youtu.be,🐟 漏网之鱼
+ - DOMAIN-SUFFIX,youtube.com,🐟 漏网之鱼
+ - DOMAIN-SUFFIX,ytimg.com,🐟 漏网之鱼
  - DOMAIN-SUFFIX,1password.com,🚀 节点选择
  - DOMAIN-SUFFIX,bit.no.com,🚀 节点选择
  - DOMAIN-SUFFIX,btlibrary.me,🚀 节点选择
@@ -2037,7 +2037,7 @@ rules:
  - DOMAIN-KEYWORD,telegram,🚀 节点选择
  - DOMAIN-KEYWORD,twitter,🚀 节点选择
  - DOMAIN-KEYWORD,whatsapp,🚀 节点选择
- - DOMAIN-KEYWORD,youtube,🚀 节点选择
+ - DOMAIN-KEYWORD,youtube,🐟 漏网之鱼
  - DOMAIN-SUFFIX,4sqi.net,🚀 节点选择
  - DOMAIN-SUFFIX,a248.e.akamai.net,🚀 节点选择
  - DOMAIN-SUFFIX,adobedtm.com,🚀 节点选择
@@ -3162,5 +3162,7 @@ rules:
  - IP-CIDR,101.198.128.0/18,🎯 全球直连,no-resolve
  - IP-CIDR,101.198.192.0/19,🎯 全球直连,no-resolve
  - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
+ - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
+ - DOMAIN-SUFFIX,duboxcdn.com,🚀 节点选择
  - GEOIP,CN,🎯 全球直连
  - MATCH,🎯 全球直连
