@@ -1985,7 +1985,7 @@ rules:
  - DOMAIN-SUFFIX,viu.com,🚀 节点选择
  - DOMAIN-SUFFIX,viu.now.com,🚀 节点选择
  - DOMAIN-SUFFIX,viu.tv,🚀 节点选择
- - DOMAIN-KEYWORD,youtube,🚀 节点选择
+ - DOMAIN-KEYWORD,youtube,🐟 漏网之鱼
  - DOMAIN,youtubei.googleapis.com,🐟 漏网之鱼
  - DOMAIN,yt3.ggpht.com,🐟 漏网之鱼
  - DOMAIN-SUFFIX,app-measurement.com,🐟 漏网之鱼
