@@ -1899,7 +1899,7 @@ rules:
  - DOMAIN-SUFFIX,mytvsuper.com,🚀 节点选择
  - DOMAIN-SUFFIX,tvb.com,🚀 节点选择
  - DOMAIN,netflix.com.edgesuite.net,🐟 漏网之鱼
- - DOMAIN-SUFFIX,fast.com,🚀 节点选择
+ - DOMAIN-SUFFIX,fast.com,🐟 漏网之鱼
  - DOMAIN-SUFFIX,netflix.com,🐟 漏网之鱼
  - DOMAIN-SUFFIX,netflix.net,🐟 漏网之鱼
  - DOMAIN-SUFFIX,netflixdnstest0.com,🐟 漏网之鱼
@@ -3165,4 +3165,4 @@ rules:
  - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
  - DOMAIN-SUFFIX,duboxcdn.com,🚀 节点选择
  - GEOIP,CN,🎯 全球直连
- - MATCH,🎯 全球直连
+ - MATCH,🐟 漏网之鱼
