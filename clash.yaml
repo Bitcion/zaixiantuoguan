@@ -1,316 +1,31 @@
-port: 7890
-socks-port: 7891
-allow-lan: true
-ipv6: true
-mode: Rule
-log-level: info
-external-controller: 127.0.0.1:9090
-proxies:
-- name: "\U0001F1E8\U0001F1F3 ⒏V2RAY [vip1]上海CN2-中转-台湾Hinet-推荐使用"
-  server: v117.mxv2ssr.xyz
-  port: 41117
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1E8\U0001F1F3 ⒐V2RAY [vip1]广移-中转-台湾Hinet-推荐使用"
-  server: v118.mxv2ssr.xyz
-  port: 41118
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1E8\U0001F1F3 ⒒V2RAY [vip2]电信-中转-台湾Hinet"
-  server: 120.232.194.73
-  port: 42252
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 01"
-  server: v348.mxv2ssr.xyz
-  port: 43348
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 02"
-  server: v349.mxv2ssr.xyz
-  port: 43349
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip1]上海-中转-AWS香港"
-  server: v109.mxv2ssr.xyz
-  port: 41109
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip2]上海CN2-中转-香港Azure"
-  server: v237.mxv2ssr.xyz
-  port: 42237
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip1]电信-中转-香港"
-  server: v110.mxv2ssr.xyz
-  port: 41110
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip2]上海联通-中转-香港Azure"
-  server: vip2-hk3.mxssr.top
-  port: 42035
-  type: ssr
-  cipher: rc4-md5
-  password: TdHOEE
-  protocol: auth_aes128_sha1
-  obfs: plain
-  protocol-param: 5375:654321
-  obfs-param: ed2445375.microsoft.com
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒊V2RAY [vip2]上海电信-中转-香港AGA"
-  server: hk2.mxssr.top
-  port: 41204
-  type: ssr
-  cipher: rc4-md5
-  password: TdHOEE
-  protocol: auth_aes128_sha1
-  obfs: plain
-  protocol-param: 5375:654321
-  obfs-param: ed2445375.microsoft.com
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒋V2RAY [vip2]广州移动-中转-香港Azure"
-  server: v240.mxv2ssr.xyz
-  port: 42240
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip1]上海-中转-香港"
-  server: v113.mxv2ssr.xyz
-  port: 41113
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip2]上海CN2-中转-香港HTK"
-  server: v241.mxv2ssr.xyz
-  port: 42241
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒍V2RAY [vip2]上海联通-中转-香港HTK"
-  server: vip2-hk4.mxssr.top
-  port: 42036
-  type: ssr
-  cipher: rc4-md5
-  password: TdHOEE
-  protocol: auth_aes128_sha1
-  obfs: plain
-  protocol-param: 5375:654321
-  obfs-param: ed2445375.microsoft.com
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒎V2RAY [vip2]广州移动-中转-香港HTK"
-  server: v243.mxv2ssr.xyz
-  port: 42243
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 ⒏V2RAY [vip2]东莞电信-中转-香港AGA"
-  server: v244.mxv2ssr.xyz
-  port: 42244
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 V2RAY [vip3]广州中转-日本 03"
-  server: v350.mxv2ssr.xyz
-  port: 43350
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 ⒊V2RAY [vip1]广移-中转-日本"
-  server: v111.mxv2ssr.xyz
-  port: 41111
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 ⒎V2RAY [vip1]广移-中转-Vu日本"
-  server: v115.mxv2ssr.xyz
-  port: 41115
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 ⒐V2RAY [vip2]上海CN2-中转-日本"
-  server: v245.mxv2ssr.xyz
-  port: 42245
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1F8\U0001F1EC ⒋V2RAY [vip1]广移-中转-新加坡"
-  server: v112.mxv2ssr.xyz
-  port: 41112
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1F8\U0001F1EC ⒑V2RAY [vip2]广州移动-中转-新加坡"
-  server: v246.mxv2ssr.xyz
-  port: 42246
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1FA\U0001F1F2 V2RAY [vip3]广州中转-美国 04"
-  server: v351.mxv2ssr.xyz
-  port: 43351
-  type: vmess
-  uuid: e83d40a4-5ea7-314e-aa2c-4a921f8b431e
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  udp: true
-- name: "\U0001F1FA\U0001F1F2 ⒍V2RAY [vip1]广移-中转-美国"
-  server: vip2-hk2.mxssr.top
-  port: 42034
-  type: ssr
-  cipher: rc4-md5
-  password: TdHOEE
-  protocol: auth_aes128_sha1
-  obfs: plain
-  protocol-param: 5375:654321
-  obfs-param: ed2445375.microsoft.com
-  udp: true
-proxy-groups:
-- name: "\U0001F680 节点选择"
-  type: select
-  proxies:
-  - ♻️ 自动选择
-  - "\U0001F52F 故障转移"
-  - "\U0001F52E 负载均衡"
-  - DIRECT
-  - "\U0001F1E8\U0001F1F3 ⒏V2RAY [vip1]上海CN2-中转-台湾Hinet-推荐使用"
-  - "\U0001F1E8\U0001F1F3 ⒐V2RAY [vip1]广移-中转-台湾Hinet-推荐使用"
-  - "\U0001F1E8\U0001F1F3 ⒒V2RAY [vip2]电信-中转-台湾Hinet"
-  - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 01"
-  - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 02"
-  - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip1]上海-中转-AWS香港"
-  - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip2]上海CN2-中转-香港Azure"
-  - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip1]电信-中转-香港"
-  - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip2]上海联通-中转-香港Azure"
-  - "\U0001F1ED\U0001F1F0 ⒊V2RAY [vip2]上海电信-中转-香港AGA"
-  - "\U0001F1ED\U0001F1F0 ⒋V2RAY [vip2]广州移动-中转-香港Azure"
-  - "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip1]上海-中转-香港"
-  - "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip2]上海CN2-中转-香港HTK"
-  - "\U0001F1ED\U0001F1F0 ⒍V2RAY [vip2]上海联通-中转-香港HTK"
-  - "\U0001F1ED\U0001F1F0 ⒎V2RAY [vip2]广州移动-中转-香港HTK"
-  - "\U0001F1ED\U0001F1F0 ⒏V2RAY [vip2]东莞电信-中转-香港AGA"
-  - "\U0001F1EF\U0001F1F5 V2RAY [vip3]广州中转-日本 03"
-  - "\U0001F1EF\U0001F1F5 ⒊V2RAY [vip1]广移-中转-日本"
-  - "\U0001F1EF\U0001F1F5 ⒎V2RAY [vip1]广移-中转-Vu日本"
-  - "\U0001F1EF\U0001F1F5 ⒐V2RAY [vip2]上海CN2-中转-日本"
-  - "\U0001F1F8\U0001F1EC ⒋V2RAY [vip1]广移-中转-新加坡"
-  - "\U0001F1F8\U0001F1EC ⒑V2RAY [vip2]广州移动-中转-新加坡"
-  - "\U0001F1FA\U0001F1F2 V2RAY [vip3]广州中转-美国 04"
-  - "\U0001F1FA\U0001F1F2 ⒍V2RAY [vip1]广移-中转-美国"
+
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
-  - "\U0001F1FA\U0001F1F2 ⒍V2RAY [vip1]广移-中转-美国"
-  - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip2]上海联通-中转-香港Azure"
-  - "\U0001F1ED\U0001F1F0 ⒍V2RAY [vip2]上海联通-中转-香港HTK"
+  - "\U0001F1E8\U0001F1F3 [vip1]上海-中转-台湾Hinet - 41204 单端口"
+  - "\U0001F1E8\U0001F1F3 ⒏V2RAY [vip1]上海CN2-中转-台湾Hinet-推荐使用"
   - "\U0001F1E8\U0001F1F3 ⒐V2RAY [vip1]广移-中转-台湾Hinet-推荐使用"
   - "\U0001F1E8\U0001F1F3 ⒒V2RAY [vip2]电信-中转-台湾Hinet"
-  - "\U0001F1E8\U0001F1F3 ⒏V2RAY [vip1]上海CN2-中转-台湾Hinet-推荐使用"
-  - "\U0001F1ED\U0001F1F0 ⒋V2RAY [vip2]广州移动-中转-香港Azure"
-  - "\U0001F1ED\U0001F1F0 ⒎V2RAY [vip2]广州移动-中转-香港HTK"
-  - "\U0001F1F8\U0001F1EC ⒑V2RAY [vip2]广州移动-中转-新加坡"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 42034 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 42036 单端口"
   - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip2]上海CN2-中转-香港Azure"
-  - "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip2]上海CN2-中转-香港HTK"
-  - "\U0001F1EF\U0001F1F5 ⒐V2RAY [vip2]上海CN2-中转-日本"
-  - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip1]上海-中转-AWS香港"
-  - "\U0001F1ED\U0001F1F0 ⒏V2RAY [vip2]东莞电信-中转-香港AGA"
   - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip1]电信-中转-香港"
+  - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip2]上海联通-中转-香港Azure"
+  - "\U0001F1ED\U0001F1F0 ⒊V2RAY [vip2]上海电信-中转-香港AGA"
+  - "\U0001F1ED\U0001F1F0 ⒋V2RAY [vip2]广州移动-中转-香港Azure"
   - "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip1]上海-中转-香港"
+  - "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip2]上海CN2-中转-香港HTK"
+  - "\U0001F1ED\U0001F1F0 ⒍V2RAY [vip2]上海联通-中转-香港HTK"
+  - "\U0001F1ED\U0001F1F0 ⒎V2RAY [vip2]广州移动-中转-香港HTK"
+  - "\U0001F1ED\U0001F1F0 ⒏V2RAY [vip2]东莞电信-中转-香港AGA"
   - "\U0001F1EF\U0001F1F5 ⒊V2RAY [vip1]广移-中转-日本"
   - "\U0001F1EF\U0001F1F5 ⒎V2RAY [vip1]广移-中转-Vu日本"
+  - "\U0001F1EF\U0001F1F5 ⒐V2RAY [vip2]上海CN2-中转-日本"
   - "\U0001F1F8\U0001F1EC ⒋V2RAY [vip1]广移-中转-新加坡"
-  - "\U0001F1ED\U0001F1F0 ⒊V2RAY [vip2]上海电信-中转-香港AGA"
-  - "\U0001F1FA\U0001F1F2 V2RAY [vip3]广州中转-美国 04"
-  - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 01"
-  - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 02"
-  - "\U0001F1EF\U0001F1F5 V2RAY [vip3]广州中转-日本 03"
+  - "\U0001F1F8\U0001F1EC ⒑V2RAY [vip2]广州移动-中转-新加坡"
+  - "\U0001F1FA\U0001F1F2 ⒍V2RAY [vip1]广移-中转-美国"
 - name: "\U0001F52F 故障转移"
   type: fallback
   url: http://www.gstatic.com/generate_204
@@ -319,18 +34,53 @@ proxy-groups:
   - "\U0001F1E8\U0001F1F3 ⒐V2RAY [vip1]广移-中转-台湾Hinet-推荐使用"
   - "\U0001F1E8\U0001F1F3 ⒒V2RAY [vip2]电信-中转-台湾Hinet"
   - "\U0001F1E8\U0001F1F3 ⒏V2RAY [vip1]上海CN2-中转-台湾Hinet-推荐使用"
+  - "\U0001F1E8\U0001F1F3 [vip1]上海-中转-台湾Hinet - 41204 单端口"
+  - "\U0001F1ED\U0001F1F0 ⒋V2RAY [vip2]广州移动-中转-香港Azure"
+  - "\U0001F1ED\U0001F1F0 ⒎V2RAY [vip2]广州移动-中转-香港HTK"
+  - "\U0001F1F8\U0001F1EC ⒑V2RAY [vip2]广州移动-中转-新加坡"
+  - "\U0001F1F8\U0001F1EC ⒋V2RAY [vip1]广移-中转-新加坡"
+  - "\U0001F1EF\U0001F1F5 ⒊V2RAY [vip1]广移-中转-日本"
+  - "\U0001F1EF\U0001F1F5 ⒎V2RAY [vip1]广移-中转-Vu日本"
+  - "\U0001F1EF\U0001F1F5 [vip1]广移-中转-Vu日本 - 41205 单端口"
+  - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip2]上海CN2-中转-香港Azure"
+  - "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip2]上海CN2-中转-香港HTK"
+  - "\U0001F1ED\U0001F1F0 [vip1]上海-中转-香港 HKT Netflix - 39889 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip1]香港-美国 AGA 电信优化 02 - 39889 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip1]香港CN2 GIA线路 - 41206 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港01 DMIT-NETFLIX|HULU|HBO - 42033 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 42034 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 42035 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 42036 单端口"
+  - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip1]电信-中转-香港"
+  - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip2]上海联通-中转-香港Azure"
   - "\U0001F1ED\U0001F1F0 ⒊V2RAY [vip2]上海电信-中转-香港AGA"
+  - "\U0001F1ED\U0001F1F0 ⒌V2RAY [vip1]上海-中转-香港"
+  - "\U0001F1ED\U0001F1F0 ⒍V2RAY [vip2]上海联通-中转-香港HTK"
+  - "\U0001F1ED\U0001F1F0 ⒏V2RAY [vip2]东莞电信-中转-香港AGA"
+  - "\U0001F1EF\U0001F1F5 ⒐V2RAY [vip2]上海CN2-中转-日本"
+  - "\U0001F1FA\U0001F1F2 ⒍V2RAY [vip1]广移-中转-美国"
+  - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 01"
+  - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 02"
+  - "\U0001F1EF\U0001F1F5 V2RAY [vip3]广州中转-日本 03"
+  - "\U0001F1FA\U0001F1F2 V2RAY [vip3]广州中转-美国 04"
 - name: "\U0001F52E 负载均衡"
   type: load-balance
   url: http://www.gstatic.com/generate_204
   interval: 180
   proxies:
+  - "\U0001F1E8\U0001F1F3 [vip1]上海-中转-台湾Hinet - 41204 单端口"
   - "\U0001F1E8\U0001F1F3 ⒏V2RAY [vip1]上海CN2-中转-台湾Hinet-推荐使用"
   - "\U0001F1E8\U0001F1F3 ⒐V2RAY [vip1]广移-中转-台湾Hinet-推荐使用"
   - "\U0001F1E8\U0001F1F3 ⒒V2RAY [vip2]电信-中转-台湾Hinet"
   - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 01"
   - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 02"
-  - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip1]上海-中转-AWS香港"
+  - "\U0001F1ED\U0001F1F0 [vip1]上海-中转-香港 HKT Netflix - 39889 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip1]香港-美国 AGA 电信优化 02 - 39889 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip1]香港CN2 GIA线路 - 41206 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港01 DMIT-NETFLIX|HULU|HBO - 42033 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 42034 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 42035 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 42036 单端口"
   - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip2]上海CN2-中转-香港Azure"
   - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip1]电信-中转-香港"
   - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip2]上海联通-中转-香港Azure"
@@ -342,6 +92,7 @@ proxy-groups:
   - "\U0001F1ED\U0001F1F0 ⒎V2RAY [vip2]广州移动-中转-香港HTK"
   - "\U0001F1ED\U0001F1F0 ⒏V2RAY [vip2]东莞电信-中转-香港AGA"
   - "\U0001F1EF\U0001F1F5 V2RAY [vip3]广州中转-日本 03"
+  - "\U0001F1EF\U0001F1F5 [vip1]广移-中转-Vu日本 - 41205 单端口"
   - "\U0001F1EF\U0001F1F5 ⒊V2RAY [vip1]广移-中转-日本"
   - "\U0001F1EF\U0001F1F5 ⒎V2RAY [vip1]广移-中转-Vu日本"
   - "\U0001F1EF\U0001F1F5 ⒐V2RAY [vip2]上海CN2-中转-日本"
@@ -368,12 +119,19 @@ proxy-groups:
   - ♻️ 自动选择
   - "\U0001F52F 故障转移"
   - "\U0001F52E 负载均衡"
+  - "\U0001F1E8\U0001F1F3 [vip1]上海-中转-台湾Hinet - 41204 单端口"
   - "\U0001F1E8\U0001F1F3 ⒏V2RAY [vip1]上海CN2-中转-台湾Hinet-推荐使用"
   - "\U0001F1E8\U0001F1F3 ⒐V2RAY [vip1]广移-中转-台湾Hinet-推荐使用"
   - "\U0001F1E8\U0001F1F3 ⒒V2RAY [vip2]电信-中转-台湾Hinet"
   - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 01"
   - "\U0001F1ED\U0001F1F0 V2RAY [vip3]广州中转-香港 02"
-  - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip1]上海-中转-AWS香港"
+  - "\U0001F1ED\U0001F1F0 [vip1]上海-中转-香港 HKT Netflix - 39889 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip1]香港-美国 AGA 电信优化 02 - 39889 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip1]香港CN2 GIA线路 - 41206 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港01 DMIT-NETFLIX|HULU|HBO - 42033 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港02 DMIT-NETFLIX|HULU|HBO - 42034 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港03 DMIT-NETFLIX|HULU|HBO - 42035 单端口"
+  - "\U0001F1ED\U0001F1F0 [vip2]香港04 HKBN-NETFLIX|HULU|HBO - 42036 单端口"
   - "\U0001F1ED\U0001F1F0 ⒈V2RAY [vip2]上海CN2-中转-香港Azure"
   - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip1]电信-中转-香港"
   - "\U0001F1ED\U0001F1F0 ⒉V2RAY [vip2]上海联通-中转-香港Azure"
@@ -385,6 +143,7 @@ proxy-groups:
   - "\U0001F1ED\U0001F1F0 ⒎V2RAY [vip2]广州移动-中转-香港HTK"
   - "\U0001F1ED\U0001F1F0 ⒏V2RAY [vip2]东莞电信-中转-香港AGA"
   - "\U0001F1EF\U0001F1F5 V2RAY [vip3]广州中转-日本 03"
+  - "\U0001F1EF\U0001F1F5 [vip1]广移-中转-Vu日本 - 41205 单端口"
   - "\U0001F1EF\U0001F1F5 ⒊V2RAY [vip1]广移-中转-日本"
   - "\U0001F1EF\U0001F1F5 ⒎V2RAY [vip1]广移-中转-Vu日本"
   - "\U0001F1EF\U0001F1F5 ⒐V2RAY [vip2]上海CN2-中转-日本"
@@ -395,45 +154,6 @@ proxy-groups:
 rules:
 - "IP-CIDR,103.235.46.0/24,\U0001F52F 故障转移"
 - "IP-CIDR,103.235.47.0/24,\U0001F52F 故障转移"
-- "DOMAIN,netflix.com.edgesuite.net,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,fast.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflix.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflix.net,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest0.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest1.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest2.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest3.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest4.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest5.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest6.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest7.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest8.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,netflixdnstest9.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,nflxext.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,nflximg.com,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,nflximg.net,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,nflxso.net,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,nflxvideo.net,\U0001F52F 故障转移"
-- "IP-CIDR,8.41.4.0/24,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,23.246.0.0/18,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,34.210.42.111/32,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,37.77.184.0/21,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,38.72.126.0/24,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,45.57.0.0/17,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,52.89.124.203/32,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,54.148.37.5/32,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,64.120.128.0/17,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,66.197.128.0/17,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,69.53.224.0/19,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,103.87.204.0/22,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,108.175.32.0/20,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,185.2.220.0/22,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,185.9.188.0/22,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,192.173.64.0/18,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,198.38.96.0/19,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,198.45.48.0/20,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,207.45.72.0/22,\U0001F52F 故障转移,no-resolve"
-- "IP-CIDR,208.75.76.0/22,\U0001F52F 故障转移,no-resolve"
 - "DOMAIN-SUFFIX,acl4ssr,\U0001F3AF 全球直连"
 - "DOMAIN-SUFFIX,ip6-localhost,\U0001F3AF 全球直连"
 - "DOMAIN-SUFFIX,ip6-loopback,\U0001F3AF 全球直连"
@@ -469,6 +189,7 @@ rules:
 - "DOMAIN,analytics.strava.com,\U0001F3AF 全球直连"
 - "DOMAIN,msg.umeng.com,\U0001F3AF 全球直连"
 - "DOMAIN,msg.umengcloud.com,\U0001F3AF 全球直连"
+- "DOMAIN,tracking.miui.com,\U0001F3AF 全球直连"
 - "DOMAIN,app.adjust.com,\U0001F3AF 全球直连"
 - "DOMAIN,bdtj.tagtic.cn,\U0001F3AF 全球直连"
 - "DOMAIN-KEYWORD,admarvel,\U0001F6D1 全球拦截"
@@ -1619,7 +1340,6 @@ rules:
 - "DOMAIN-SUFFIX,security.browser.miui.com,\U0001F6D1 全球拦截"
 - "DOMAIN-SUFFIX,shenghuo.xiaomi.com,\U0001F6D1 全球拦截"
 - "DOMAIN-SUFFIX,stat.pandora.xiaomi.com,\U0001F6D1 全球拦截"
-- "DOMAIN-SUFFIX,tracking.miui.com,\U0001F6D1 全球拦截"
 - "DOMAIN-SUFFIX,union.mi.com,\U0001F6D1 全球拦截"
 - "DOMAIN-SUFFIX,wtradv.market.xiaomi.com,\U0001F6D1 全球拦截"
 - "DOMAIN-SUFFIX,xmpush.xiaomi.com,\U0001F6D1 全球拦截"
@@ -2402,7 +2122,6 @@ rules:
 - "DOMAIN-SUFFIX,btlibrary.me,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,cccat.io,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,cloudcone.com,\U0001F680 节点选择"
-- "DOMAIN-SUFFIX,dubox.com,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,gameloft.com,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,garena.com,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,inoreader.com,\U0001F680 节点选择"
@@ -2598,8 +2317,6 @@ rules:
 - "DOMAIN-SUFFIX,discord.media,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,discordapp.com,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,discordapp.net,\U0001F680 节点选择"
-- "DOMAIN-SUFFIX,dubox.com,\U0001F680 节点选择"
-- "DOMAIN-SUFFIX,duboxcdn.com,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,facebook.com,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,fb.com,\U0001F680 节点选择"
 - "DOMAIN-SUFFIX,fb.me,\U0001F680 节点选择"
@@ -3583,18 +3300,6 @@ rules:
 - "GEOIP,CN,\U0001F3AF 全球直连"
 - "MATCH,\U0001F41F 漏网之鱼"
 secret: ""
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
