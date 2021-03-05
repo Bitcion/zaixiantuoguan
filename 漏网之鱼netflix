@@ -1,5 +1,5 @@
-- "IP-CIDR,103.235.46.0/24,\U0001F680 节点选择,no-resolve"
-- "IP-CIDR,103.235.47.0/24,\U0001F680 节点选择,no-resolve"
+- "IP-CIDR,103.235.46.0/24,\U0001F41F 漏网之鱼,no-resolve"
+- "IP-CIDR,103.235.47.0/24,\U0001F41F 漏网之鱼,no-resolve"
 
 - "IP-CIDR,74.125.0.0/16,\U0001F680 节点选择,no-resolve"
 - "IP-CIDR,173.194.0.0/16,\U0001F52F 故障转移,no-resolve"
