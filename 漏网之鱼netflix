@@ -41,6 +41,21 @@
 - "IP-CIDR,208.75.76.0/22,\U0001F52F 故障转移,no-resolve"
 
 
+- "DOMAIN-SUFFIX,avgle.com,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,agora.io,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,rfa.org,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,rfi.fr,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,nytimes.com,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,dw.com,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,epochtimes.com,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,reuters.com,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,ntdtv.com,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,voachinese.com,\U0001F680 节点选择"
+- "DOMAIN-SUFFIX,wsj.com,\U0001F680 节点选择"
+- "IP-CIDR,103.235.46.0/24,\U0001F680 节点选择,no-resolve"
+- "IP-CIDR,103.235.47.0/24,\U0001F680 节点选择,no-resolve"
+
+
 
 
 
