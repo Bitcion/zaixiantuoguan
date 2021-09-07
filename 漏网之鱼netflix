@@ -1,4 +1,4 @@
-- "DOMAIN,netflix.com.edgesuite.net,\U0001F52F 故障转移"
+- "DOMAIN-SUFFIX,netflix.com.edgesuite.net,\U0001F52F 故障转移"
 - "DOMAIN-SUFFIX,fast.com,\U0001F52F 故障转移"
 - "DOMAIN-SUFFIX,netflix.com,\U0001F52F 故障转移"
 - "DOMAIN-SUFFIX,netflix.net,\U0001F52F 故障转移"
