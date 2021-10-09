@@ -1,9 +1,4 @@
 
-- "IP-CIDR,103.235.46.0/24,\U0001F52F 故障转移"
-- "IP-CIDR,103.235.47.0/24,\U0001F52F 故障转移"
-- "DOMAIN-SUFFIX,clubhouseapi.com,\U0001F680 节点选择"
-- "DOMAIN-SUFFIX,pubnubapi.com,\U0001F680 节点选择"
-- "IP-CIDR,3.0.163.78/32,\U0001F680 节点选择,no-resolve"
 
 - "DOMAIN-SUFFIX,acl4ssr,\U0001F3AF 全球直连"
 - "DOMAIN-SUFFIX,ip6-localhost,\U0001F3AF 全球直连"
