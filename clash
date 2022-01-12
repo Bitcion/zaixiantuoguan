@@ -59,26 +59,16 @@ proxies:
   - {name: "🇸🇬 ⒗V2RAY [vip1]电信-中转-新加坡", server: 29.mxyssr.top, port: 41129, type: vmess, uuid: 0f8baa84-674c-3b34-a604-d93f3ca306ce, alterId: 2, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, udp: true}
   - {name: "🇭🇰 ⒘V2RAY [vip1]电信-中转-香港", server: 31.mxyssr.top, port: 41131, type: vmess, uuid: 0f8baa84-674c-3b34-a604-d93f3ca306ce, alterId: 2, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, udp: true}
   - {name: "🇭🇰 ⒙V2RAY [vip1]北京BGP-中转-香港", server: 32.mxyssr.top, port: 41132, type: vmess, uuid: 0f8baa84-674c-3b34-a604-d93f3ca306ce, alterId: 2, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "🇭🇰 v1|香港|A|7台负载|原生", server: k1.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c787d, ws-headers: {Host: k1.2y7.top}, udp: true}
-  - {name: "🇭🇰 v1|香港|B|8台负载|原生", server: k2.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7f7060, ws-headers: {Host: k2.2y7.top}, udp: true}
-  - {name: "🇭🇰 v1|香港|C|9台负载|原生", server: k3.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7f7567, ws-headers: {Host: k3.2y7.top}, udp: true}
-  - {name: "🇭🇰 v1|香港|D|7台负载|原生", server: k4.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7561, ws-headers: {Host: k4.2y7.top}, udp: true}
-  - {name: "🇭🇰 v1|香港|E|5台负载|原生", server: k5.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7769, ws-headers: {Host: k5.2y7.top}, udp: true}
-  - {name: "🇨🇳 v1|台湾|C|4台负载|原生", server: k3.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c767d, ws-headers: {Host: k3.2y7.top}, udp: true}
-  - {name: "🇨🇳 v1|台湾|B|5台负载|原生", server: k2.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7f7767, ws-headers: {Host: k2.2y7.top}, udp: true}
-  - {name: "🇨🇳 v1|台湾|D|6台负载|原生", server: k4.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7567, ws-headers: {Host: k4.2y7.top}, udp: true}
-  - {name: "🇨🇳 v1|台湾|E|5台负载|原生", server: k5.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7768, ws-headers: {Host: k5.2y7.top}, udp: true}
-  - {name: "🇸🇬 v1|新加坡|B|4台负载|原生", server: k2.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7f7c69, ws-headers: {Host: k2.2y7.top}, udp: true}
-  - {name: "🇸🇬 v1|新加坡|A|4台负载|原生", server: k1.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7f7c68, ws-headers: {Host: k1.2y7.top}, udp: true}
-  - {name: "🇸🇬 v1|新加坡|D|5台负载|原生", server: k4.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7563, ws-headers: {Host: k4.2y7.top}, udp: true}
-  - {name: "🇸🇬 v1|新加坡|E|4台负载|原生", server: k5.2y7.top, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7767, ws-headers: {Host: k5.2y7.top}, udp: true}
-  - {name: "🇺🇲 v1|美国|A|3台负载|原生", server: k1.7h7.xyz, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7461, ws-headers: {Host: k1.7h7.xyz}, udp: true}
-  - {name: "🇺🇲 v1|美国|A|disney+|hbo|hulu专用", server: k1.7h7.xyz, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7260, ws-headers: {Host: k1.7h7.xyz}, udp: true}
-  - {name: "🇺🇲 v1|美国|A|6台负载", server: k1.7h7.xyz, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7f7d63, ws-headers: {Host: k1.7h7.xyz}, udp: true}
-  - {name: "🇺🇲 v1|美国|B|5台负载", server: k2.7h7.xyz, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7872, ws-headers: {Host: k2.7h7.xyz}, udp: true}
-  - {name: "🇺🇲 v1|美国|C|3台负载", server: k3.7h7.xyz, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7f7d64, ws-headers: {Host: k3.7h7.xyz}, udp: true}
-  - {name: "🇺🇲 v1|美国|D|4台负载", server: k4.7h7.xyz, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7569, ws-headers: {Host: k4.7h7.xyz}, udp: true}
-  - {name: "🇺🇲 v1|美国|E|6台负载", server: k5.7h7.xyz, port: 41321, type: vmess, uuid: e27923cd-9e1c-8fb2-4c27-9233c4b4e9c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /62767b7063726374396c7c7060, ws-headers: {Host: k5.7h7.xyz}, udp: true}
+  - {name: "🇺🇸 v1|美国|A|6台负载", server: k1.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647f7d63.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇺🇸 v1|美国|B|5台负载", server: k2.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647872.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇺🇸 v1|美国|C|3台负载", server: k3.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647f7d64.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇺🇸 v1|美国|D|4台负载", server: k4.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647c7569.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇺🇸 v1|美国|E|6台负载", server: k5.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647c7060.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇨🇳 v1|台湾|C|4台负载|原生", server: k3.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b743964767d.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇨🇳 v1|台湾|B|5台负载|原生", server: k2.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647f7767.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇨🇳 v1|台湾|D|6台负载|原生", server: k4.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647c7567.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇨🇳 v1|台湾|E|5台负载|原生", server: k5.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647c7768.ollollo.xyz, skip-cert-verify: false, udp: true}
+  - {name: "🇺🇸 v1|美国|A|3台负载|原生", server: k1.7h7.xyz, port: 41321, type: trojan, password: f82e4f866ffc, sni: 62767b7063726b7439647c7461.ollollo.xyz, skip-cert-verify: false, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -98,16 +88,7 @@ proxy-groups:
       - 🇨🇳 v1|台湾|B|5台负载|原生
       - 🇨🇳 v1|台湾|D|6台负载|原生
       - 🇨🇳 v1|台湾|E|5台负载|原生
-      - 🇭🇰 v1|香港|A|7台负载|原生
-      - 🇭🇰 v1|香港|B|8台负载|原生
-      - 🇭🇰 v1|香港|C|9台负载|原生
-      - 🇭🇰 v1|香港|D|7台负载|原生
-      - 🇭🇰 v1|香港|E|5台负载|原生
-      - 🇸🇬 v1|新加坡|B|4台负载|原生
-      - 🇸🇬 v1|新加坡|A|4台负载|原生
-      - 🇸🇬 v1|新加坡|D|5台负载|原生
-      - 🇸🇬 v1|新加坡|E|4台负载|原生
-      - 🇺🇲 v1|美国|A|3台负载|原生
+      - 🇺🇸 v1|美国|A|3台负载|原生
       - 🇯🇵 ①V2RAY [vip2]广移-中转-日本︱解鎖NETFLIX
       - 🇭🇰 ①[vip1]北京BGP-中转-香港-解锁Netflix - 41203 单端口
       - 🇯🇵 ②V2RAY [vip2]广移-中转-日本︱解鎖NETFLIX
@@ -266,13 +247,12 @@ proxy-groups:
     proxies:
       - 美国
       - 美国云
-      - 🇺🇲 v1|美国|A|3台负载|原生
-      - 🇺🇲 v1|美国|A|disney+|hbo|hulu专用
-      - 🇺🇲 v1|美国|A|6台负载
-      - 🇺🇲 v1|美国|B|5台负载
-      - 🇺🇲 v1|美国|C|3台负载
-      - 🇺🇲 v1|美国|D|4台负载
-      - 🇺🇲 v1|美国|E|6台负载
+      - 🇺🇸 v1|美国|A|3台负载|原生
+      - 🇺🇸 v1|美国|A|6台负载
+      - 🇺🇸 v1|美国|B|5台负载
+      - 🇺🇸 v1|美国|C|3台负载
+      - 🇺🇸 v1|美国|D|4台负载
+      - 🇺🇸 v1|美国|E|6台负载
   - name: 📲 电报消息
     type: select
     proxies:
@@ -391,6 +371,7 @@ proxy-groups:
       - DIRECT
       - 🚀 手动切换
 rules:
+ - DOMAIN-KEYWORD,ftx,♻️ 自动选择
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
@@ -10465,3 +10446,54 @@ rules:
  - PROCESS-NAME,baidunetdisk.exe,🎯 全球直连
  - GEOIP,CN,🎯 全球直连
  - MATCH,🐟 漏网之鱼
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
