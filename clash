@@ -305,22 +305,22 @@ proxy-groups:
   - name: Ⓜ️ 微软云盘
     type: select
     proxies:
-      - 🔯 故障转移
       - DIRECT
+      - 🔯 故障转移
       - 🚀 节点选择
       - 🚀 手动切换
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
-      - 🔯 故障转移
       - DIRECT
+      - 🔯 故障转移
       - 🚀 节点选择
       - 🚀 手动切换
   - name: 🍎 苹果服务
     type: select
     proxies:
-      - 🔯 故障转移
       - 🔮 负载均衡
+      - 🔯 故障转移
       - DIRECT
       - 🚀 节点选择
       - 🚀 手动切换
