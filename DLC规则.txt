@@ -1,4 +1,5 @@
 payload:
+  - '+.sinchew.com.my'
   - '+.spotify.com'
   - '+.adguard-dns.com'
   - '+.freenom.com'
