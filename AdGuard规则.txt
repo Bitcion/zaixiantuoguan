@@ -1,4 +1,3 @@
-
 ||apple-dns.net^$dnstype=AAAA
 ||apple-dns.net^$dnstype=~A|~CNAME
 ||mask-api.icloud.com^$dnstype=AAAA
