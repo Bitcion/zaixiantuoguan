@@ -1,4 +1,3 @@
-/wvvw.*/
 ||apple-dns.net^$dnstype=AAAA
 ||apple-dns.net^$dnstype=~A|~CNAME
 ||mask-api.icloud.com^$dnstype=AAAA
@@ -29,4 +28,5 @@
 ||dw.com^$dnstype=~A|~CNAME
 ||voachinese.com^$dnstype=AAAA
 ||voachinese.com^$dnstype=~A|~CNAME
+/wvvw.*/
 ||adanxing.com^
