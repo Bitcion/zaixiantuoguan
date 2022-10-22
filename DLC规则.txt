@@ -7,4 +7,3 @@ payload:
   - '+.dailyfxasia.com'
   - '+.epochtimes.com'
   - '+.ntdtv.com'
-  - '+.qooqlevideo.com'
