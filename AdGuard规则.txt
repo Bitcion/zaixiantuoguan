@@ -28,4 +28,6 @@
 ||dw.com^$dnstype=~A|~CNAME
 ||voachinese.com^$dnstype=AAAA
 ||voachinese.com^$dnstype=~A|~CNAME
+||rfa.org^$dnstype=AAAA
+||rfa.org^$dnstype=~A|~CNAME
 
