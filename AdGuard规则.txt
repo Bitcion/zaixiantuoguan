@@ -1,3 +1,11 @@
+||rfi.fr^$dnstype=AAAA
+||rfi.fr^$dnstype=~A|~CNAME
+||dw.com^$dnstype=AAAA
+||dw.com^$dnstype=~A|~CNAME
+||voachinese.com^$dnstype=AAAA
+||voachinese.com^$dnstype=~A|~CNAME
+||rfa.org^$dnstype=AAAA
+||rfa.org^$dnstype=~A|~CNAME
 ||apple-dns.net^$dnstype=AAAA
 ||apple-dns.net^$dnstype=~A|~CNAME
 ||mask-api.icloud.com^$dnstype=AAAA
@@ -22,12 +30,4 @@
 ||fast.com^$dnstype=~A|~CNAME
 ||amazonaws.com^$dnstype=AAAA
 ||amazonaws.com^$dnstype=~A|~CNAME
-||rfi.fr^$dnstype=AAAA
-||rfi.fr^$dnstype=~A|~CNAME
-||dw.com^$dnstype=AAAA
-||dw.com^$dnstype=~A|~CNAME
-||voachinese.com^$dnstype=AAAA
-||voachinese.com^$dnstype=~A|~CNAME
-||rfa.org^$dnstype=AAAA
-||rfa.org^$dnstype=~A|~CNAME
 
