@@ -30,4 +30,5 @@
 ||fast.com^$dnstype=~A|~CNAME
 ||amazonaws.com^$dnstype=AAAA
 ||amazonaws.com^$dnstype=~A|~CNAME
-
+||chinadigitaltimes.net^$dnstype=AAAA
+||chinadigitaltimes.net^$dnstype=~A|~CNAME
