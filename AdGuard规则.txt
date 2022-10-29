@@ -32,3 +32,5 @@
 ||amazonaws.com^$dnstype=~A|~CNAME
 ||chinadigitaltimes.net^$dnstype=AAAA
 ||chinadigitaltimes.net^$dnstype=~A|~CNAME
+||chinapress.com.my^$dnstype=AAAA
+||chinapress.com.my^$dnstype=~A|~CNAME
