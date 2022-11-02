@@ -10,3 +10,4 @@ payload:
   - '+.epochtimes.com'
   - '+.ntdtv.com'
   - '+.yahoo.com'
+  - '+.cnyes.com'
