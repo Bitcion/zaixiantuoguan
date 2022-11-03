@@ -11,3 +11,5 @@ payload:
   - '+.ntdtv.com'
   - '+.yahoo.com'
   - '+.cnyes.com'
+  - '+.bing.com'
+  - '+.msn.com'
