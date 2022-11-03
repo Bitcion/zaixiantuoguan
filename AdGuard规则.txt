@@ -34,3 +34,7 @@
 ||chinadigitaltimes.net^$dnstype=~A|~CNAME
 ||chinapress.com.my^$dnstype=AAAA
 ||chinapress.com.my^$dnstype=~A|~CNAME
+||bing.com^$dnstype=AAAA
+||bing.com^$dnstype=~A|~CNAME
+||msn.com^$dnstype=AAAA
+||msn.com^$dnstype=~A|~CNAME
