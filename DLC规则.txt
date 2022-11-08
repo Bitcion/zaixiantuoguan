@@ -13,4 +13,3 @@ payload:
   - '+.cnyes.com'
   - '+.bing.com'
   - '+.msn.com'
-  - '+.marsbit.co'
