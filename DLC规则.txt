@@ -14,4 +14,3 @@ payload:
   - '+.bing.com'
   - '+.msn.com'
   - '+.paxos.com'
-  - '+.marsbit.co'
