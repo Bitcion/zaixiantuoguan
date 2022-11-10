@@ -15,4 +15,3 @@ payload:
   - '+.msn.com'
   - '+.paxos.com'
   - '+.aicoin.com'
-  - '+.mokexapp.co'
