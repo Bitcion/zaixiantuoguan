@@ -15,3 +15,4 @@ payload:
   - '+.msn.com'
   - '+.paxos.com'
   - '+.aicoin.com'
+  - '+.blocktempo.com'
