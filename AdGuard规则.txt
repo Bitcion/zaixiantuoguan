@@ -42,5 +42,7 @@
 ||v2ex.com^$dnstype=~A|~CNAME
 ||paxos.com^$dnstype=AAAA
 ||paxos.com^$dnstype=~A|~CNAME
+||kraken.com^$dnstype=AAAA
+||kraken.com^$dnstype=~A|~CNAME
 ||marsbit.co^$dnstype=AAAA
 ||marsbit.co^$dnstype=~A|~CNAME
