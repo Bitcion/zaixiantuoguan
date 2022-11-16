@@ -16,3 +16,4 @@ payload:
   - '+.paxos.com'
   - '+.aicoin.com'
   - '+.blocktempo.com'
+  - '+.btc.com'
