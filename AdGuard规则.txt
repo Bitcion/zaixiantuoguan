@@ -36,7 +36,7 @@
 ||chinapress.com.my^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=AAAA
 ||bing.com^$dnstype=~A|~CNAME
-||msn.com^$dnstype=AAAA
+
 ||msn.com^$dnstype=~A|~CNAME
 ||v2ex.com^$dnstype=AAAA
 ||v2ex.com^$dnstype=~A|~CNAME
