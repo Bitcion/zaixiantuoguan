@@ -17,4 +17,5 @@ payload:
   - '+.aicoin.com'
   - '+.blocktempo.com'
   - '+.btc.com'
+  - '+.bnbstatic.com'
 
