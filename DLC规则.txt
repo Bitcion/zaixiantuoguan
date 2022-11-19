@@ -18,6 +18,7 @@ payload:
   - '+.blocktempo.com'
   - '+.btc.com'
   - '+.mirror.xyz'
-   
+  - '+.blockchain.com'
+  - '+.blockchain.info'
 
 
