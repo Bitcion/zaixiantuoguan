@@ -20,5 +20,5 @@ payload:
   - '+.mirror.xyz'
   - '+.blockchain.com'
   - '+.blockchain.info'
-
+  - '+.wise.com'
 
