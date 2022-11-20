@@ -21,4 +21,4 @@ payload:
   - '+.blockchain.info'
   - '+.wise.com'
   - '+.uscardforum.com'
-
+  - '+.kraken.com'
