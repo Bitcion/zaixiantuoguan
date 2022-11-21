@@ -1,5 +1,6 @@
 payload:
   - '+.chinapress.com.my'
+  - '+.8world.com'
   - '+.sinchew.com.my'
   - '+.spotify.com'
   - '+.adguard-dns.com'
