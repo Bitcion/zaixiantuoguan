@@ -7,8 +7,6 @@ payload:
   - '+.freenom.com'  
   - '+.paypal.com'
   - '+.dailyfxasia.com'
-  - '+.epochtimes.com'
-  - '+.ntdtv.com'
   - '+.yahoo.com'
   - '+.cnyes.com'
   - '+.bing.com'
@@ -18,8 +16,6 @@ payload:
   - '+.blocktempo.com'
   - '+.btc.com'
   - '+.mirror.xyz'
-  - '+.blockchain.com'
-  - '+.blockchain.info'
   - '+.wise.com'
   - '+.uscardforum.com'
-  - '+.kraken.com'
+ 
