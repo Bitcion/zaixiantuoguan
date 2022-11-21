@@ -19,4 +19,7 @@ payload:
   - '+.wise.com'
   - '+.uscardforum.com'
   - '+.marsbit.co'
+  - '+.epochtimes.com'
+  - '+.ntdtv.com'
+
  
