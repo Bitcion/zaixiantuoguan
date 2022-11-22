@@ -21,6 +21,6 @@ payload:
   - '+.marsbit.co'
   - '+.epochtimes.com'
   - '+.ntdtv.com'
-  - '+.nikkei.com'
+
 
  
