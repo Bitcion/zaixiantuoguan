@@ -28,8 +28,6 @@
 ||nflximg.net^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=AAAA
 ||fast.com^$dnstype=~A|~CNAME
-||amazonaws.com^$dnstype=AAAA
-||amazonaws.com^$dnstype=~A|~CNAME
 ||chinadigitaltimes.net^$dnstype=AAAA
 ||chinadigitaltimes.net^$dnstype=~A|~CNAME
 ||chinapress.com.my^$dnstype=AAAA
