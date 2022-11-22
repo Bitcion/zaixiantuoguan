@@ -46,3 +46,5 @@
 ||paxos.com^$dnstype=~A|~CNAME
 ||marsbit.co^$dnstype=AAAA
 ||marsbit.co^$dnstype=~A|~CNAME
+||sinchew.com.my^$dnstype=AAAA
+||sinchew.com.my^$dnstype=~A|~CNAME
