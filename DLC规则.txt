@@ -21,6 +21,7 @@ payload:
   - '+.marsbit.co'
   - '+.epochtimes.com'
   - '+.ntdtv.com'
+  - '+.yimg.com'
 
 
  
