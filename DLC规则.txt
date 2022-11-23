@@ -7,7 +7,6 @@ payload:
   - '+.freenom.com'  
   - '+.paypal.com'
   - '+.dailyfxasia.com'
-  - '+.yahoo.com'
   - '+.cnyes.com'
   - '+.bing.com'
   - '+.msn.com'
