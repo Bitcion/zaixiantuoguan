@@ -1,26 +1,25 @@
-payload:
-  - '+.chinapress.com.my'
-  - '+.8world.com'
-  - '+.sinchew.com.my'
-  - '+.spotify.com'
-  - '+.adguard-dns.com'
-  - '+.freenom.com'  
-  - '+.paypal.com'
-  - '+.dailyfxasia.com'
-  - '+.cnyes.com'
-  - '+.bing.com'
-  - '+.msn.com'
-  - '+.paxos.com'
-  - '+.aicoin.com'
-  - '+.blocktempo.com'
-  - '+.btc.com'
-  - '+.mirror.xyz'
-  - '+.wise.com'
-  - '+.uscardforum.com'
-  - '+.marsbit.co'
-  - '+.epochtimes.com'
-  - '+.ntdtv.com'
-  - '+.yimg.com'
-  - '+.ftchinese.com'
-  - '+.whatismyipaddress.com'
+.chinapress.com.my
+.8world.com
+.sinchew.com.my
+.spotify.com
+.adguard-dns.com
+.freenom.com  
+.paypal.com
+.dailyfxasia.com
+.cnyes.com
+.bing.com
+.msn.com
+.paxos.com
+.aicoin.com
+.blocktempo.com
+.btc.com
+.mirror.xyz
+.wise.com
+.uscardforum.com
+.marsbit.co
+.epochtimes.com
+.ntdtv.com
+.yimg.com
+.ftchinese.com
+.whatismyipaddress.com
  
