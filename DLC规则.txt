@@ -8,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,dailyfxasia.com
   - DOMAIN-SUFFIX,cnyes.com
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,paxos.com
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,blocktempo.com
