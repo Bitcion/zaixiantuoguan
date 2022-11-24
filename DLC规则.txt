@@ -9,7 +9,6 @@ payload:
   - '+.cnyes.com'
   - '+.paxos.com'
   - '+.aicoin.com'
-  - '+.blocktempo.com'
   - '+.btc.com'
   - '+.mirror.xyz'
   - '+.wise.com'
