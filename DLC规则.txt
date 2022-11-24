@@ -17,4 +17,3 @@ payload:
   - '+.ntdtv.com'
   - '+.yimg.com'
   - '+.ftchinese.com'
-  - '+.bnbstatic.com'
