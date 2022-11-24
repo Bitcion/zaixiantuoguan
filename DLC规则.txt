@@ -14,7 +14,6 @@ payload:
   - '+.mirror.xyz'
   - '+.wise.com'
   - '+.uscardforum.com'
-  - '+.marsbit.co'
   - '+.epochtimes.com'
   - '+.ntdtv.com'
   - '+.yimg.com'
