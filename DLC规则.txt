@@ -13,8 +13,6 @@ payload:
   - '+.mirror.xyz'
   - '+.wise.com'
   - '+.uscardforum.com'
-  - '+.epochtimes.com'
-  - '+.ntdtv.com'
   - '+.yimg.com'
   - '+.ftchinese.com'
   - '+.supremenewyork.com'
