@@ -1,3 +1,5 @@
+||yahoo.com^$dnstype=AAAA
+||yahoo.com^$dnstype=~A|~CNAME
 ||rfi.fr^$dnstype=AAAA
 ||rfi.fr^$dnstype=~A|~CNAME
 ||dw.com^$dnstype=AAAA
