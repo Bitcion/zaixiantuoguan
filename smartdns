@@ -1,16 +1,15 @@
-bind 0.0.0.0:8051 -group china -no-cache -no-dualstack-selection -no-speed-check
-bind 0.0.0.0:8052 -group office -force-qtype-SOA 65 28
+# 8051是国内dns，没必要测速、缓存。8052是可信，只为apple设备屏蔽掉type65就行，全局关闭
+bind 0.0.0.0:8051 -group china -no-cache -no-speed-check
+bind 0.0.0.0:8052 -group office -force-qtype-SOA 65
 
-address /yahoo.com/#6
-address /bing.com/#6
-address /netflix.com/#6
-address /netflix.net/#6
-address /nflxvideo.net/#6
-address /nflxso.net/#6
-address /nflxext.com/#6
-address /nflximg.net/#6
-address /fast.com/#6
-address /apple-dns.net/#6
-address /mask-api.icloud.com/#6
-address /mask.icloud.com/#6
-address /mask-h2.icloud.com/#6
+# 全局关闭IPV4，IPV6双栈IP优化选择策略
+dualstack-ip-selection no
+
+# 测速模式选择（非必要）
+speed-check-mode tcp:443,ping
+
+# gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
+domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
+
+# 舍弃gfwlist域名集的ipv6解析，让流量能顺利进入代理工具
+address /domain-set:gfwlist/#6
