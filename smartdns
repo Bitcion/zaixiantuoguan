@@ -1,4 +1,4 @@
-# 8051是国内dns，没必要测速、缓存。8052是可信，只为apple设备屏蔽掉type65就行，全局关闭
+# 8051是国内dns，没必要测速、缓存。8052是可信，只为apple设备屏蔽掉type65
 bind 0.0.0.0:8051 -group china -no-cache -no-speed-check
 bind 0.0.0.0:8052 -group office -force-qtype-SOA 65
 
