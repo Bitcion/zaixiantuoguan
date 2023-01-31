@@ -18,4 +18,4 @@ payload:
   - '+.yimg.com'
   - '+.ftchinese.com'
   - '+.supremenewyork.com'
-  - '+.chat.openai.com'
+  - '+.openai.com'
