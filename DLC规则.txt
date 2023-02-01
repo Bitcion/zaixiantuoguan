@@ -18,4 +18,4 @@ payload:
   - '+.yimg.com'
   - '+.ftchinese.com'
   - '+.supremenewyork.com'
-  - '+. gaggle.fun'
+  - '+.gaggle.fun'
