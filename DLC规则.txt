@@ -18,3 +18,4 @@ payload:
   - '+.yimg.com'
   - '+.ftchinese.com'
   - '+.supremenewyork.com'
+  - '+.tiktokv.com'
