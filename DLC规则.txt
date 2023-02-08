@@ -18,3 +18,4 @@ payload:
   - '+.epochtimes.com'
   - '+.ntdtv.com'
   - '+.fx168news.com'
+  - '+.8world.com'
