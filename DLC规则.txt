@@ -19,3 +19,4 @@ payload:
   - '+.ftchinese.com'
   - '+.supremenewyork.com'
   - '+.tiktokv.com'
+  - '+.epochtimes.com'
