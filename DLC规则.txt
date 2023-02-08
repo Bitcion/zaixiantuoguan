@@ -17,3 +17,4 @@ payload:
   - '+.tiktokv.com'
   - '+.epochtimes.com'
   - '+.ntdtv.com'
+  - '+.fx168news.com.com'
