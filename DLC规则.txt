@@ -1,8 +1,4 @@
 payload:
-  - '+.chinapress.com.my'
-  - '+.8world.com'
-  - '+.sinchew.com.my'
-  - '+.enanyang.my'
   - '+.spotify.com'
   - '+.freenom.com'  
   - '+.paypal.com'
