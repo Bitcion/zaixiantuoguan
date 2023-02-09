@@ -22,3 +22,4 @@
 ||msn.com^$dnstype=~A|~CNAME
 ||akamaized.net^$dnstype=~A|~CNAME
 @@||ichnaea-web.netflix.com^$important
+@@||ichnaea.netflix.com^$important
