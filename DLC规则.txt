@@ -19,3 +19,4 @@ payload:
   - '+.ntdtv.com'
   - '+.fx168news.com'
   - '+.8world.com'
+  - '+.voi.id'
