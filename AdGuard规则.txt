@@ -3,8 +3,6 @@
 ||dw.com^$dnstype=~A|~CNAME
 ||voachinese.com^$dnstype=~A|~CNAME
 ||rfa.org^$dnstype=~A|~CNAME
-||apple-dns.net^$dnstype=~A|~CNAME
-||mask-api.icloud.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
