@@ -21,3 +21,5 @@ payload:
   - '+.8world.com'
   - '+.voi.id'
   - '+.bcbay.com'
+  - '+.bitcoin.com'
+  - '+.coindesk.com'
