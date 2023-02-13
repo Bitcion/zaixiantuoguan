@@ -26,5 +26,3 @@ payload:
   - '+.yahoo.com'
   - '+.kraken.com'
   - '+.technews.tw'
-  - '+.bnbstatic.com'
-  - '+.bntrace.com'
