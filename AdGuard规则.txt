@@ -20,7 +20,6 @@
 ||marsbit.co^$dnstype=~A|~CNAME
 ||sinchew.com.my^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
-||akamaized.net^$dnstype=~A|~CNAME
 @@||ichnaea-web.netflix.com^$important
 @@||ichnaea.netflix.com^$important
 ||bing123.com^
