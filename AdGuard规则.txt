@@ -23,3 +23,4 @@
 ||akamaized.net^$dnstype=~A|~CNAME
 @@||ichnaea-web.netflix.com^$important
 @@||ichnaea.netflix.com^$important
+||bing123.com^
