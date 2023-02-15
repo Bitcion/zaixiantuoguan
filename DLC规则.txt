@@ -29,4 +29,5 @@ payload:
   - '+.bnbstatic.com'
   - '+.cookielaw.org'
   - '+.doubleclick.net'
+  - 'storage.live.com'
 
