@@ -2,6 +2,17 @@
 bind 0.0.0.0:8051 -group china -no-cache -no-speed-check
 bind 0.0.0.0:8052 -group office -force-qtype-SOA 65
 
+# 推荐的安全DNS
+# Google DNS
+server-https https://dns.google/dns-query -group office
+server-tls 8.8.8.8 -group office
+# Cloudflare DNS
+server 192.168.123.87 -group office
+server-https https://dns.cloudflare.com/dns-query -group office
+server-tls 1.1.1.1 -group office
+# OpenDNS
+server-tls 208.67.222.222 -group office
+
 # 全局关闭IPV4，IPV6双栈IP优化选择策略
 dualstack-ip-selection no
 
@@ -13,3 +24,8 @@ domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
 
 # 舍弃gfwlist域名集的ipv6解析，让代理流量正确进入代理工具
 address /domain-set:gfwlist/#6
+address /wvvw.rfi.fr/#
+address /yahoo.com/#6
+address /bing.com/#6
+address /cn.bing.com/#
+
