@@ -25,9 +25,6 @@ payload:
   - '+.coindesk.com'
   - '+.yahoo.com'
   - '+.kraken.com'
-  - '+.saasexch.com'
-  - '+.bnbstatic.com'
   - '+.bntrace.com'
-  - '+.cookielaw.org'
-  - '+.doubleclick.net'
+
 
