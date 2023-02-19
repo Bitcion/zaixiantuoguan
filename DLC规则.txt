@@ -27,6 +27,7 @@ payload:
   - '+.kraken.com'
   - '+.saasexch.com'
   - '+.bnbstatic.com'
+  - '+.bntrace.com'
   - '+.cookielaw.org'
   - '+.doubleclick.net'
 
