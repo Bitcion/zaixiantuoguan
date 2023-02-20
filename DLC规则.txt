@@ -26,5 +26,6 @@ payload:
   - '+.yahoo.com'
   - '+.kraken.com'
   - '+.bntrace.com'
+  - '+.huobi.com'
 
 
