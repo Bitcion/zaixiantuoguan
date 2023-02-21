@@ -24,7 +24,6 @@ payload:
   - '+.bitcoin.com'
   - '+.coindesk.com'
   - '+.yahoo.com'
-  - '+.kraken.com'
   - '+.bntrace.com'
   - '+.huobi.com'
 
