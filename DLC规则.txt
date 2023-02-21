@@ -25,5 +25,6 @@ payload:
   - '+.yahoo.com'
   - '+.bntrace.com'
   - '+.huobi.com'
+  - '+.wise.com'
 
 
