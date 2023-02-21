@@ -9,7 +9,6 @@ payload:
   - '+.btc.com'
   - '+.marsbit.co'
   - '+.mirror.xyz'
-  - '+.wise.com'
   - '+.uscardforum.com'
   - '+.yimg.com'
   - '+.ftchinese.com'
