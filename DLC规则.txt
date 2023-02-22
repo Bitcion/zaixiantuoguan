@@ -27,6 +27,7 @@ payload:
   - '+.huobi.com'
   - '+.wise.com'
   - '+.fast.com'
+  - '+.cex.io'
 
 
 
