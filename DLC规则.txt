@@ -27,5 +27,6 @@ payload:
   - '+.huobi.com'
   - '+.wise.com'
   - '+.fast.com'
+  - '+.bnbstatic.com'
 
 
