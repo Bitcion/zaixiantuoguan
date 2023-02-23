@@ -11,3 +11,4 @@
 ||marsbit.co^$dnstype=~A|~CNAME
 ||sinchew.com.my^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
+||uscardforum.com^$dnstype=~A|~CNAME
