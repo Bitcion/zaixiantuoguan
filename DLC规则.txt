@@ -28,7 +28,6 @@ payload:
   - '+.wise.com'
   - '+.fast.com'
   - '+.cex.io'
-  - '+.uscardforum.com'
 
 
 
