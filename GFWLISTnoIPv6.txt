@@ -944,7 +944,6 @@
 ||clipfish.de^$dnstype=~A|~CNAME
 ||clips4sale.com^$dnstype=~A|~CNAME
 ||cloakpoint.com^$dnstype=~A|~CNAME
-||cloudflare.com^$dnstype=~A|~CNAME
 ||cloudfront.net^$dnstype=~A|~CNAME
 ||cloudfunctions.net^$dnstype=~A|~CNAME
 ||cloud.mail.ru^$dnstype=~A|~CNAME
