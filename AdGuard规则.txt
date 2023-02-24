@@ -16,5 +16,26 @@
 ||apple-dns.net^$dnstype=~A|~CNAME
 ||mask-canary.icloud.com^$dnstype=~A|~CNAME
 ||mask-h2.icloud.com^$dnstype=~A|~CNAME
+||netflix.com^$dnstype=~A|~CNAME
+||netflix.net^$dnstype=~A|~CNAME
+||netflixdnstest1.com^$dnstype=~A|~CNAME
+||netflixdnstest10.com^$dnstype=~A|~CNAME
+||netflixdnstest2.com^$dnstype=~A|~CNAME
+||netflixdnstest3.com^$dnstype=~A|~CNAME
+||netflixdnstest4.com^$dnstype=~A|~CNAME
+||netflixdnstest5.com^$dnstype=~A|~CNAME
+||netflixdnstest6.com^$dnstype=~A|~CNAME
+||netflixdnstest7.com^$dnstype=~A|~CNAME
+||netflixdnstest8.com^$dnstype=~A|~CNAME
+||netflixdnstest9.com^$dnstype=~A|~CNAME
+||netflixinvestor.com^$dnstype=~A|~CNAME
+||netflixtechblog.com^$dnstype=~A|~CNAME
+||nflxext.com^$dnstype=~A|~CNAME
+||nflximg.com^$dnstype=~A|~CNAME
+||nflximg.net^$dnstype=~A|~CNAME
+||nflxsearch.net^$dnstype=~A|~CNAME
+||nflxso.net^$dnstype=~A|~CNAME
+||nflxvideo.net^$dnstype=~A|~CNAME
+
 
 
