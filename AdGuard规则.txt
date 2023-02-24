@@ -11,3 +11,10 @@
 ||msn.com^$dnstype=~A|~CNAME
 ||uscardforum.com^$dnstype=~A|~CNAME
 ||ichnaea-web.netflix.com^$dnstype=~A|~CNAME
+||mask.icloud.com^$dnstype=~A|~CNAME
+||mask-api.icloud.com^$dnstype=~A|~CNAME
+||apple-dns.net^$dnstype=~A|~CNAME
+||mask-canary.icloud.com^$dnstype=~A|~CNAME
+||mask-h2.icloud.com^$dnstype=~A|~CNAME
+
+
