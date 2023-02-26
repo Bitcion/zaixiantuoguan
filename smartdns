@@ -24,6 +24,7 @@ domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
 
 # 舍弃gfwlist域名集的ipv6解析，让代理流量正确进入代理工具
 address /domain-set:gfwlist/#6
+address /nflxso.com/#6
 address /wvvw.rfi.fr/#
 address /yahoo.com/#6
 address /bing.com/#6
