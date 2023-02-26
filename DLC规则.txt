@@ -28,9 +28,7 @@ payload:
   - '+.wise.com'
   - '+.fast.com'
   - '+.cex.io'
-  - 'login.microsoftonline.com'
-  - 'gateway.bingviz.microsoftapp.net'
-  - 'dealczars.bing-shopping.microsoft-falcon.io'
+
 
 
 
