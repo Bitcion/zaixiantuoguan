@@ -28,6 +28,7 @@ payload:
   - '+.wise.com'
   - '+.fast.com'
   - '+.cex.io'
+  - 'login.microsoftonline.com'
 
 
 
