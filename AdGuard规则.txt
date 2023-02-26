@@ -37,6 +37,8 @@
 ||nflxsearch.net^$dnstype=~A|~CNAME
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
+||cdn.smoot.apple.com^$dnstype=~A|~CNAME
+||api.smoot.apple.cn^$dnstype=~A|~CNAME
 
 
 
