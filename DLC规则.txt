@@ -26,4 +26,5 @@ payload:
   - '*.huobi.com'
   - '*.wise.com'
   - 'cex.io'
+  - 'cointelegraph.com'
 
