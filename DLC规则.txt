@@ -25,5 +25,5 @@ payload:
   - '*.bntrace.com'
   - '*.huobi.com'
   - '*.wise.com'
-  - '*.cex.io'
+  - '+.cex.io'
 
