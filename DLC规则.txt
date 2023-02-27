@@ -1,7 +1,7 @@
 payload:
   - '*.spotify.com'
   - '*.freenom.com'  
-  - '+.paypal.com'
+  - '*.paypal.com'
   - '*.dailyfxasia.com'
   - '*.cnyes.com'
   - '*.aicoin.com'
