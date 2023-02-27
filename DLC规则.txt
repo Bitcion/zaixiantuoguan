@@ -27,5 +27,6 @@ payload:
   - '+.wise.com'
   - '+.cex.io'
   - '+.cointelegraph.com'
+  - '+.forbes.com'  
 
 
