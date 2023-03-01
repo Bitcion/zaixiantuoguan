@@ -4,6 +4,7 @@
 ||chinadigitaltimes.net^$dnstype=~A|~CNAME
 ||chinapress.com.my^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
+||bing.net^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
 ||v2ex.com^$dnstype=~A|~CNAME
 ||kraken.com^$dnstype=~A|~CNAME
