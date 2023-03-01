@@ -13,4 +13,12 @@ jobs:
       - name: Run script
         run: |
           # 在这里写下你要运行的脚本命令，例如
-          sh /root/run_gfwlist.sh
+          cd Bitcion/zaixiantuoguan
+          sh run_gfwlist.sh
+      - name: Commit files
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: "Update GFWList"
+          add: "*.txt"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
