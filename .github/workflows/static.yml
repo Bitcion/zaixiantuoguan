@@ -12,9 +12,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Run script
         run: |
-          # 在这里写下你要运行的脚本命令，例如
-          cd Bitcion/zaixiantuoguan
-          sh run_gfwlist.sh
+          ./run_gfwlist.sh
+
       - name: Commit files
         uses: EndBug/add-and-commit@v7
         with:
