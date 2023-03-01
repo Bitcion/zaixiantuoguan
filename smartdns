@@ -22,11 +22,14 @@ speed-check-mode tcp:443,ping
 # gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
 domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
 
+nameserver /bing.com/office
+nameserver /bing.net/office
+
 # 舍弃gfwlist域名集的ipv6解析，让代理流量正确进入代理工具
 address /domain-set:gfwlist/#6
-address /nflxso.com/#6
-address /wvvw.rfi.fr/#
 address /yahoo.com/#6
-address /bing.com/#6
 address /cn.bing.com/#
+address /bing.com/#6
+address /bing.net/#6
+address /wvvw.rfi.fr/#
 
