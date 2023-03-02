@@ -28,6 +28,5 @@ payload:
   - '+.cex.io'
   - '+.cointelegraph.com'
   - '+.forbes.com'  
-  - 'i.clarity.ms'
 
 
