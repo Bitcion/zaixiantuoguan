@@ -9,7 +9,6 @@ payload:
   - '+.marsbit.co'
   - '+.mirror.xyz'
   - '+.uscardforum.com'
-  - '+.yimg.com'
   - '+.ftchinese.com'
   - '+.supremenewyork.com'
   - '+.tiktokv.com'
