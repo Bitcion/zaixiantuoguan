@@ -20,7 +20,6 @@ payload:
   - '+.bcbay.com'
   - '+.bitcoin.com'
   - '+.coindesk.com'
-  - '+.yahoo.com'
   - '+.bntrace.com'
   - '+.huobi.com'
   - '+.wise.com'
