@@ -1,9 +1,9 @@
 dns:
   enable: true
-  ipv6: true
-  default-nameserver:
-    - 223.5.5.5  
+  ipv6: false
   listen: 0.0.0.0:8053
+  default-nameserver :
+    - 8.8.8.8
   enhanced-mode: redir-host
   # enhanced-mode: redir-host # 或 fake-ip
   # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
@@ -13,12 +13,6 @@ dns:
   # hosts:
   #   '*.clash.dev': 127.0.0.1
   #   'alpha.clash.dev': '::1'
-  # use-hosts: true # 查询 hosts
-  # 配置不使用fake-ip的域名
-  # fake-ip-filter:
-  #   - '+.*'
-  #   - '*.lan'
-  #   - localhost.ptlogin2.qq.com
 
   nameserver:
     - 211.137.191.27
@@ -30,35 +24,37 @@ dns:
     - tls://dns.google
     - https://doh.opendns.com/dns-query
 
-  fallback-filter:                   #回落DNS服务器过滤
-    geoip: true                      #为真时，不匹配为geoip规则的使用fallback返回结果
-    geoip-code: CN                   #geoip匹配区域设定
-    geosite:                         #【Meta专属】设定geosite某分类使用fallback返回结果
-      - gfw
-sniffer:                         #【Meta专属】sniffer域名嗅探器
-  enable: true                   #嗅探开关
-  sniffing:                      #嗅探协议对象：目前支持tls/http
-    - tls
-    - http
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+    domain:
+      - '+.google.com'
+      - '+.googleapis.com'
+      - '+.youtube.com'
+      - '+.appspot.com'
+      - '+.telegram.com'
+      - '+.facebook.com'
+      - '+.twitter.com'
+      - '+.blogger.com'
+      - '+.gmail.com'
+      - '+.gvt1.com'
+
+sniffer:
+  enable: true
+  override-destination: true
+  sniff:
+    http: { ports: [80, 8080] }
+    tls: { ports: [443, 8443] }
   skip-domain:
-    - '*.apple.com'
-    - '*.schwab.com'
-  force-domain:
-    - '*.yahoo.com'
-
-  port-whitelist:
-    - 80
-    - 443
-    - 8000-9000
-
+    #Apple
+    - 'courier.push.apple.com'
+    #mi
+    - 'Mijia Cloud'
 
 tun:
   enable: true
   stack: system
-  dns-hijack:
-    - tcp://8.8.8.8:53 
-    - 8.8.8.8:53    
-    - 8.8.4.4:53   
-    - tcp://[2001:4860:4860::8888]:53        
   auto-route: false
   auto-detect-interface: false
