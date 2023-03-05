@@ -27,5 +27,6 @@ payload:
   - '+.cointelegraph.com'
   - '+.forbes.com'  
   - '+.msn.com' 
+  - '*.yimg.com'
 
 
