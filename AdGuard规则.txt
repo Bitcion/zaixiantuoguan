@@ -1,3 +1,4 @@
+||bingapis.com^$dnstype=~A|~CNAME
 ||azurefd.net^$dnstype=~A|~CNAME
 ||chinadigitaltimes.net^$dnstype=~A|~CNAME
 ||chinapress.com.my^$dnstype=~A|~CNAME
