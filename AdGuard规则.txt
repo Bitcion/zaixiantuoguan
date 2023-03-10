@@ -38,6 +38,8 @@
 ||api.smoot.apple.cn^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoo.net^$dnstype=~A|~CNAME
+||yahooinc.com^$dnstype=~A|~CNAME
+||yahoomedia.net^$dnstype=~A|~CNAME
 
 
 
