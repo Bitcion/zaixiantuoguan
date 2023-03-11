@@ -3,3 +3,4 @@ https://doh.opendns.com/dns-query
 https://[2620:119:35::35]/dns-query
 https://[2620:119:53::53]/dns-query
 tls://dns.google
+tls://dns.opendns.com
