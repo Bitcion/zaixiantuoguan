@@ -1,4 +1,5 @@
 payload:
+  - '+.qooqlevideo.com'
   - '+.spotify.com'
   - '+.freenom.com'  
   - '+.paypal.com'
