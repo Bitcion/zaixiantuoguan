@@ -1,4 +1,3 @@
-||baidu.com^$dnstype=~A|~CNAME
 ||bingapis.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
 ||azurefd.net^$dnstype=~A|~CNAME
