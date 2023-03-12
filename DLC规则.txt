@@ -29,5 +29,5 @@ payload:
   - '+.forbes.com'  
   - '+.msn.com' 
   - '*.yimg.com'
-
+  - '*.blocktempo.com'
 
