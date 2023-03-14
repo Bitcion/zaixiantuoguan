@@ -30,4 +30,5 @@ payload:
   - '+.msn.com' 
   - '*.yimg.com'
   - '*.blocktempo.com'
+  - '*.openai.com'
 
