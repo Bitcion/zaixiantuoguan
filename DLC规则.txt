@@ -1,4 +1,5 @@
 payload:
+  - '+.wise.com'
   - '+.qooqlevideo.com'
   - '+.spotify.com'
   - '+.freenom.com'  
@@ -25,6 +26,6 @@ payload:
   - '+.cointelegraph.com'
   - '+.forbes.com'  
   - '+.msn.com' 
-  - '*.yimg.com'
-  - '*.blocktempo.com'
-  - '*.openai.com'
+  - '+.yimg.com'
+  - '+.blocktempo.com'
+  - '+.openai.com'
