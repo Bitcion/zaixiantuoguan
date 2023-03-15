@@ -32,5 +32,6 @@ payload:
   - '*.blocktempo.com'
   - '*.openai.com'
   - '*.bitfinex.com'
+  - '*.app-measurement.com'
 
 
