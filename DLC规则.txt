@@ -31,7 +31,3 @@ payload:
   - '*.yimg.com'
   - '*.blocktempo.com'
   - '*.openai.com'
-  - '*.app-measurement.com'
-  - '*.appsflyer.com'
-
-
