@@ -8,3 +8,4 @@ payload:
   - '+.ntdtv.com'
   - '+.openai.com'
   - '+.msn.com'
+  - '+.aicoin.com'
