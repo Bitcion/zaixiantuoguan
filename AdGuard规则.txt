@@ -38,7 +38,6 @@
 ||api.smoot.apple.cn^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
-||pan.baidu.com^$dnstype=~A|~CNAME
 
 
 
