@@ -27,3 +27,4 @@ payload:
   - '+.yimg.com'
   - '+.blocktempo.com'
   - '+.openai.com'
+  - '+.msn.com'
