@@ -1,1 +1,2 @@
-epochtimes.com
+payload:
+  - DOMAIN-SUFFIX,aicoin.com
