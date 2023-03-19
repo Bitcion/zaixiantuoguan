@@ -25,6 +25,9 @@
 ||nflxvideo.net^$dnstype=~A|~CNAME
 ||us-west-2.amazonaws.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
+||yahoo.com^$dnstype=~A|~CNAME
+||yahoodns.net^$dnstype=~A|~CNAME
+
 
 
 
