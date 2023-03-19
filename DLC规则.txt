@@ -13,3 +13,4 @@ payload:
   - '+.btc.com'
   - '+.fx168news.com'
   - '+.coindesk.com'
+  - '*.yimg.com'
