@@ -23,6 +23,7 @@
 ||nflxsearch.net^$dnstype=~A|~CNAME
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
-
+||bing.com^$dnstype=~A|~CNAME
+||yahoo.com^$dnstype=~A|~CNAME
 
 
