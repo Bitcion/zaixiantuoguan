@@ -1,14 +1,3 @@
-||fast.com^$dnstype=~A|~CNAME
-||amazonaws.com^$dnstype=~A|~CNAME
-||azurefd.net^$dnstype=~A|~CNAME
-||chinadigitaltimes.net^$dnstype=~A|~CNAME
-||chinapress.com.my^$dnstype=~A|~CNAME
-||v2ex.com^$dnstype=~A|~CNAME
-||kraken.com^$dnstype=~A|~CNAME
-||marsbit.co^$dnstype=~A|~CNAME
-||sinchew.com.my^$dnstype=~A|~CNAME
-||uscardforum.com^$dnstype=~A|~CNAME
-||ichnaea-web.netflix.com^$dnstype=~A|~CNAME
 ||mask.icloud.com^$dnstype=~A|~CNAME
 ||mask-api.icloud.com^$dnstype=~A|~CNAME
 ||apple-dns.net^$dnstype=~A|~CNAME
@@ -34,10 +23,6 @@
 ||nflxsearch.net^$dnstype=~A|~CNAME
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
-||cdn.smoot.apple.com^$dnstype=~A|~CNAME
-||api.smoot.apple.cn^$dnstype=~A|~CNAME
-||yahoo.com^$dnstype=~A|~CNAME
-||yahoodns.net^$dnstype=~A|~CNAME
 
 
 
