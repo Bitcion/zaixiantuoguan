@@ -7,7 +7,6 @@ payload:
   - '+.epochtimes.com'
   - '+.ntdtv.com'
   - '+.openai.com'
-  - '+.msn.com'
   - '+.aicoin.com'
   - '+.dailyfxasia.com' 
   - '+.btc.com'
