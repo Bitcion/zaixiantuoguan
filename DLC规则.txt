@@ -6,4 +6,5 @@ payload:
   - '+.epochtimes.com'
   - '+.ntdtv.com'
   - '+.openai.com'
+  - '+.dailyfxasia.com'
  
