@@ -285,6 +285,7 @@
 ||aniscartujo.com^$dnstype=~A|~CNAME
 ||annatam.com^$dnstype=~A|~CNAME
 ||anobii.com^$dnstype=~A|~CNAME
+||anonfiles.com^$dnstype=~A|~CNAME
 ||anontext.com^$dnstype=~A|~CNAME
 ||anonymitynetwork.com^$dnstype=~A|~CNAME
 ||anonymizer.com^$dnstype=~A|~CNAME
@@ -1080,6 +1081,7 @@
 ||cloakpoint.com^$dnstype=~A|~CNAME
 ||cloud.mail.ru^$dnstype=~A|~CNAME
 ||cloudflare-ipfs.com^$dnstype=~A|~CNAME
+||cloudfunctions.net^$dnstype=~A|~CNAME
 ||club1069.com^$dnstype=~A|~CNAME
 ||clubhouseapi.com^$dnstype=~A|~CNAME
 ||clyp.it^$dnstype=~A|~CNAME
@@ -1412,7 +1414,6 @@
 ||dowei.org^$dnstype=~A|~CNAME
 ||download.aircrack-ng.org^$dnstype=~A|~CNAME
 ||download.cnet.com^$dnstype=~A|~CNAME
-||download.ithome.com.tw^$dnstype=~A|~CNAME
 ||dphk.org^$dnstype=~A|~CNAME
 ||dpp.org.tw^$dnstype=~A|~CNAME
 ||dpr.info^$dnstype=~A|~CNAME
@@ -2870,6 +2871,7 @@
 ||italiatibet.org^$dnstype=~A|~CNAME
 ||itasoftware.com^$dnstype=~A|~CNAME
 ||itemdb.com^$dnstype=~A|~CNAME
+||itemfix.com^$dnstype=~A|~CNAME
 ||ithelp.ithome.com.tw^$dnstype=~A|~CNAME
 ||its.caltech.edu^$dnstype=~A|~CNAME
 ||itsaol.com^$dnstype=~A|~CNAME
@@ -3117,6 +3119,7 @@
 ||le-vpn.com^$dnstype=~A|~CNAME
 ||leafyvpn.net^$dnstype=~A|~CNAME
 ||lecloud.net^$dnstype=~A|~CNAME
+||ledger.com^$dnstype=~A|~CNAME
 ||leeao.com.cn^$dnstype=~A|~CNAME
 ||lefora.com^$dnstype=~A|~CNAME
 ||left21.hk^$dnstype=~A|~CNAME
@@ -3827,6 +3830,7 @@
 ||old-cat.net^$dnstype=~A|~CNAME
 ||old.honeynet.org^$dnstype=~A|~CNAME
 ||old.nabble.com^$dnstype=~A|~CNAME
+||olehdtv.com^$dnstype=~A|~CNAME
 ||olevod.com^$dnstype=~A|~CNAME
 ||olumpo.com^$dnstype=~A|~CNAME
 ||olympicwatch.org^$dnstype=~A|~CNAME
