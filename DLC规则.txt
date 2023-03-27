@@ -7,4 +7,5 @@ payload:
   - '+.ntdtv.com'
   - '+.openai.com'
   - '+.dailyfxasia.com'
+  - '+.8world.com'
  
