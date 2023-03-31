@@ -1,5 +1,4 @@
 payload:
-  - '+.avgle.com'
   - '+.spotify.com'
   - '+.freenom.com'  
   - '+.supremenewyork.com'
