@@ -1,5 +1,5 @@
 payload:
-  - '+.qooqlevideo.com'
+  - '+.avgle.com'
   - '+.spotify.com'
   - '+.freenom.com'  
   - '+.supremenewyork.com'
