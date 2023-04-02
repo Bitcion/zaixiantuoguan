@@ -7,5 +7,4 @@ payload:
   - '+.openai.com'
   - '+.dailyfxasia.com'
   - '+.8world.com'
-  - '+.gateway.messenger.live.com'
  
