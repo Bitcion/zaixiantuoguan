@@ -29,6 +29,7 @@
 ||yahoodns.net^$dnstype=~A|~CNAME
 ||yimg.com^$dnstype=~A|~CNAME
 ||bingapis.com^$dnstype=~A|~CNAME
+||microsoft-falcon.io^$dnstype=~A|~CNAME
 
 
 
