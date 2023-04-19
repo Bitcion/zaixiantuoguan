@@ -4,7 +4,6 @@ payload:
   - '+.supremenewyork.com'
   - '+.epochtimes.com'
   - '+.ntdtv.com'
-  - '+.openai.com'
   - '+.dailyfxasia.com'
   - '+.8world.com'
  
