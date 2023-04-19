@@ -2,8 +2,6 @@ payload:
   - '+.spotify.com'
   - '+.freenom.com'  
   - '+.supremenewyork.com'
-  - '+.epochtimes.com'
-  - '+.ntdtv.com'
   - '+.dailyfxasia.com'
   - '+.8world.com'
  
