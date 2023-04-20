@@ -31,6 +31,7 @@
 ||bingapis.com^$dnstype=~A|~CNAME
 ||microsoft-falcon.io^$dnstype=~A|~CNAME
 ||rfi.fr^$dnstype=~A|~CNAME
+||rfa.org^$dnstype=~A|~CNAME
 ||voachinese.com^$dnstype=~A|~CNAME
 ||nikkei.com^$dnstype=~A|~CNAME
 ||epochtimes.com^$dnstype=~A|~CNAME
