@@ -41,6 +41,7 @@
 ||ftchinese.com^$dnstype=~A|~CNAME
 ||sinchew.com.my^$dnstype=~A|~CNAME
 ||51.ca^$dnstype=~A|~CNAME
+||chinapress.com.my^$dnstype=~A|~CNAME
 
 
 
