@@ -32,7 +32,13 @@
 ||microsoft-falcon.io^$dnstype=~A|~CNAME
 ||rfi.fr^$dnstype=~A|~CNAME
 ||voachinese.com^$dnstype=~A|~CNAME
-||voachinese.com^$dnstype=~A|~CNAME
+||nikkei.com^$dnstype=~A|~CNAME
+||epochtimes.com^$dnstype=~A|~CNAME
+||soundofhope.org^$dnstype=~A|~CNAME
+||ntdtv.com^$dnstype=~A|~CNAME
+||secretchina.com^$dnstype=~A|~CNAME
+||ftchinese.com^$dnstype=~A|~CNAME
+||sinchew.com.my^$dnstype=~A|~CNAME
 
 
 
