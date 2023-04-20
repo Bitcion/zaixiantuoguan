@@ -30,7 +30,9 @@
 ||yimg.com^$dnstype=~A|~CNAME
 ||bingapis.com^$dnstype=~A|~CNAME
 ||microsoft-falcon.io^$dnstype=~A|~CNAME
-
+||rfi.fr^$dnstype=~A|~CNAME
+||voachinese.com^$dnstype=~A|~CNAME
+||voachinese.com^$dnstype=~A|~CNAME
 
 
 
