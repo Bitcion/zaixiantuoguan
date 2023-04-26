@@ -44,6 +44,7 @@
 ||chinapress.com.my^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||dw.com^$dnstype=~A|~CNAME
+||chinadigitaltimes.net^$dnstype=~A|~CNAME
 
 
 
