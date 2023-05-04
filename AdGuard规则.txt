@@ -44,6 +44,8 @@
 ||openai.com^$dnstype=~A|~CNAME
 ||dw.com^$dnstype=~A|~CNAME
 ||chinadigitaltimes.net^$dnstype=~A|~CNAME
+||ipinfo.io^$dnstype=~A|~CNAME
+||spotify.com^$dnstype=~A|~CNAME
 
 
 
