@@ -43,6 +43,7 @@
 ||dw.com^$dnstype=~A|~CNAME
 ||ipinfo.io^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
+||ntdtv.com^$dnstype=~A|~CNAME
 
 
 
