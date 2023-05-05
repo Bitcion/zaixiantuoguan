@@ -33,9 +33,7 @@
 ||rfa.org^$dnstype=~A|~CNAME
 ||voachinese.com^$dnstype=~A|~CNAME
 ||nikkei.com^$dnstype=~A|~CNAME
-||epochtimes.com^$dnstype=~A|~CNAME
 ||soundofhope.org^$dnstype=~A|~CNAME
-||ntdtv.com^$dnstype=~A|~CNAME
 ||secretchina.com^$dnstype=~A|~CNAME
 ||ftchinese.com^$dnstype=~A|~CNAME
 ||sinchew.com.my^$dnstype=~A|~CNAME
@@ -43,7 +41,6 @@
 ||chinapress.com.my^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||dw.com^$dnstype=~A|~CNAME
-||chinadigitaltimes.net^$dnstype=~A|~CNAME
 ||ipinfo.io^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
 
