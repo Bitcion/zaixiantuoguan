@@ -6,4 +6,5 @@ payload:
   - '+.8world.com'
   - '+.chinapress.com.my'
   - '+.ipinfo.io'
+  - '34.117.59.81/32'
 
