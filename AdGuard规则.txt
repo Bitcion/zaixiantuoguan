@@ -40,6 +40,7 @@
 ||51.ca^$dnstype=~A|~CNAME
 ||chinapress.com.my^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
+||chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 ||dw.com^$dnstype=~A|~CNAME
 ||ipinfo.io^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
