@@ -23,28 +23,18 @@
 ||nflxsearch.net^$dnstype=~A|~CNAME
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
+||spotify.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
+||openai.com^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
 ||yimg.com^$dnstype=~A|~CNAME
-||bingapis.com^$dnstype=~A|~CNAME
-||microsoft-falcon.io^$dnstype=~A|~CNAME
 ||rfi.fr^$dnstype=~A|~CNAME
 ||rfa.org^$dnstype=~A|~CNAME
 ||voachinese.com^$dnstype=~A|~CNAME
-||nikkei.com^$dnstype=~A|~CNAME
-||soundofhope.org^$dnstype=~A|~CNAME
-||secretchina.com^$dnstype=~A|~CNAME
-||ftchinese.com^$dnstype=~A|~CNAME
-||sinchew.com.my^$dnstype=~A|~CNAME
-||51.ca^$dnstype=~A|~CNAME
-||chinapress.com.my^$dnstype=~A|~CNAME
-||openai.com^$dnstype=~A|~CNAME
-||chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 ||dw.com^$dnstype=~A|~CNAME
-||ipinfo.io^$dnstype=~A|~CNAME
-||spotify.com^$dnstype=~A|~CNAME
-||ntdtv.com^$dnstype=~A|~CNAME
+
+
 
 
 
