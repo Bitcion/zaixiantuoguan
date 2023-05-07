@@ -29,10 +29,6 @@
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
 ||yimg.com^$dnstype=~A|~CNAME
-||rfi.fr^$dnstype=~A|~CNAME
-||rfa.org^$dnstype=~A|~CNAME
-||voachinese.com^$dnstype=~A|~CNAME
-||dw.com^$dnstype=~A|~CNAME
 
 
 
