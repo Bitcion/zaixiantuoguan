@@ -29,7 +29,7 @@
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
 ||yimg.com^$dnstype=~A|~CNAME
-||chinapress.com.my^$dnstype=~A|~CNAME
+
 
 
 
