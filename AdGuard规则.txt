@@ -27,7 +27,6 @@
 ||bing.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||ios.chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
-||sentry.io^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
 ||yimg.com^$dnstype=~A|~CNAME
