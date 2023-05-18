@@ -5,4 +5,4 @@ payload:
   - '+.dailyfxasia.com'
   - '+.8world.com'
   - '+.chinapress.com.my'
-  - '+.ftchinese.com'
+
