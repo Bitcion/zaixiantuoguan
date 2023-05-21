@@ -2665,6 +2665,7 @@
 ||huaxiabao.org^$dnstype=~A|~CNAME
 ||huaxin.ph^$dnstype=~A|~CNAME
 ||huayuworld.org^$dnstype=~A|~CNAME
+||hub.docker.com^$dnstype=~A|~CNAME
 ||hudatoriq.web.id^$dnstype=~A|~CNAME
 ||hudson.org^$dnstype=~A|~CNAME
 ||huffingtonpost.com^$dnstype=~A|~CNAME
@@ -3924,6 +3925,7 @@
 ||pacopacomama.com^$dnstype=~A|~CNAME
 ||padmanet.com^$dnstype=~A|~CNAME
 ||page.bid.yahoo.com^$dnstype=~A|~CNAME
+||page.link^$dnstype=~A|~CNAME
 ||page2rss.com^$dnstype=~A|~CNAME
 ||pages.dev^$dnstype=~A|~CNAME
 ||pagodabox.com^$dnstype=~A|~CNAME
@@ -4067,6 +4069,7 @@
 ||podbean.com^$dnstype=~A|~CNAME
 ||podcast.co^$dnstype=~A|~CNAME
 ||podictionary.com^$dnstype=~A|~CNAME
+||poe.com^$dnstype=~A|~CNAME
 ||pokerstars.com^$dnstype=~A|~CNAME
 ||pokerstars.net^$dnstype=~A|~CNAME
 ||politicalchina.org^$dnstype=~A|~CNAME
