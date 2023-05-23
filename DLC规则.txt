@@ -5,4 +5,5 @@ payload:
   - '+.dailyfxasia.com'
   - '+.8world.com'
   - '+.chinapress.com.my'
+  - '+.nikkei.com'
 
