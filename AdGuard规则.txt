@@ -24,6 +24,7 @@
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
 ||yimg.com^$dnstype=~A|~CNAME
+||ios.chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 
 
 
