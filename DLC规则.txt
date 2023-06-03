@@ -6,4 +6,5 @@ payload:
   - '+.8world.com'
   - '+.chinapress.com.my'
   - '+.cex.io'
+  - '+.forbes.com'
 
