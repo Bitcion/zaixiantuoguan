@@ -20,6 +20,7 @@
 ||nflxvideo.net^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
+||bing.net^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
 ||yahoo.net^$dnstype=~A|~CNAME
