@@ -7,4 +7,5 @@ payload:
   - '+.chinapress.com.my'
   - '+.cex.io'
   - '+.forbes.com'
+  - '+.paxos.com'
 
