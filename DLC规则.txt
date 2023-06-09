@@ -9,4 +9,5 @@ payload:
   - '+.forbes.com'
   - '+.paxos.com'
   - '+.abmedia.io'
+  - '+.uscardforum.com'
 
