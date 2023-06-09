@@ -8,4 +8,5 @@ payload:
   - '+.cex.io'
   - '+.forbes.com'
   - '+.paxos.com'
+  - '+.abmedia.io'
 
