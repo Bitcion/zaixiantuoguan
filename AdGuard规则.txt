@@ -19,6 +19,8 @@
 ||nflxsearch.net^$dnstype=~A|~CNAME
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
+||mask-api.icloud.com^$dnstype=~A|~CNAME
+||mask-api.fe.apple-dns.net^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
