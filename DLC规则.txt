@@ -11,4 +11,5 @@ payload:
   - '+.abmedia.io'
   - '+.aicoin.com'
   - '+.uscardforum.com'
+  - '+.ftchinese.com'
 
