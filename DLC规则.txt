@@ -12,4 +12,5 @@ payload:
   - '+.aicoin.com'
   - '+.uscardforum.com'
   - '+.ftchinese.com'
+  - '+.coindesk.com'
 
