@@ -13,4 +13,5 @@ payload:
   - '+.uscardforum.com'
   - '+.ftchinese.com'
   - '+.coindesk.com'
+  - '+.cointelegraph.com'
 
