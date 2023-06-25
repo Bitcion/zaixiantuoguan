@@ -14,5 +14,4 @@ payload:
   - '+.ftchinese.com'
   - '+.coindesk.com'
   - '+.cointelegraph.com'
-  - '+.schwab.com'
 
