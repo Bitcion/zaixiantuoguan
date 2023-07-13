@@ -44,3 +44,4 @@
 ||yimg.com^$dnstype=~A|~CNAME
 ||yimg.jp^$dnstype=~A|~CNAME
 ||ymail.com^$dnstype=~A|~CNAME
+||claude.ai^$dnstype=~A|~CNAME
