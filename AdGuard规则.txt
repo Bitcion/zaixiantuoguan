@@ -1,3 +1,4 @@
+||rfi.fr^$dnstype=~A|~CNAME
 ||us-west-2.elb.amazonaws.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
