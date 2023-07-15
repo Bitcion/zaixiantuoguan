@@ -45,3 +45,4 @@
 ||yimg.jp^$dnstype=~A|~CNAME
 ||ymail.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
+||anthropic.com^$dnstype=~A|~CNAME
