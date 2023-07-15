@@ -15,3 +15,4 @@ payload:
   - '+.coindesk.com'
   - '+.cointelegraph.com'
   - '+.claude.ai'
+  - '+.anthropic.com'
