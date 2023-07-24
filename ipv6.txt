@@ -2382,6 +2382,7 @@
 ||greenreadings.com^$dnstype=~A|~CNAME
 ||greenvpn.net^$dnstype=~A|~CNAME
 ||greenvpn.org^$dnstype=~A|~CNAME
+||grindr.com^$dnstype=~A|~CNAME
 ||grotty-monday.com^$dnstype=~A|~CNAME
 ||groups.google.cn^$dnstype=~A|~CNAME
 ||grow.google^$dnstype=~A|~CNAME
@@ -2778,6 +2779,7 @@
 ||imdb.com^$dnstype=~A|~CNAME
 ||img.dlsite.jp^$dnstype=~A|~CNAME
 ||img.ly^$dnstype=~A|~CNAME
+||imgasd.com^$dnstype=~A|~CNAME
 ||imgchili.net^$dnstype=~A|~CNAME
 ||imgmega.com^$dnstype=~A|~CNAME
 ||imgur.com^$dnstype=~A|~CNAME
@@ -5900,6 +5902,7 @@
 ||xiaohexie.com^$dnstype=~A|~CNAME
 ||xiaolan.me^$dnstype=~A|~CNAME
 ||xiaoma.org^$dnstype=~A|~CNAME
+||xiaomi.eu^$dnstype=~A|~CNAME
 ||xiaxiaoqiang.net^$dnstype=~A|~CNAME
 ||xiezhua.com^$dnstype=~A|~CNAME
 ||xihua.es^$dnstype=~A|~CNAME
