@@ -16,3 +16,4 @@ payload:
   - '+.cointelegraph.com'
   - '+.claude.ai'
   - '+.anthropic.com'
+  - '+.blocktempo.com'
