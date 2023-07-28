@@ -1,4 +1,7 @@
-https://dns.google/dns-query
-https://doh.opendns.com/dns-query
+h3://dns.google/dns-query
 tls://dns.google
+https://doh.opendns.com/dns-query
 tls://dns.opendns.com
+h3://cloudflare-dns.com/dns-query
+quic://dns.adguard-dns.com
+quic://dns.east.comss.one
