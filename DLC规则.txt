@@ -17,4 +17,4 @@ payload:
   - '+.claude.ai'
   - '+.anthropic.com'
   - '+.blocktempo.com'
-  - '+.jscdn.cn'
+  - '+.1drv.com'
