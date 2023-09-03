@@ -18,4 +18,4 @@ payload:
   - '+.anthropic.com'
   - '+.blocktempo.com'
   - '+.1drv.com'
-  - '+.nikkei.com'
+  - '+.doubleclick.net'
