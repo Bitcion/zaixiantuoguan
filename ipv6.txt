@@ -2083,6 +2083,7 @@
 ||goagent.codeplex.com^$dnstype=~A|~CNAME
 ||goagentplus.com^$dnstype=~A|~CNAME
 ||gobet.cc^$dnstype=~A|~CNAME
+||godaddy.com^$dnstype=~A|~CNAME
 ||godfootsteps.org^$dnstype=~A|~CNAME
 ||godns.work^$dnstype=~A|~CNAME
 ||godoc.org^$dnstype=~A|~CNAME
