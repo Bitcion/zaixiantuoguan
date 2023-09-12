@@ -5,3 +5,4 @@ tls://dns.opendns.com
 h3://cloudflare-dns.com/dns-query
 quic://dns.adguard-dns.com
 quic://dns.east.comss.one
+h3://doh-jp.blahdns.com/dns-query
