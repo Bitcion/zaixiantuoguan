@@ -103,7 +103,6 @@
 ||6parkbbs.com^$dnstype=~A|~CNAME
 ||6parker.com^$dnstype=~A|~CNAME
 ||6parknews.com^$dnstype=~A|~CNAME
-||7-zip.org^$dnstype=~A|~CNAME
 ||7capture.com^$dnstype=~A|~CNAME
 ||7cow.com^$dnstype=~A|~CNAME
 ||8-d.com^$dnstype=~A|~CNAME
@@ -1062,6 +1061,7 @@
 ||civilhrfront.org^$dnstype=~A|~CNAME
 ||civiliangunner.com^$dnstype=~A|~CNAME
 ||civilmedia.tw^$dnstype=~A|~CNAME
+||civitai.com^$dnstype=~A|~CNAME
 ||ck101.com^$dnstype=~A|~CNAME
 ||cl.d0z.net^$dnstype=~A|~CNAME
 ||clarionproject.org^$dnstype=~A|~CNAME
@@ -3148,6 +3148,7 @@
 ||lflinkup.org^$dnstype=~A|~CNAME
 ||lhakar.org^$dnstype=~A|~CNAME
 ||lhasocialwork.org^$dnstype=~A|~CNAME
+||li.taipei^$dnstype=~A|~CNAME
 ||liangyou.net^$dnstype=~A|~CNAME
 ||liangzhichuanmei.com^$dnstype=~A|~CNAME
 ||lianyue.net^$dnstype=~A|~CNAME
@@ -3461,6 +3462,7 @@
 ||mondex.org^$dnstype=~A|~CNAME
 ||money-link.com.tw^$dnstype=~A|~CNAME
 ||moneyhome.biz^$dnstype=~A|~CNAME
+||monica.im^$dnstype=~A|~CNAME
 ||monitorchina.org^$dnstype=~A|~CNAME
 ||monocloud.me^$dnstype=~A|~CNAME
 ||monster.com^$dnstype=~A|~CNAME
@@ -3930,7 +3932,6 @@
 ||page.bid.yahoo.com^$dnstype=~A|~CNAME
 ||page.link^$dnstype=~A|~CNAME
 ||page2rss.com^$dnstype=~A|~CNAME
-||pages.dev^$dnstype=~A|~CNAME
 ||pagodabox.com^$dnstype=~A|~CNAME
 ||palacemoon.com^$dnstype=~A|~CNAME
 ||paldengyal.com^$dnstype=~A|~CNAME
@@ -5166,7 +5167,6 @@
 ||tradingview.com^$dnstype=~A|~CNAME
 ||trans.wenweipo.com^$dnstype=~A|~CNAME
 ||translate.goog^$dnstype=~A|~CNAME
-||translate.google^$dnstype=~A|~CNAME
 ||transparency.org^$dnstype=~A|~CNAME
 ||treemall.com.tw^$dnstype=~A|~CNAME
 ||trendsmap.com^$dnstype=~A|~CNAME
@@ -5565,7 +5565,6 @@
 ||voxer.com^$dnstype=~A|~CNAME
 ||voy.com^$dnstype=~A|~CNAME
 ||vpn.ac^$dnstype=~A|~CNAME
-||vpn.cjb.net^$dnstype=~A|~CNAME
 ||vpn.cmu.edu^$dnstype=~A|~CNAME
 ||vpn.sv.cmu.edu^$dnstype=~A|~CNAME
 ||vpn4all.com^$dnstype=~A|~CNAME
