@@ -1,6 +1,4 @@
-||us-west-2.elb.amazonaws.com^$dnstype=~A|~CNAME
-||elb.us-west-2.amazonaws.com^$dnstype=~A|~CNAME
-||elb.amazonaws.com^$dnstype=~A|~CNAME
+||amazonaws.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
