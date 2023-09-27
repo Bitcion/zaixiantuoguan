@@ -19,13 +19,8 @@
 ||nflxsearch.net^$dnstype=~A|~CNAME
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
-||mask.icloud.com^$dnstype=~A|~CNAME
-||mask.apple-dns.net^$dnstype=~A|~CNAME
-||mask-canary.icloud.com^$dnstype=~A|~CNAME
-||canary.mask.apple-dns.net^$dnstype=~A|~CNAME
-||mask-h2.icloud.com^$dnstype=~A|~CNAME
-||mask-t.apple-dns.net^$dnstype=~A|~CNAME
-||mask-api.icloud.com^$dnstype=~A|~CNAME
+||icloud.com^$dnstype=~A|~CNAME
+||apple-dns.net^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
