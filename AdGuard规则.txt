@@ -19,8 +19,6 @@
 ||nflxsearch.net^$dnstype=~A|~CNAME
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
-||icloud.com^$dnstype=~A|~CNAME
-||apple-dns.net^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
@@ -46,4 +44,4 @@
 ||ymail.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
-||dns.apple.com^$dnstype=~A|~CNAME
+
