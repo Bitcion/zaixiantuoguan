@@ -19,5 +19,5 @@ payload:
   - '+.blocktempo.com'
   - '+.1drv.com'
   - '+.doubleclick.net'
-  - '+.dota2.com'
+
 
