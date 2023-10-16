@@ -44,4 +44,8 @@
 ||ymail.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
+||bingapis.com^$dnstype=~A|~CNAME
+||bingviz.com^$dnstype=~A|~CNAME
+||microsoftapp.net^$dnstype=~A|~CNAME
+||microsoft-falcon.io^$dnstype=~A|~CNAME
 
