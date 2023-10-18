@@ -14,8 +14,6 @@ payload:
   - '+.ftchinese.com'
   - '+.coindesk.com'
   - '+.cointelegraph.com'
-  - '+.claude.ai'
-  - '+.anthropic.com'
   - '+.blocktempo.com'
   - '+.1drv.com'
   - '+.doubleclick.net'
