@@ -17,7 +17,5 @@ payload:
   - '+.blocktempo.com'
   - '+.1drv.com'
   - '+.doubleclick.net'
-  - '+.anthropic.com'
-  - 'cdn.usefathom.com'
 
 
