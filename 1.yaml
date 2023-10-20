@@ -161,8 +161,8 @@ rules:
  - DOMAIN-SUFFIX,ntdtv.com,🎥 流媒体
  - DOMAIN-SUFFIX,gateway.messenger.live.com,🚀 手动切换
  - GEOSITE,openai,🎥 流媒体
- - GEOSITE,claude,🚀 手动切换
- - GEOSITE,bing,🚀 手动切换
+ - GEOSITE,claude,🎥 流媒体
+ - GEOSITE,bing,♻️ 自动选择
  - GEOSITE,msn,♻️ 自动选择
  - GEOSITE,yahoo,🎥 流媒体,no-resolve
  - GEOSITE,github,🚀 节点选择
