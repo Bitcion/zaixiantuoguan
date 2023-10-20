@@ -2,8 +2,8 @@ port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
-log-level: info
-external-controller: 127.0.0.1:9090
+log-level: silent
+external-controller: '0.0.0.0:9090'
 ipv6: true
 proxy-providers:
  备用:
@@ -160,11 +160,11 @@ rules:
  - DOMAIN-SUFFIX,epochtimes.com,🎥 流媒体
  - DOMAIN-SUFFIX,ntdtv.com,🎥 流媒体
  - DOMAIN-SUFFIX,gateway.messenger.live.com,🚀 手动切换
- - GEOSITE,openai,🎥 流媒体
- - GEOSITE,claude,🎥 流媒体
- - GEOSITE,bing,♻️ 自动选择
+ - GEOSITE,openai,🚀 手动切换
+ - GEOSITE,claude,🚀 手动切换
+ - GEOSITE,bing,🚀 手动切换
  - GEOSITE,msn,♻️ 自动选择
- - GEOSITE,yahoo,🎥 流媒体,no-resolve
+ - GEOSITE,yahoo,🎥 流媒体
  - GEOSITE,github,🚀 节点选择
  - GEOIP,TELEGRAM,📲 电报消息,no-resolve
  - GEOIP,gfw,🚀 节点选择,no-resolve 
@@ -194,3 +194,4 @@ rules:
  - GEOSITE,category-games,🎮 游戏平台
  - GEOIP,cn,🎯 全球直连,no-resolve
  - MATCH,🐟 漏网之鱼
+
