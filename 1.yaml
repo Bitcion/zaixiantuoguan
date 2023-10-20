@@ -1,0 +1,195 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+ipv6: true
+proxy-providers:
+ 备用:
+   type: http
+   path: ./profiles/proxies/mx.yaml
+   url: https://www.mxssr1.top/link/NKZ6laRQAsmEOMbv?clash=1
+   filter: '韩国|vip1'
+   interval: 86400
+   health-check:
+     enable: true
+     url: http://www.gstatic.com/generate_204
+     interval: 300
+ 机场:
+   type: http
+   path: ./profiles/proxies/clash.yaml
+   url: https://www.mxssr1.top/link/NKZ6laRQAsmEOMbv?clash=1
+   exclude-filter: '韩国|vip1'
+   interval: 86400
+   health-check:
+     enable: true
+     url: http://www.gstatic.com/generate_204
+     interval: 300
+ CCCloud:
+   type: http
+   path: ./profiles/proxies/cccloud.yaml
+   url: https://suo.yt/Oa3I8zB
+   health-check:
+     enable: true
+     url: http://www.gstatic.com/generate_204
+     interval: 300
+proxies:
+  - {name: 美转, server: xn--94q649dc94a.com, port: 80, type: vmess, uuid: 31e4ca7f-4086-4b94-815e-3ed1d212f0a1, alterId: 0, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gfw.406373620.cf}}, udp: true}
+  - {name: 台湾, server: 406373620.cf, port: 80, type: vmess, uuid: 31e4ca7f-4086-4b94-815e-3ed1d212f0a1, alterId: 0, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 406373620.cf}}, udp: true}
+  - {name: 台美, server: 104.19.61.81, port: 80, type: vmess, uuid: 31e4ca7f-4086-4b94-815e-3ed1d212f0a1, alterId: 0, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 406373620.cf}}, udp: true}
+  - {name: 美台, server: 5.252.26.62, port: 80, type: vmess, uuid: 31e4ca7f-4086-4b94-815e-3ed1d212f0a1, alterId: 0, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: padavan.cf}}, udp: true}
+  - {name: 美国, server: 92.223.116.254, port: 80, type: vmess, uuid: 31e4ca7f-4086-4b94-815e-3ed1d212f0a1, alterId: 0, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: padavan.cf}}, udp: true}
+  - {name: 美国Oracle, server: 152.67.230.20, port: 80, type: vmess, uuid: 31e4ca7f-4086-4b94-815e-3ed1d212f0a1, alterId: 0, cipher: chacha20-poly1305, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: new.vip.weibo.cn}}, udp: true}
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - 🔯 故障转移
+      - 🚀 手动切换
+      - DIRECT
+  - name: 🚀 手动切换
+    type: select
+    use:
+      - 备用
+      - 机场
+      - CCCloud
+    proxies:
+      - 🔯 故障转移 
+      - 台湾
+      - 美国Oracle
+      - DIRECT
+  - name: ♻️ 自动选择
+    type: url-test
+    url: https://www.google.com/generate_204 
+    interval: 300
+    tolerance: 50
+    use:
+      - 机场
+    proxies:
+      - 🔯 故障转移
+  - name: 🔯 故障转移
+    type: fallback
+    url: http://edge.microsoft.com/captiveportal/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+      - 机场
+      - 备用
+    proxies:
+      - 美国Oracle
+      - 美国     
+      - 美台
+      - 台湾
+      - 美转
+      - 台美 
+  - name: 🔮 负载均衡
+    type: load-balance
+    strategy: round-robin
+    url: http://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 500
+    proxies:
+      - 美国    
+      - 美台     
+      - 台湾
+      - 美转
+      - 台美
+  - name: 📲 电报消息
+    type: select
+    proxies:
+      - 🔮 负载均衡    
+      - 🔯 故障转移      
+      - 🚀 手动切换
+      - 🚀 节点选择
+  - name: 🎥 流媒体
+    type: select
+    proxies:
+      - 🔮 负载均衡
+      - 🚀 手动切换
+      - 🔯 故障转移    
+  - name: 苹果服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - 🚀 手动切换
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - 🚀 手动切换
+  - name: 🎮 游戏平台
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 手动切换
+      - 🔮 负载均衡
+      - 🚀 节点选择
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 手动切换
+      - 🔯 故障转移
+rule-providers:
+  DLC规则:
+    type: http
+    behavior: domain
+    url: "https://bitcion.github.io/zaixiantuoguan/DLC规则.txt"
+    path: ./ruleset/DLC规则.yaml
+    interval: 259200
+
+rules:
+ - RULE-SET,DLC规则,🚀 手动切换
+ - GEOSITE,Netflix,🎥 流媒体
+ - GEOSITE,primevideo,🚀 手动切换
+ - DOMAIN-SUFFIX,ipinfo.io,🚀 手动切换
+ - GEOSITE,tiktok,🔯 故障转移
+ - GEOIP,tiktok,🔯 故障转移,no-resolve
+ - DOMAIN-SUFFIX,epochtimes.com,🎥 流媒体
+ - DOMAIN-SUFFIX,ntdtv.com,🎥 流媒体
+ - DOMAIN-SUFFIX,gateway.messenger.live.com,🚀 手动切换
+ - GEOSITE,openai,🎥 流媒体
+ - GEOSITE,claude,🚀 手动切换
+ - GEOSITE,bing,🚀 手动切换
+ - GEOSITE,msn,♻️ 自动选择
+ - GEOSITE,yahoo,🎥 流媒体,no-resolve
+ - GEOSITE,github,🚀 节点选择
+ - GEOIP,TELEGRAM,📲 电报消息,no-resolve
+ - GEOIP,gfw,🚀 节点选择,no-resolve 
+ - GEOSITE,gfw,🚀 节点选择
+ - GEOSITE,greatfire,🚀 节点选择
+ - DST-PORT,993,Ⓜ️ 微软服务
+ - DST-PORT,5223,苹果服务
+ - GEOSITE,apple,苹果服务
+ - GEOIP,apple,苹果服务
+ - GEOSITE,microsoft,Ⓜ️ 微软服务
+ - IP-CIDR,1.1.1.1/32,🚀 节点选择,no-resolve
+ - IP-CIDR,8.8.8.8/32,🚀 节点选择,no-resolve
+ - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
+ - IP-CIDR,100.64.0.0/10,🎯 全球直连,no-resolve
+ - IP-CIDR,127.0.0.0/8,🎯 全球直连,no-resolve
+ - IP-CIDR,172.16.0.0/12,🎯 全球直连,no-resolve
+ - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,198.18.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
+ - IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
+ - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
+ - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
+ - DOMAIN-SUFFIX,local,🎯 全球直连
+ - DOMAIN-SUFFIX,localhost,🎯 全球直连
+ - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
+ - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
+ - GEOSITE,category-games,🎮 游戏平台
+ - GEOIP,cn,🎯 全球直连,no-resolve
+ - MATCH,🐟 漏网之鱼
