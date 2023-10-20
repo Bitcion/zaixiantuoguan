@@ -5,6 +5,7 @@ mode: Rule
 log-level: silent
 external-controller: '0.0.0.0:9090'
 ipv6: true
+
 proxy-providers:
  备用:
    type: http
