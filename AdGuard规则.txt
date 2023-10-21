@@ -48,4 +48,5 @@
 ||bingviz.com^$dnstype=~A|~CNAME
 ||microsoftapp.net^$dnstype=~A|~CNAME
 ||microsoft-falcon.io^$dnstype=~A|~CNAME
+||cloudflare.net^$dnstype=~A|~CNAME
 
