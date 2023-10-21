@@ -11,8 +11,4 @@ payload:
   - '+.abmedia.io'
   - '+.aicoin.com'
   - '+.uscardforum.com'
-  - '+.ftchinese.com'
-  - '+.coindesk.com'
-  - '+.cointelegraph.com'
-  - '+.blocktempo.com'
   - '+.1drv.com'
