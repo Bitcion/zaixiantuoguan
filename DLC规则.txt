@@ -14,3 +14,4 @@ payload:
   - '+.1drv.com'
   - '+.sentry.io'
   - '+.revenuecat.com'
+  - '+.statsig.com'
