@@ -12,6 +12,4 @@ payload:
   - '+.aicoin.com'
   - '+.uscardforum.com'
   - '+.1drv.com'
-  - '+.sentry.io'
-  - '+.revenuecat.com'
-  - '+.statsig.com'
+
