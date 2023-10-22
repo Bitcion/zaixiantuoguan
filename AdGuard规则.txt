@@ -1,3 +1,4 @@
+||appsflyer.com^$dnstype=~A|~CNAME
 ||ttwstatic.com^$dnstype=~A|~CNAME
 ||tiktokcdn-us.com^$dnstype=~A|~CNAME
 ||tiktok.com^$dnstype=~A|~CNAME
