@@ -1,3 +1,4 @@
+||ttwstatic.com^$dnstype=~A|~CNAME
 ||tiktokcdn-us.com^$dnstype=~A|~CNAME
 ||tiktok.com^$dnstype=~A|~CNAME
 ||bytecdn.cn^$dnstype=~A|~CNAME
