@@ -1,3 +1,22 @@
+||tiktok.com^$dnstype=~A|~CNAME
+||bytecdn.cn^$dnstype=~A|~CNAME
+||byted.org^$dnstype=~A|~CNAME
+||bytedanceapi.com^$dnstype=~A|~CNAME
+||byteoversea.com^$dnstype=~A|~CNAME
+||byteoversea.net^$dnstype=~A|~CNAME
+||ibytedtos.com^$dnstype=~A|~CNAME
+||ibyteimg.com^$dnstype=~A|~CNAME
+||isnssdk.com^$dnstype=~A|~CNAME
+||muscdn.com^$dnstype=~A|~CNAME
+||musemuse.cn^$dnstype=~A|~CNAME
+||musical.ly^$dnstype=~A|~CNAME
+||sgsnssdk.com^$dnstype=~A|~CNAME
+||tiktokcdn-in.com^$dnstype=~A|~CNAME
+||tiktokv.com^$dnstype=~A|~CNAME
+||tiktokcdn.com^$dnstype=~A|~CNAME
+||ttoversea.net^$dnstype=~A|~CNAME
+||worldfcdn.com^$dnstype=~A|~CNAME
+||wsdvs.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
@@ -49,4 +68,5 @@
 ||microsoftapp.net^$dnstype=~A|~CNAME
 ||microsoft-falcon.io^$dnstype=~A|~CNAME
 ||cloudflare.net^$dnstype=~A|~CNAME
+
 
