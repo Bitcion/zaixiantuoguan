@@ -12,3 +12,6 @@ payload:
   - '+.aicoin.com'
   - '+.uscardforum.com'
   - '+.1drv.com'
+
+  - '+.goofy-cdn.com'
+
