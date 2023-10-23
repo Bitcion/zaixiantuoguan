@@ -12,4 +12,3 @@ payload:
   - '+.aicoin.com'
   - '+.uscardforum.com'
   - '+.1drv.com'
-  - '+.snapkit.com'
