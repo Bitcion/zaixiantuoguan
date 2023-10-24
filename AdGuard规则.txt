@@ -24,6 +24,9 @@
 ||bing.net^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
+||maktoob.com^$dnstype=~A|~CNAME
+||myguide.hk^$dnstype=~A|~CNAME
+||techcrunch.com^$dnstype=~A|~CNAME
 ||yahoo.net^$dnstype=~A|~CNAME
 ||yahoo.com.hk^$dnstype=~A|~CNAME
 ||yahoo.com.tw^$dnstype=~A|~CNAME
