@@ -24,12 +24,16 @@
 ||bing.net^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
-||maktoob.com^$dnstype=~A|~CNAME
-||myguide.hk^$dnstype=~A|~CNAME
-||techcrunch.com^$dnstype=~A|~CNAME
 ||yahoo.net^$dnstype=~A|~CNAME
 ||yahoo.com.hk^$dnstype=~A|~CNAME
 ||yahoo.com.tw^$dnstype=~A|~CNAME
+||yahoo.com.sg^$dnstype=~A|~CNAME
+||yahoo.hk^$dnstype=~A|~CNAME
+||yahoo.tw^$dnstype=~A|~CNAME
+||yahoo.sg^$dnstype=~A|~CNAME
+||maktoob.com^$dnstype=~A|~CNAME
+||myguide.hk^$dnstype=~A|~CNAME
+||techcrunch.com^$dnstype=~A|~CNAME
 ||yahoo-news.com.hk^$dnstype=~A|~CNAME
 ||yahooapis.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
@@ -42,6 +46,7 @@
 ||yimg.com^$dnstype=~A|~CNAME
 ||yimg.jp^$dnstype=~A|~CNAME
 ||ymail.com^$dnstype=~A|~CNAME
+||yusercontent.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
 
