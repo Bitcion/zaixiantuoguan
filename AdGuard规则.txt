@@ -27,9 +27,6 @@
 ||yahoo.net^$dnstype=~A|~CNAME
 ||yahoo.com.hk^$dnstype=~A|~CNAME
 ||yahoo.com.tw^$dnstype=~A|~CNAME
-||maktoob.com^$dnstype=~A|~CNAME
-||myguide.hk^$dnstype=~A|~CNAME
-||techcrunch.com^$dnstype=~A|~CNAME
 ||yahoo-news.com.hk^$dnstype=~A|~CNAME
 ||yahooapis.com^$dnstype=~A|~CNAME
 ||yahoodns.net^$dnstype=~A|~CNAME
@@ -43,11 +40,6 @@
 ||yimg.jp^$dnstype=~A|~CNAME
 ||ymail.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
-||anthropic.com^$dnstype=~A|~CNAME
-||bingapis.com^$dnstype=~A|~CNAME
-||bingviz.com^$dnstype=~A|~CNAME
-||microsoftapp.net^$dnstype=~A|~CNAME
-||microsoft-falcon.io^$dnstype=~A|~CNAME
-||cloudflare.net^$dnstype=~A|~CNAME
+
 
 
