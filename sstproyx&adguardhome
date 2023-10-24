@@ -1,0 +1,17 @@
+#!/bin/bash
+pre_start() {
+    echo "ss-tproxy 启动前执行脚本"
+    
+}
+post_start() {
+    echo "ss-tproxy 启动后执行脚本"
+    /opt/AdGuardHome/AdGuardHome
+}
+pre_stop() {
+    echo "ss-tproxy 停止前执行脚本"
+    
+}
+post_stop() {
+    echo "ss-tproxy 停止后执行脚本"
+    
+}
