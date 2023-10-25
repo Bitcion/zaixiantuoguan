@@ -2342,6 +2342,7 @@
 ||googlesile.com^$dnstype=~A|~CNAME
 ||googlesource.com^$dnstype=~A|~CNAME
 ||googleusercontent.com^$dnstype=~A|~CNAME
+||googlevideo.com^$dnstype=~A|~CNAME
 ||googleweblight.com^$dnstype=~A|~CNAME
 ||googlezip.net^$dnstype=~A|~CNAME
 ||gopetition.com^$dnstype=~A|~CNAME
