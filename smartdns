@@ -6,7 +6,7 @@ edns自已定义ip
 
 # 8051是国内dns，没必要测速、缓存。8052是可信，只为apple设备屏蔽type65
 bind 0.0.0.0:8051 -group china -no-cache -no-speed-check
-bind 0.0.0.0:8052 -group office -force-qtype-SOA 65
+bind 0.0.0.0:8052 -group office 
 
 # 推荐的安全DNS
 # Google DNS
@@ -23,7 +23,7 @@ server-tls 208.67.222.222 -group office
 dualstack-ip-selection no
 
 # 测速模式选择（非必要）
-speed-check-mode tcp:443,ping
+speed-check-mode none
 
 # gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
 domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
