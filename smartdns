@@ -2,40 +2,41 @@ edns自已定义ip
 203.142.125.25
 [2001:7fa:0:1::ca28:a189]
 
+server 211.137.191.27 -group china 
+server [2409:803C:2000:0003::130] -group china
 
 
-# 8051是国内dns，没必要测速、缓存。8052是可信，只为apple设备屏蔽type65
-bind 0.0.0.0:8051 -group china -no-cache -no-speed-check
-bind 0.0.0.0:8052 -group office 
+bind 0.0.0.0:8051 -group china -no-cache 
+bind 0.0.0.0:8052 -group office -dualstack-ip-selection yes
 
 # 推荐的安全DNS
+#server [fe80::21c:c2ff:fe26:369b]:5353 -group office
+
 # Google DNS
-server-https https://dns.google/dns-query -group office
-server-tls 8.8.8.8 -group office
+server-https https://[2001:4860:4860::8844]/dns-query -group office
+server-https https://[2001:4860:4860::8888]/dns-query -group office
+server-tls [2001:4860:4860::8888] -group office
+server-tls [2001:4860:4860::8844] -group office
+# OpenDNS
+server-https https://[2620:119:53::53]/dns-query -group office
+server-https https://[2620:119:35::35]/dns-query -group office
+server-tls dns.opendns.com -group office
+server-https https://doh.opendns.com/dns-query
 # Cloudflare DNS
-server 192.168.123.87 -group office
+server-https https://cloudflare-dns.com/dns-query -group office
 server-https https://dns.cloudflare.com/dns-query -group office
 server-tls 1.1.1.1 -group office
-# OpenDNS
-server-tls 208.67.222.222 -group office
 
-# 全局关闭IPV4，IPV6双栈IP优化选择策略
-dualstack-ip-selection no
 
 # 测速模式选择（非必要）
 speed-check-mode none
 
 # gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
-domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
+domain-set -name ipv6 -file /opt/ipv6.txt
 
-nameserver /bing.com/office
-nameserver /bing.net/office
 
 # 舍弃gfwlist域名集的ipv6解析，让代理流量正确进入代理工具
-address /domain-set:gfwlist/#6
-address /yahoo.com/#6
-address /cn.bing.com/#
-address /bing.com/#6
-address /bing.net/#6
-address /wvvw.rfi.fr/#
+address /domain-set:ipv6/#6
 
+nameserver /bing.com/office
+nameserver /blocktempo.com/office
