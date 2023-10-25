@@ -32,6 +32,7 @@ server-tls 1.1.1.1 -group office
 speed-check-mode none
 
 # gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
+domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
 domain-set -name ipv6 -file /opt/ipv6.txt
 
 
