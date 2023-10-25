@@ -40,3 +40,9 @@ address /domain-set:ipv6/#6
 
 nameserver /bing.com/office
 nameserver /blocktempo.com/office
+
+
+# edns客户端子网
+# edns-client-subnet [ip/subnet]
+# edns-client-subnet 203.142.125.24
+# edns-client-subnet 2401:3000:a011::FFFF:6F10:A527
