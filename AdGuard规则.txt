@@ -190,6 +190,7 @@
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
+||bing123.com^
 ||bing.com.cn^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
 ||bingads.com^$dnstype=~A|~CNAME
