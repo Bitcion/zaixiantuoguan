@@ -3,7 +3,8 @@ edns自已定义ip
 2001:7fa:0:1::ca28:a189
 
 server 211.137.191.27 -group china 
-server [2409:803C:2000:0003::130] -group china
+server 2409:803C:2000:2::27 -group china
+server 2409:803C:2000:4::131 -group china
 
 
 bind 0.0.0.0:8051 -group china -no-cache 
