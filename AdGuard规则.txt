@@ -171,7 +171,6 @@
 ||yahoo.tm^$dnstype=~A|~CNAME
 ||yahoo.tn^$dnstype=~A|~CNAME
 ||yahoo.vg^$dnstype=~A|~CNAME
-||yahoo.ws^$dnstype=~A|~CNAME
 ||maktoob.com^$dnstype=~A|~CNAME
 ||myguide.hk^$dnstype=~A|~CNAME
 ||techcrunch.com^$dnstype=~A|~CNAME
