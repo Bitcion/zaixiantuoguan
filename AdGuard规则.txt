@@ -231,5 +231,7 @@
 ||openaicomproductionae4b.blob.core.windows.net^$dnstype=~A|~CNAME
 ||production-openaicom-storage.azureedge.net^$dnstype=~A|~CNAME
 ||openaicom.imgix.netx.net^$dnstype=~A|~CNAME
-||o33249.ingest.sentry.io^$dnstype=~A|~CNAME
+||sentry.io^$dnstype=~A|~CNAME
+||statsig.com^$dnstype=~A|~CNAME
+||revenuecat.com^$dnstype=~A|~CNAME
 
