@@ -219,6 +219,8 @@
 ||cn.bing.net^$dnstype=~A|~CNAME
 ||bing123.com^$dnstype=~A|~CNAME
 ||bing.com.cn^$dnstype=~A|~CNAME
+||bingviz.com^$dnstype=~A|~CNAME
+||bingviz.com^$dnstype=~A|~CNAME
 ||ditu.live.com^$dnstype=~A|~CNAME
 ||bj1.api.bing.com^$dnstype=~A|~CNAME
 ||emoi-cncdn.bing.com^$dnstype=~A|~CNAME
@@ -236,4 +238,6 @@
 ||poe.com^$dnstype=~A|~CNAME
 ||sentry.io^$dnstype=~A|~CNAME
 ||stripe.com^$dnstype=~A|~CNAME
+||ios.chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
+||chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 
