@@ -240,4 +240,5 @@
 ||stripe.com^$dnstype=~A|~CNAME
 ||ios.chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 ||chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
+||statsig.com^$dnstype=~A|~CNAME
 
