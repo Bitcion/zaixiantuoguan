@@ -232,7 +232,4 @@
 ||production-openaicom-storage.azureedge.net^$dnstype=~A|~CNAME
 ||openaicom.imgix.netx.net^$dnstype=~A|~CNAME
 ||sentry.io^$dnstype=~A|~CNAME
-||platform.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
-||revenuecat.com^$dnstype=~A|~CNAME
-||statsig.com^$dnstype=~A|~CNAME
 
