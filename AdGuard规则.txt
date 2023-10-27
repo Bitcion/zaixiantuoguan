@@ -224,12 +224,16 @@
 ||emoi-cncdn.bing.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
-||oaistatic.com^$dnstype=~A|~CNAME
-||chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
-||openaiapi-site.azureedge.net^$dnstype=~A|~CNAME
-||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net^$dnstype=~A|~CNAME
-||openaicomproductionae4b.blob.core.windows.net^$dnstype=~A|~CNAME
-||production-openaicom-storage.azureedge.net^$dnstype=~A|~CNAME
-||openaicom.imgix.netx.net^$dnstype=~A|~CNAME
+||ai.com^$dnstype=~A|~CNAME
+||auth0.com^$dnstype=~A|~CNAME
+||challenges.cloudflare.com^$dnstype=~A|~CNAME  
+||client-api.arkoselabs.com^$dnstype=~A|~CNAME
+||events.statsigapi.net^$dnstype=~A|~CNAME
+||featuregates.org^$dnstype=~A|~CNAME
+||identrust.com^$dnstype=~A|~CNAME
+||intercom.io^$dnstype=~A|~CNAME
+||intercomcdn.com^$dnstype=~A|~CNAME
+||poe.com^$dnstype=~A|~CNAME
 ||sentry.io^$dnstype=~A|~CNAME
+||stripe.com^$dnstype=~A|~CNAME
 
