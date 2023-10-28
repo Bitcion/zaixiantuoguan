@@ -219,7 +219,7 @@
 ||ditu.live.com^
 ||bj1.api.bing.com^
 ||emoi-cncdn.bing.com^
-||chat.openai.com^$dnstype=~A|~CNAME
+||openai.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
 ||ai.com^$dnstype=~A|~CNAME
 ||auth0.com^$dnstype=~A|~CNAME
