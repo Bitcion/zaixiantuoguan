@@ -236,5 +236,5 @@
 ||intercomcdn.com^$dnstype=~A|~CNAME
 ||poe.com^$dnstype=~A|~CNAME
 ||sentry.io^$dnstype=~A|~CNAME
-||stripe.com^$dnstype=~A|~CNAME
+||ios.chat.openai.com^$dnstype=~A|~CNAME
 
