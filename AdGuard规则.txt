@@ -1,3 +1,4 @@
+||nikkei.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
