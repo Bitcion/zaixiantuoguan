@@ -232,4 +232,6 @@
 ||intercomcdn.com^$dnstype=~A|~CNAME
 ||poe.com^$dnstype=~A|~CNAME
 ||sentry.io^$dnstype=~A|~CNAME
+||one.one.one.one^$dnstype=~A|~CNAME
+||cloudflare-dns.com/^$dnstype=~A|~CNAME
 
