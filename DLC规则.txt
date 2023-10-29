@@ -13,4 +13,4 @@ payload:
   - '+.uscardforum.com'
   - '+.1drv.com'
   - '+.steamstatic.com'
-  - '+.sentry.io'
+
