@@ -186,6 +186,7 @@
 ||yusercontent.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
+||usefathom.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
 ||bingads.com^$dnstype=~A|~CNAME
