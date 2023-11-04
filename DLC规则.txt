@@ -7,4 +7,7 @@ payload:
   - '+.uscardforum.com'
   - '+.1drv.com'
   - '+.steamstatic.com'
+  - '+.usefathom.com'
+  - '+.anthropic.com'
+  - '+.claude.ai'
 
