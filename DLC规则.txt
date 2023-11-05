@@ -10,5 +10,3 @@ payload:
   - '+.usefathom.com'
   - '+.anthropic.com'
   - '+.claude.ai'
-  - '+.schwab.com'
-
