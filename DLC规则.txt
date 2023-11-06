@@ -1,4 +1,5 @@
 payload:
+  - '+.digicert.com'
   - '+.spotify.com'
   - '+.freenom.com'  
   - '+.dailyfxasia.com'
