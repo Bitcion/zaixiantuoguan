@@ -222,6 +222,7 @@
 ||bj1.api.bing.com^$dnstype=~A|~CNAME
 ||emoi-cncdn.bing.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
+||chatgpt.com^$dnstype=~A|~CNAME
 ||openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 ||ai.com^$dnstype=~A|~CNAME
 ||auth0.com^$dnstype=~A|~CNAME
