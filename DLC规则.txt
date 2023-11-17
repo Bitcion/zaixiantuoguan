@@ -11,3 +11,4 @@ payload:
   - '+.usefathom.com'
   - '+.anthropic.com'
   - '+.claude.ai'
+  - '+.oaistatic.com'
