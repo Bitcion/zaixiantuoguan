@@ -5,7 +5,6 @@ payload:
   - '+.dailyfxasia.com'
   - '+.8world.com'
   - '+.chinapress.com.my'
-  - '+.uscardforum.com'
   - '+.1drv.com'
   - '+.steamstatic.com'
   - '+.usefathom.com'
