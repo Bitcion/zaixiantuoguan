@@ -12,3 +12,4 @@ payload:
   - '+.anthropic.com'
   - '+.claude.ai'
   - '+.oaistatic.com'
+  - '+.intercom.io'
