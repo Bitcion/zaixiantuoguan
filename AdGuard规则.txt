@@ -21,6 +21,7 @@
 ||nflxso.net^$dnstype=~A|~CNAME
 ||nflxvideo.net^$dnstype=~A|~CNAME
 ||us-west-2.amazonaws.com^$dnstype=~A|~CNAME
+||us-west-2.elb.amazonaws.com^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
 ||yahoo.ae^$dnstype=~A|~CNAME
 ||yahoo.am^$dnstype=~A|~CNAME
