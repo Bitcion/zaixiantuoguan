@@ -239,6 +239,5 @@
 ||intercomcdn.com^$dnstype=~A|~CNAME
 ||poe.com^$dnstype=~A|~CNAME
 ||sentry.io^$dnstype=~A|~CNAME
-||cloudflare-dns.com^$dnstype=~A|~CNAME
 ||tiktokcdn-us.com^$dnstype=~A|~CNAME
 ||ibytedtos.com^$dnstype=~A|~CNAME
