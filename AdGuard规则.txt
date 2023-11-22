@@ -222,6 +222,7 @@
 ||cn.bing.com^$dnstype=~A|~CNAME
 ||cn.bing.net^$dnstype=~A|~CNAME
 ||ditu.live.com^$dnstype=~A|~CNAME
+||messenger.live.com^$dnstype=~A|~CNAME
 ||bj1.api.bing.com^$dnstype=~A|~CNAME
 ||emoi-cncdn.bing.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
