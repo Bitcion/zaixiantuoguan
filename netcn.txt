@@ -1,3 +1,0 @@
-payload:
-  - '+.nextdns.com'
-  - '+.opendsdns.com'
