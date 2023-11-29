@@ -2,6 +2,4 @@
 ||google-analytics.com^$dnstype=A
 ||1e100.net^$dnstype=A 
 ||icloiud.com^$dnstype=A
-||opendns.com^$dnstype=A
-||nextdns.io^$dnstype=A
 ||tiktokcdn-us.com^$dnstype=A
