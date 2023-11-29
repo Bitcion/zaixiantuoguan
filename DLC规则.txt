@@ -12,4 +12,3 @@ payload:
   - '+.anthropic.com'
   - '+.claude.ai'
   - '+.uscardforum.com'
-  - '+.tiktokcdn-us.com'
