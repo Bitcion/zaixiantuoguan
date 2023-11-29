@@ -1,6 +1,7 @@
 #!/bin/bash
 pre_start() {
     echo "ss-tproxy 启动前执行脚本"
+    sh /opt/update_ipv6.sh
     sh /opt/update_gfw.sh
 
 }
