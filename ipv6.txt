@@ -3,3 +3,4 @@
 ||1e100.net^$dnstype=A 
 ||icloiud.com^$dnstype=A
 ||tiktokcdn-us.com^$dnstype=A
+||dns.nextdns.io^$dnstype=A
