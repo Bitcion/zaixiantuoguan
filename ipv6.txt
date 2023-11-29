@@ -1,6 +1,6 @@
-googlesyndication.com
-google-analytics.com
-1e100.net
-icloiud.com
-opendns.com
-nextdns.io
+||googlesyndication.com^$dnstype=A
+||google-analytics.com^$dnstype=A
+||1e100.net^$dnstype=A 
+||icloiud.com^$dnstype=A
+||opendns.com^$dnstype=A
+||nextdns.io^$dnstype=A
