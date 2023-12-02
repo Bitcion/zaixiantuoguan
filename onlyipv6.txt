@@ -2,3 +2,8 @@
 ||icloiud.com^$dnstype=A
 ||tiktokcdn-us.com^$dnstype=A
 ||opendns.com^$dnstype=A
+||google-analytics.com^$dnstype=A
+||googlesyndication.com^$dnstype=A
+||adservice.google.com^$dnstype=A
+||doubleclick.net^$dnstype=A
+
