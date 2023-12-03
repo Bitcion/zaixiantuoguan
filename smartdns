@@ -1,3 +1,9 @@
+# gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
+domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
+conf-file /opt/anti-ad-for-smartdns.conf
+domain-set -name gfw -file /opt/gfw.txt
+domain-set -name cn -file /opt/cn.txt
+
 edns自已定义ip
 203.142.125.25
 2001:7fa:0:1::ca28:a189
@@ -31,10 +37,6 @@ server-tls 1.1.1.1 -group office
 
 # 测速模式选择（非必要）
 speed-check-mode none
-
-# gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
-domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
-domain-set -name ipv6 -file /opt/ipv6.txt
 
 
 # 舍弃gfwlist域名集的ipv6解析，让代理流量正确进入代理工具
