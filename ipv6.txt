@@ -433,6 +433,7 @@
 ||backchina.com^$dnstype=~A|~CNAME
 ||backpackers.com.tw^$dnstype=~A|~CNAME
 ||backtotiananmen.com^$dnstype=~A|~CNAME
+||bad.news^$dnstype=~A|~CNAME
 ||badiucao.com^$dnstype=~A|~CNAME
 ||badjojo.com^$dnstype=~A|~CNAME
 ||badoo.com^$dnstype=~A|~CNAME
@@ -2802,6 +2803,7 @@
 ||indiemerch.com^$dnstype=~A|~CNAME
 ||info-graf.fr^$dnstype=~A|~CNAME
 ||initiativesforchina.org^$dnstype=~A|~CNAME
+||inkbunny.net^$dnstype=~A|~CNAME
 ||inkui.com^$dnstype=~A|~CNAME
 ||inmediahk.net^$dnstype=~A|~CNAME
 ||innermongolia.org^$dnstype=~A|~CNAME
@@ -3312,6 +3314,7 @@
 ||matrix.org^$dnstype=~A|~CNAME
 ||matsushimakaede.com^$dnstype=~A|~CNAME
 ||matters.news^$dnstype=~A|~CNAME
+||matters.town^$dnstype=~A|~CNAME
 ||matthewdgreen.wordpress.com^$dnstype=~A|~CNAME
 ||mattwilcox.net^$dnstype=~A|~CNAME
 ||maturejp.com^$dnstype=~A|~CNAME
