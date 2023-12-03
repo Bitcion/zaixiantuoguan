@@ -16,3 +16,9 @@ sed 's/.*/\|\|&\^\$dnstype\=~A\|~CNAME/' ./gfwlist_domains.txt > ./ipv6.txt
 # 删除下载的脚本和域名列表文件
 rm -f gfwlist2dnsmasq.sh
 rm -f ./gfwlist_domains.txt
+
+# 下载anti-ad-for-smartdns.conf文件
+wget https://anti-ad.net/anti-ad-for-smartdns.conf
+
+# 将文件里的/#改成/#4
+sed -i 's/#\//#4\//' anti-ad-for-smartdns.conf
