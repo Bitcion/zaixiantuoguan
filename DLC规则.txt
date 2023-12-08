@@ -5,3 +5,4 @@ payload:
   - '+.anthropic.com'
   - '+.claude.ai'
   - '+.uscardforum.com'
+  - '+.technews.tw'
