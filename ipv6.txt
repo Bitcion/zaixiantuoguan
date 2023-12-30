@@ -1157,6 +1157,7 @@
 ||contests.twilio.com^$dnstype=~A|~CNAME
 ||convio.net^$dnstype=~A|~CNAME
 ||coobay.com^$dnstype=~A|~CNAME
+||cool18.com^$dnstype=~A|~CNAME
 ||coolaler.com^$dnstype=~A|~CNAME
 ||coolder.com^$dnstype=~A|~CNAME
 ||coolloud.org.tw^$dnstype=~A|~CNAME
@@ -1355,6 +1356,7 @@
 ||discuss4u.com^$dnstype=~A|~CNAME
 ||dish.com^$dnstype=~A|~CNAME
 ||disk.yandex.com^$dnstype=~A|~CNAME
+||disk.yandex.ru^$dnstype=~A|~CNAME
 ||disp.cc^$dnstype=~A|~CNAME
 ||disqus.com^$dnstype=~A|~CNAME
 ||dit-inc.us^$dnstype=~A|~CNAME
@@ -2366,7 +2368,6 @@
 ||graphis.ne.jp^$dnstype=~A|~CNAME
 ||graphql.org^$dnstype=~A|~CNAME
 ||gravatar.com^$dnstype=~A|~CNAME
-||greasespot.net^$dnstype=~A|~CNAME
 ||great-firewall.com^$dnstype=~A|~CNAME
 ||great-roc.org^$dnstype=~A|~CNAME
 ||greatfire.org^$dnstype=~A|~CNAME
@@ -3811,6 +3812,7 @@
 ||oann.com^$dnstype=~A|~CNAME
 ||observechina.net^$dnstype=~A|~CNAME
 ||obutu.com^$dnstype=~A|~CNAME
+||obyte.org^$dnstype=~A|~CNAME
 ||ocaspro.com^$dnstype=~A|~CNAME
 ||occupytiananmen.com^$dnstype=~A|~CNAME
 ||oclp.hk^$dnstype=~A|~CNAME
@@ -4169,6 +4171,7 @@
 ||psiphon.civisec.org^$dnstype=~A|~CNAME
 ||psiphon3.com^$dnstype=~A|~CNAME
 ||psiphontoday.com^$dnstype=~A|~CNAME
+||pstatic.net^$dnstype=~A|~CNAME
 ||pt.im^$dnstype=~A|~CNAME
 ||pts.org.tw^$dnstype=~A|~CNAME
 ||ptt.cc^$dnstype=~A|~CNAME
@@ -4384,6 +4387,7 @@
 ||rxhj.net^$dnstype=~A|~CNAME
 ||s-cute.com^$dnstype=~A|~CNAME
 ||s-dragon.org^$dnstype=~A|~CNAME
+||s.yimg.com^$dnstype=~A|~CNAME
 ||s1.nudezz.com^$dnstype=~A|~CNAME
 ||s1heng.com^$dnstype=~A|~CNAME
 ||s1s1s1.com^$dnstype=~A|~CNAME
@@ -4991,6 +4995,7 @@
 ||thomasbernhard.org^$dnstype=~A|~CNAME
 ||thongdreams.com^$dnstype=~A|~CNAME
 ||threadreaderapp.com^$dnstype=~A|~CNAME
+||threads.net^$dnstype=~A|~CNAME
 ||threatchaos.com^$dnstype=~A|~CNAME
 ||throughnightsfire.com^$dnstype=~A|~CNAME
 ||thumbzilla.com^$dnstype=~A|~CNAME
@@ -5773,13 +5778,13 @@
 ||wjbk.org^$dnstype=~A|~CNAME
 ||wlcnew.jigsy.com^$dnstype=~A|~CNAME
 ||wlx.sowiki.net^$dnstype=~A|~CNAME
+||wmflabs.org^$dnstype=~A|~CNAME
 ||wn.com^$dnstype=~A|~CNAME
 ||wnacg.com^$dnstype=~A|~CNAME
 ||wnacg.org^$dnstype=~A|~CNAME
 ||wo.tc^$dnstype=~A|~CNAME
 ||wo3ttt.wordpress.com^$dnstype=~A|~CNAME
 ||woeser.com^$dnstype=~A|~CNAME
-||woesermiddle-way.net^$dnstype=~A|~CNAME
 ||wokar.org^$dnstype=~A|~CNAME
 ||wolfax.com^$dnstype=~A|~CNAME
 ||wombo.ai^$dnstype=~A|~CNAME
@@ -5833,7 +5838,6 @@
 ||www.aolnews.com^$dnstype=~A|~CNAME
 ||www.businessinsider.com.au^$dnstype=~A|~CNAME
 ||www.cmoinc.org^$dnstype=~A|~CNAME
-||www.cool18.com^$dnstype=~A|~CNAME
 ||www.dmm.com^$dnstype=~A|~CNAME
 ||www.dwheeler.com^$dnstype=~A|~CNAME
 ||www.eastturkistan.net^$dnstype=~A|~CNAME
