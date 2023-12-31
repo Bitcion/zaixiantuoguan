@@ -826,6 +826,7 @@
 ||caijinglengyan.com^$dnstype=~A|~CNAME
 ||calameo.com^$dnstype=~A|~CNAME
 ||calebelston.com^$dnstype=~A|~CNAME
+||calendarz.com^$dnstype=~A|~CNAME
 ||calgarychinese.ca^$dnstype=~A|~CNAME
 ||calgarychinese.com^$dnstype=~A|~CNAME
 ||calgarychinese.net^$dnstype=~A|~CNAME
@@ -892,6 +893,7 @@
 ||cdig.info^$dnstype=~A|~CNAME
 ||cdjp.org^$dnstype=~A|~CNAME
 ||cdn-images.mailchimp.com^$dnstype=~A|~CNAME
+||cdn-telegram.org^$dnstype=~A|~CNAME
 ||cdn.assets.lfpcontent.com^$dnstype=~A|~CNAME
 ||cdn.helixstudios.net^$dnstype=~A|~CNAME
 ||cdn.printfriendly.com^$dnstype=~A|~CNAME
@@ -1144,6 +1146,7 @@
 ||comefromchina.com^$dnstype=~A|~CNAME
 ||comic-mega.me^$dnstype=~A|~CNAME
 ||commandarms.com^$dnstype=~A|~CNAME
+||comments.app^$dnstype=~A|~CNAME
 ||commentshk.com^$dnstype=~A|~CNAME
 ||communistcrimes.org^$dnstype=~A|~CNAME
 ||community.windy.com^$dnstype=~A|~CNAME
@@ -2003,6 +2006,7 @@
 ||geekheart.info^$dnstype=~A|~CNAME
 ||gekikame.com^$dnstype=~A|~CNAME
 ||gelbooru.com^$dnstype=~A|~CNAME
+||generated.photos^$dnstype=~A|~CNAME
 ||genius.com^$dnstype=~A|~CNAME
 ||geocities.co.jp^$dnstype=~A|~CNAME
 ||geocities.com^$dnstype=~A|~CNAME
@@ -2365,6 +2369,7 @@
 ||grammaly.com^$dnstype=~A|~CNAME
 ||grandtrial.org^$dnstype=~A|~CNAME
 ||grangorz.org^$dnstype=~A|~CNAME
+||graph.org^$dnstype=~A|~CNAME
 ||graphis.ne.jp^$dnstype=~A|~CNAME
 ||graphql.org^$dnstype=~A|~CNAME
 ||gravatar.com^$dnstype=~A|~CNAME
@@ -2673,6 +2678,8 @@
 ||hudatoriq.web.id^$dnstype=~A|~CNAME
 ||hudson.org^$dnstype=~A|~CNAME
 ||huffingtonpost.com^$dnstype=~A|~CNAME
+||huffpost.com^$dnstype=~A|~CNAME
+||huggingface.co^$dnstype=~A|~CNAME
 ||hugoroy.eu^$dnstype=~A|~CNAME
 ||huhaitai.com^$dnstype=~A|~CNAME
 ||huhamhire.com^$dnstype=~A|~CNAME
@@ -4227,6 +4234,7 @@
 ||questvisual.com^$dnstype=~A|~CNAME
 ||quitccp.net^$dnstype=~A|~CNAME
 ||quitccp.org^$dnstype=~A|~CNAME
+||quiz.directory^$dnstype=~A|~CNAME
 ||quora.com^$dnstype=~A|~CNAME
 ||quoracdn.net^$dnstype=~A|~CNAME
 ||quran.com^$dnstype=~A|~CNAME
@@ -4924,9 +4932,11 @@
 ||tehrantimes.com^$dnstype=~A|~CNAME
 ||telecomspace.com^$dnstype=~A|~CNAME
 ||telegra.ph^$dnstype=~A|~CNAME
+||telegram-cdn.org^$dnstype=~A|~CNAME
 ||telegram.dog^$dnstype=~A|~CNAME
 ||telegram.me^$dnstype=~A|~CNAME
 ||telegram.org^$dnstype=~A|~CNAME
+||telegram.space^$dnstype=~A|~CNAME
 ||telegramdownload.com^$dnstype=~A|~CNAME
 ||telegraph.co.uk^$dnstype=~A|~CNAME
 ||telesco.pe^$dnstype=~A|~CNAME
@@ -5659,6 +5669,7 @@
 ||wav.tv^$dnstype=~A|~CNAME
 ||waveprotocol.org^$dnstype=~A|~CNAME
 ||waymo.com^$dnstype=~A|~CNAME
+||wd.bible^$dnstype=~A|~CNAME
 ||wda.gov.tw^$dnstype=~A|~CNAME
 ||wdf5.com^$dnstype=~A|~CNAME
 ||wealth.com.tw^$dnstype=~A|~CNAME
