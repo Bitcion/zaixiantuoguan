@@ -6,3 +6,4 @@ payload:
   - '+.claude.ai'
   - '+.uscardforum.com'
   - '+.technews.tw'
+  - '+.cnyes.com'
