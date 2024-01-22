@@ -235,7 +235,6 @@
 ||client-api.arkoselabs.com^$dnstype=~A|~CNAME
 ||events.statsigapi.net^$dnstype=~A|~CNAME
 ||featuregates.org^$dnstype=~A|~CNAME
-||identrust.com^$dnstype=~A|~CNAME
 ||intercom.io^$dnstype=~A|~CNAME
 ||intercomcdn.com^$dnstype=~A|~CNAME
 ||poe.com^$dnstype=~A|~CNAME
