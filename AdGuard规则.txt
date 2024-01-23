@@ -219,12 +219,8 @@
 ||microsoftapp.net^$dnstype=~A|~CNAME
 ||bing.com.cn^$dnstype=~A|~CNAME
 ||bing123.com^$dnstype=~A|~CNAME
-||cn.bing.com^$dnstype=~A|~CNAME
-||cn.bing.net^$dnstype=~A|~CNAME
 ||ditu.live.com^$dnstype=~A|~CNAME
 ||messenger.live.com^$dnstype=~A|~CNAME
-||bj1.api.bing.com^$dnstype=~A|~CNAME
-||emoi-cncdn.bing.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||oaistatic.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
