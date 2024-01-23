@@ -7,3 +7,4 @@ payload:
   - '+.uscardforum.com'
   - '+.technews.tw'
   - '+.cnyes.com'
+  - '+.udn.com'
