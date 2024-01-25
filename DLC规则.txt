@@ -8,4 +8,4 @@ payload:
   - '+.technews.tw'
   - '+.cnyes.com'
   - '+.udn.com'
-  - '+.adguard-dns.io'
+
