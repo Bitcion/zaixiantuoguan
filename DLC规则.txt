@@ -8,4 +8,3 @@ payload:
   - '+.technews.tw'
   - '+.cnyes.com'
   - '+.udn.com'
-  - '+.freeterabox.com'
