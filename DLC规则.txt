@@ -8,4 +8,6 @@ payload:
   - '+.technews.tw'
   - '+.cnyes.com'
   - '+.udn.com'
+  - '+.ibkr.com'
+  - '+.interactivebrokers.com'
 
