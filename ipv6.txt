@@ -2688,6 +2688,7 @@
 ||hulkshare.com^$dnstype=~A|~CNAME
 ||hulu.com^$dnstype=~A|~CNAME
 ||huluim.com^$dnstype=~A|~CNAME
+||humanparty.me^$dnstype=~A|~CNAME
 ||humanrightspressawards.org^$dnstype=~A|~CNAME
 ||hung-ya.com^$dnstype=~A|~CNAME
 ||hungerstrikeforaids.org^$dnstype=~A|~CNAME
@@ -4942,6 +4943,7 @@
 ||telesco.pe^$dnstype=~A|~CNAME
 ||tellme.pw^$dnstype=~A|~CNAME
 ||tenacy.com^$dnstype=~A|~CNAME
+||tenor.com^$dnstype=~A|~CNAME
 ||tensorflow.org^$dnstype=~A|~CNAME
 ||tenzinpalmo.com^$dnstype=~A|~CNAME
 ||terabox.com^$dnstype=~A|~CNAME
