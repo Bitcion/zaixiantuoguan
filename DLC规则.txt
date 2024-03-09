@@ -10,3 +10,4 @@ payload:
   - '+.udn.com'
   - '+.mxyssr.com'
   - '+.zuomengyun.top'
+  - '+.opendota.com'
