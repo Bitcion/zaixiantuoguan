@@ -2,6 +2,7 @@ schwab.com
 ibkr.com
 interactivebrokers.com
 bilibili.com
+bilivideo.cn
 byteoversea.com
 muscdn.com
 musical.ly
