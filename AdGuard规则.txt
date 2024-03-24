@@ -1,6 +1,3 @@
-||dw.com^$dnstype=~A|~CNAME
-||rfi.fr^$dnstype=~A|~CNAME
-||nikkei.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
