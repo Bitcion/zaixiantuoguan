@@ -338,6 +338,7 @@
 ||appledaily.com^$dnstype=~A|~CNAME
 ||appledaily.com.hk^$dnstype=~A|~CNAME
 ||appledaily.com.tw^$dnstype=~A|~CNAME
+||apps.evozi.com^$dnstype=~A|~CNAME
 ||appshopper.com^$dnstype=~A|~CNAME
 ||appsocks.net^$dnstype=~A|~CNAME
 ||appspot.com^$dnstype=~A|~CNAME
@@ -347,6 +348,7 @@
 ||archive.fo^$dnstype=~A|~CNAME
 ||archive.is^$dnstype=~A|~CNAME
 ||archive.li^$dnstype=~A|~CNAME
+||archive.md^$dnstype=~A|~CNAME
 ||archive.org^$dnstype=~A|~CNAME
 ||archive.ph^$dnstype=~A|~CNAME
 ||archive.today^$dnstype=~A|~CNAME
@@ -817,6 +819,7 @@
 ||c-spanvideo.org^$dnstype=~A|~CNAME
 ||c100tibet.org^$dnstype=~A|~CNAME
 ||c2cx.com^$dnstype=~A|~CNAME
+||cableav.tv^$dnstype=~A|~CNAME
 ||cablegatesearch.net^$dnstype=~A|~CNAME
 ||cachinese.com^$dnstype=~A|~CNAME
 ||cacnw.com^$dnstype=~A|~CNAME
@@ -1045,6 +1048,7 @@
 ||chubun.com^$dnstype=~A|~CNAME
 ||churchinhongkong.org^$dnstype=~A|~CNAME
 ||chushigangdrug.ch^$dnstype=~A|~CNAME
+||ciciai.com^$dnstype=~A|~CNAME
 ||cienen.com^$dnstype=~A|~CNAME
 ||cineastentreff.de^$dnstype=~A|~CNAME
 ||cipfg.org^$dnstype=~A|~CNAME
@@ -1174,6 +1178,7 @@
 ||cotweet.com^$dnstype=~A|~CNAME
 ||counter.social^$dnstype=~A|~CNAME
 ||coursehero.com^$dnstype=~A|~CNAME
+||coze.com^$dnstype=~A|~CNAME
 ||cpj.org^$dnstype=~A|~CNAME
 ||cq99.us^$dnstype=~A|~CNAME
 ||crackle.com^$dnstype=~A|~CNAME
@@ -3655,6 +3660,7 @@
 ||newmitbbs.com^$dnstype=~A|~CNAME
 ||newnews.ca^$dnstype=~A|~CNAME
 ||news.cnyes.com^$dnstype=~A|~CNAME
+||news.ebc.net.tw^$dnstype=~A|~CNAME
 ||news.hk.msn.com^$dnstype=~A|~CNAME
 ||news.msn.com.tw^$dnstype=~A|~CNAME
 ||news.nationalgeographic.com^$dnstype=~A|~CNAME
