@@ -11,4 +11,5 @@ payload:
   - '+.mxyssr.com'
   - '+.zuomengyun.top'
   - '+.opendota.com'
+  - 'bard.google.com'
   - 'gemini.google.com'
