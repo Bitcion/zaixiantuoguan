@@ -12,4 +12,8 @@ payload:
   - '+.zuomengyun.top'
   - '+.opendota.com'
   - 'bard.google.com'
+  - '+.digicert.com'
   - 'gemini.google.com'
+  - '+.oaistatic.com'
+  - '+.chatgpt.com'
+  - '+.intercom.io'
