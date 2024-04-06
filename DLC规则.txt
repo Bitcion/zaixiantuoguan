@@ -18,3 +18,4 @@ payload:
   - '+.chatgpt.com'
   - '+.intercom.io'
   - '+.ipinfo.io'
+  - '+.bingapis.com'
