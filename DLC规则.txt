@@ -19,3 +19,4 @@ payload:
   - '+.intercom.io'
   - '+.ipinfo.io'
   - '+.bingapis.com'
+  - '+.microsoft-falcon.io'
