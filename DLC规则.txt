@@ -17,3 +17,4 @@ payload:
   - '+.oaistatic.com'
   - '+.chatgpt.com'
   - '+.intercom.io'
+  - '+.ipinfo.io'
