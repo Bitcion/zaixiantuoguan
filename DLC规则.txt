@@ -20,4 +20,3 @@ payload:
   - '+.ipinfo.io'
   - '+.bingapis.com'
   - '+.microsoft-falcon.io'
-  - '+.uscardforum.com'
