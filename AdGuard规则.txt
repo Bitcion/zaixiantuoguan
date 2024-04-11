@@ -228,7 +228,6 @@
 ||openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 ||ai.com^$dnstype=~A|~CNAME
 ||auth0.com^$dnstype=~A|~CNAME
-||challenges.cloudflare.com^$dnstype=~A|~CNAME  
 ||client-api.arkoselabs.com^$dnstype=~A|~CNAME
 ||events.statsigapi.net^$dnstype=~A|~CNAME
 ||featuregates.org^$dnstype=~A|~CNAME
