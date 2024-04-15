@@ -636,7 +636,6 @@
 ||blogimg.jp^$dnstype=~A|~CNAME
 ||bloglines.com^$dnstype=~A|~CNAME
 ||bloglovin.com^$dnstype=~A|~CNAME
-||blogs.icerocket.com^$dnstype=~A|~CNAME
 ||blogs.libraryinformationtechnology.com^$dnstype=~A|~CNAME
 ||blogs.tampabay.com^$dnstype=~A|~CNAME
 ||blogs.yahoo.co.jp^$dnstype=~A|~CNAME
@@ -2739,6 +2738,7 @@
 ||ibvpn.com^$dnstype=~A|~CNAME
 ||icams.com^$dnstype=~A|~CNAME
 ||ice.audionow.com^$dnstype=~A|~CNAME
+||icedrive.net^$dnstype=~A|~CNAME
 ||icij.org^$dnstype=~A|~CNAME
 ||icl-fi.org^$dnstype=~A|~CNAME
 ||icoco.com^$dnstype=~A|~CNAME
@@ -4375,6 +4375,7 @@
 ||roodo.com^$dnstype=~A|~CNAME
 ||rosechina.net^$dnstype=~A|~CNAME
 ||rotten.com^$dnstype=~A|~CNAME
+||rou.video^$dnstype=~A|~CNAME
 ||rsdlmonitor.com^$dnstype=~A|~CNAME
 ||rsf-chinese.org^$dnstype=~A|~CNAME
 ||rsf.org^$dnstype=~A|~CNAME
