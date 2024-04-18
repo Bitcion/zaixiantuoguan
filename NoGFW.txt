@@ -1,3 +1,4 @@
+.bnbstatic.com
 .spotify.com
 claude.ai
 .anthropic.com
