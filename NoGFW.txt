@@ -15,3 +15,5 @@ blockcast.it
 terabox.app
 .github.io
 .ibytedtos.com
+x.com
+.x.com
