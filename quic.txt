@@ -31,7 +31,7 @@ blockcast.it
 .yahoo.com
 .claude.ai
 .cn2qq.com
-.terabox.app
+terabox.app
 .terabox.com
 github.com
 .github.io
