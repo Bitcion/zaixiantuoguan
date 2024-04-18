@@ -7,3 +7,5 @@ bing.com
 goutx.cf
 ibkr.com
 interactivebrokers.com
+bing.com
+yahoo.com
