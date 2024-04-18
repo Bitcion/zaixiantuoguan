@@ -18,3 +18,4 @@ terabox.app
 x.com
 .x.com
 .github.io
+.ibyteimg.com
