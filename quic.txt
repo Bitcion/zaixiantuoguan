@@ -32,7 +32,6 @@ claude.ai
 .cn2qq.com
 terabox.app
 terabox.com
-github.com
 .github.io
 messenger.live.com
 byteoversea.com
