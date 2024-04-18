@@ -15,7 +15,7 @@ gemini.google.com
 .oaistatic.com
 .chatgpt.com
 .intercom.io
-.ipinfo.io
+ipinfo.io
 .bingapis.com
 .microsoft-falcon.io
 .uscardforum.com
