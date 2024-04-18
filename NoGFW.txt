@@ -17,3 +17,4 @@ terabox.app
 .ibytedtos.com
 x.com
 .x.com
+.github.io
