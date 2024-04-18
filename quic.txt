@@ -7,7 +7,7 @@ bing.com
 goutx.cf
 ibkr.com
 interactivebrokers.com
-bing.com
+.bing.com
 yahoo.com
 claude.ai
 cn2qq.com
