@@ -45,5 +45,6 @@ tiktokd.org
 tiktokcdn.com
 tiktokv.com
 p16-tiktokcdn-com.akamaized.net
+.ibytedtos.com
 
 
