@@ -235,5 +235,4 @@
 ||intercom.io^$dnstype=~A|~CNAME
 ||intercomcdn.com^$dnstype=~A|~CNAME
 ||poe.com^$dnstype=~A|~CNAME
-||sentry.io^$dnstype=~A|~CNAME
 ||ibytedtos.com^$dnstype=~A|~CNAME
