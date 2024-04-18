@@ -22,7 +22,7 @@ gemini.google.com
 .blocktempo.com
 .technews.tw
 .ctee.com.tw
-.blockcast.it
+blockcast.it
 .bing.com
 .goutx.cf
 .ibkr.com
