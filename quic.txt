@@ -11,3 +11,4 @@ bing.com
 yahoo.com
 claude.ai
 cn2qq.com
+github.com
