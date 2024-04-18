@@ -1,3 +1,6 @@
+
+.ttwstatic.com
+.tiktokcdn-us.com
 .spotify.com
 .freenom.com
 .steamstatic.com
