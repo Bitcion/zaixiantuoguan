@@ -34,3 +34,4 @@ blockcast.it
 .terabox.app
 .terabox.com
 github.com
+.github.io
