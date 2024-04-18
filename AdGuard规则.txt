@@ -2,7 +2,6 @@
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
-||bitcion.github.io^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
