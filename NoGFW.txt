@@ -2,6 +2,7 @@
 claude.ai
 .anthropic.com
 .mxyssr.com
+.cn2qq.com
 bard.google.com
 gemini.google.com
 ipinfo.io
