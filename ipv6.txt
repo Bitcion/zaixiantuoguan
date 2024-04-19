@@ -898,6 +898,7 @@
 ||cdn-telegram.org^$dnstype=~A|~CNAME
 ||cdn.assets.lfpcontent.com^$dnstype=~A|~CNAME
 ||cdn.helixstudios.net^$dnstype=~A|~CNAME
+||cdn.jwplayer.com^$dnstype=~A|~CNAME
 ||cdn.printfriendly.com^$dnstype=~A|~CNAME
 ||cdn.seatguru.com^$dnstype=~A|~CNAME
 ||cdn.softlayer.net^$dnstype=~A|~CNAME
@@ -1611,6 +1612,7 @@
 ||etadult.com^$dnstype=~A|~CNAME
 ||etaiwannews.com^$dnstype=~A|~CNAME
 ||etherdelta.com^$dnstype=~A|~CNAME
+||ethermine.org^$dnstype=~A|~CNAME
 ||etherscan.io^$dnstype=~A|~CNAME
 ||etizer.org^$dnstype=~A|~CNAME
 ||etokki.com^$dnstype=~A|~CNAME
@@ -1647,6 +1649,7 @@
 ||ezpc.tk^$dnstype=~A|~CNAME
 ||ezpeer.com^$dnstype=~A|~CNAME
 ||ezua.com^$dnstype=~A|~CNAME
+||f2pool.com^$dnstype=~A|~CNAME
 ||f8.com^$dnstype=~A|~CNAME
 ||fa.gov.tw^$dnstype=~A|~CNAME
 ||facebook.br^$dnstype=~A|~CNAME
@@ -2653,6 +2656,7 @@
 ||hrcir.com^$dnstype=~A|~CNAME
 ||hrea.org^$dnstype=~A|~CNAME
 ||hrichina.org^$dnstype=~A|~CNAME
+||hrntt.org^$dnstype=~A|~CNAME
 ||hrtsea.com^$dnstype=~A|~CNAME
 ||hrw.org^$dnstype=~A|~CNAME
 ||hrweb.org^$dnstype=~A|~CNAME
@@ -3759,6 +3763,7 @@
 ||noypf.com^$dnstype=~A|~CNAME
 ||npa.go.jp^$dnstype=~A|~CNAME
 ||npa.gov.tw^$dnstype=~A|~CNAME
+||npm.gov.tw^$dnstype=~A|~CNAME
 ||npnt.me^$dnstype=~A|~CNAME
 ||nps.gov^$dnstype=~A|~CNAME
 ||npsboost.com^$dnstype=~A|~CNAME
@@ -4137,6 +4142,7 @@
 ||posts.careerengine.us^$dnstype=~A|~CNAME
 ||potato.im^$dnstype=~A|~CNAME
 ||potvpn.com^$dnstype=~A|~CNAME
+||pourquoi.tw^$dnstype=~A|~CNAME
 ||power.com^$dnstype=~A|~CNAME
 ||powerapple.com^$dnstype=~A|~CNAME
 ||powercx.com^$dnstype=~A|~CNAME
@@ -6087,6 +6093,7 @@
 ||z-lib.org^$dnstype=~A|~CNAME
 ||zacebook.com^$dnstype=~A|~CNAME
 ||zalmos.com^$dnstype=~A|~CNAME
+||zamimg.com^$dnstype=~A|~CNAME
 ||zannel.com^$dnstype=~A|~CNAME
 ||zaobao.com^$dnstype=~A|~CNAME
 ||zaobao.com.sg^$dnstype=~A|~CNAME
