@@ -1,3 +1,4 @@
+||bitcion.github.io^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
