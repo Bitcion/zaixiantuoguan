@@ -21,3 +21,4 @@ x.com
 .github.io
 .ibyteimg.com
 .tiktokcdn-us.com
+.zuomengyun.top
