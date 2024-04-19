@@ -17,3 +17,4 @@ worldfcdn2.com
 ttlivecdn.com
 ttwstatic.com
 tiktokcdn-us.com
+fastly.net
