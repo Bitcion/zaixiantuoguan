@@ -12,3 +12,8 @@ tiktokd.org
 tiktokcdn.com
 tiktokv.com 
 p16-tiktokcdn-com.akamaized.net
+bytefcdn-ttpeu.com
+worldfcdn2.com
+ttlivecdn.com
+ttwstatic.com
+tiktokcdn-us.com
