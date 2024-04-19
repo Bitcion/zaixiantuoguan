@@ -22,3 +22,4 @@ x.com
 .ibyteimg.com
 .tiktokcdn-us.com
 .zuomengyun.top
+.ibkr.com
