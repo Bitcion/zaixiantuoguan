@@ -1,3 +1,15 @@
+.oaistatic.com
+.intercomcdn.com
+.clean.gg
+.scorecardresearch.com
+.rubiconproject.com
+.indexww.com
+.media.net
+.pubmatic.com
+.casalemedia.com
+.3lift.com
+.openx.net
+.criteo.com
 .spotify.com
 claude.ai
 .anthropic.com
