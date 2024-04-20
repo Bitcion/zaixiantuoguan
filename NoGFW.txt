@@ -30,8 +30,7 @@ blockcast.it
 terabox.app
 .github.io
 .ibytedtos.com
-x.com
-.x.com
+*..x.com
 .github.io
 .ibyteimg.com
 .tiktokcdn-us.com
