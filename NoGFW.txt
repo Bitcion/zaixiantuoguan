@@ -1,3 +1,4 @@
+.steamstatic.com
 .oaistatic.com
 .intercomcdn.com
 .clean.gg
