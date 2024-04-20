@@ -1,6 +1,5 @@
 .steamstatic.com
 .steam-api.com
-.oaistatic.com
 .intercomcdn.com
 .clean.gg
 .scorecardresearch.com
