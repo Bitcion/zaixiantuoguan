@@ -23,3 +23,5 @@ x.com
 .tiktokcdn-us.com
 .zuomengyun.top
 .ibkr.com
+.sentry.io
+.saasexch.com
