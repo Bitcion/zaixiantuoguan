@@ -1,3 +1,4 @@
+.uscardforum.com
 .steamstatic.com
 .steam-api.com
 .oaistatic.com
