@@ -24,7 +24,6 @@ intercom.io
 ipinfo.io
 bingapis.com
 microsoft-falcon.io
-uscardforum.com
 blocktempo.com
 technews.tw
 ctee.com.tw
