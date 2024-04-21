@@ -1,3 +1,4 @@
+.onetrust.com
 .steamstatic.com
 .steam-api.com
 .intercomcdn.com
