@@ -52,3 +52,4 @@
 +.claude.ai
 +.tw
 +.bing.com
++.msn.com
