@@ -50,3 +50,4 @@
 +.sentry.io
 +.saasexch.com
 +.claude.ai
++.com.tw
