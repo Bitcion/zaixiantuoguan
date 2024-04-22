@@ -53,4 +53,3 @@
 +.saasexch.com
 +.opendota.com
 +.claude.com
-+.yahoo.com
