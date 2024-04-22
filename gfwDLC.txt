@@ -47,7 +47,6 @@
 +.github.io
 +.ibytedtos.com
 +.zuomengyun.top
-+.ibkr.com
 +.sentry.io
 +.saasexch.com
 +.claude.ai
