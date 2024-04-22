@@ -1,5 +1,4 @@
 +.onetrust.com
-+.bnbstatic.com
 +.bytefcdn-ttpeu.com
 +.ibyteimg.com
 +.worldfcdn2.com
