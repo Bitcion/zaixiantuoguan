@@ -45,8 +45,8 @@ ipinfo.io
 .bingapis.com
 .microsoft-falcon.io
 .blocktempo.com
-blockcast.it
-terabox.app
+.blockcast.it
+.terabox.app
 .terabox.com
 .github.io
 .ibytedtos.com
