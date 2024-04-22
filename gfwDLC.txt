@@ -32,7 +32,6 @@
 +.openx.net
 +.criteo.com
 +.spotify.com
-+.claude.ai
 +.anthropic.com
 +.mxyssr.com
 +.cn2qq.com
