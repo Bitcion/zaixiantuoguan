@@ -50,4 +50,4 @@
 +.ibkr.com
 +.sentry.io
 +.saasexch.com
-+.claude.com
+claude.com
