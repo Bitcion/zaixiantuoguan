@@ -214,7 +214,7 @@
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
 ||usefathom.com^$dnstype=~A|~CNAME
-||bing.com^$dnstype=~A
+||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||oaistatic.com^$dnstype=~A|~CNAME
