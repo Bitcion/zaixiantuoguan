@@ -15,6 +15,7 @@
 ||msftauth.net^$dnstype=A
 ||microsoftonline.com^$dnstype=A
 ||msn.cn^$dnstype=A
+||microsofttranslator.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
