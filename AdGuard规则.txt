@@ -2,6 +2,7 @@
 ||digicert.com^$dnstype=A
 ||microsoft.com^$dnstype=A
 ||apple.cn^$dnstype=A
+||msedge.net^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
