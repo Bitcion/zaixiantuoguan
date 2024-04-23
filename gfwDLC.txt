@@ -54,3 +54,4 @@
 +.bing.com
 +.msn.com
 +.bing.net
++.microsoftapp.net
