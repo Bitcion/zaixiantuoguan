@@ -1,9 +1,7 @@
-+.onetrust.com
 +.bytefcdn-ttpeu.com
 +.ibyteimg.com
 +.worldfcdn2.com
 +.ttlivecdn.com
-+.ttwstatic.com
 +.tiktokcdn-us.com
 +.messenger.live.com
 +.byteoversea.com
@@ -32,10 +30,7 @@
 +.terabox.app
 +.terabox.com
 +.github.io
-+.ibytedtos.com
 +.zuomengyun.top
-+.sentry.io
-+.saasexch.com
 +.claude.ai
 +.tw
 +.bing.com
