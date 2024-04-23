@@ -11,6 +11,7 @@
 ||mozilla.com^$dnstype=A
 ||nelreports.net^$dnstype=A
 ||mozilla.org^$dnstype=A
+||live.com^$dnstype=A
 ||msftauth.net^$dnstype=A
 ||microsoftonline.com^$dnstype=A
 
