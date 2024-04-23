@@ -11,6 +11,8 @@
 ||mozilla.com^$dnstype=A
 ||nelreports.net^$dnstype=A
 ||mozilla.org^$dnstype=A
+||msftauth.net^$dnstype=A
+||microsoftonline.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
