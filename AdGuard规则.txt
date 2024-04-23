@@ -10,6 +10,7 @@
 ||apple.com^$dnstype=A
 ||mozilla.com^$dnstype=A
 ||nelreports.net^$dnstype=A
+||mozilla.org^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
