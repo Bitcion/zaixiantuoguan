@@ -11,9 +11,9 @@
 ||mozilla.com^$dnstype=A
 ||nelreports.net^$dnstype=A
 ||mozilla.org^$dnstype=A
-||live.com^$dnstype=A
-@@||messenger.live.com^$dnstype=A
 ||messenger.live.com^$dnstype=~A|~CNAME
+@@||messenger.live.com^$dnstype=A
+||live.com^$dnstype=A
 ||msftauth.net^$dnstype=A
 ||microsoftonline.com^$dnstype=A
 ||msn.cn^$dnstype=A
