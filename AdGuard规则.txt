@@ -1,21 +1,4 @@
-||msftstatic.com^$dnstype=A
-||digicert.com^$dnstype=A
-||microsoft.com^$dnstype=A
-||apple.cn^$dnstype=A
-||msedge.net^$dnstype=A
-||office.net^$dnstype=A
-||windows.com^$dnstype=A
-||akamaized.net^$dnstype=A
-||virtualearth.net^$dnstype=A
-||apple.com^$dnstype=A
-||mozilla.com^$dnstype=A
-||nelreports.net^$dnstype=A
-||mozilla.org^$dnstype=A
-||messenger.live.com^$dnstype=~A|~CNAME
-||msftauth.net^$dnstype=A
-||microsoftonline.com^$dnstype=A
-||msn.cn^$dnstype=A
-||microsofttranslator.com^$dnstype=A
+
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
