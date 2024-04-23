@@ -40,7 +40,6 @@
 +.oaistatic.com
 +.chatgpt.com
 +.intercom.io
-+.microsoft-falcon.io
 +.blocktempo.com
 +.terabox.app
 +.terabox.com
