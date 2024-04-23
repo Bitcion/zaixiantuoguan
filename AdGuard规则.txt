@@ -19,10 +19,10 @@
 ||microsofttranslator.com^$dnstype=A
 ||appcenter.ms^$dnstype=A
 ||microsoft-falcon.io^$dnstype=A
+||microsoftapp.net^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
-||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
