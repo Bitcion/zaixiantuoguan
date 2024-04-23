@@ -16,6 +16,8 @@
 ||microsoftonline.com^$dnstype=A
 ||msn.cn^$dnstype=A
 ||microsofttranslator.com^$dnstype=A
+||appcenter.ms^$dnstype=A
+||microsoftapp.net^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
@@ -237,7 +239,6 @@
 ||sprinklesapp.com^$dnstype=~A|~CNAME
 ||bingviz.com^$dnstype=~A|~CNAME
 ||microsoft-falcon.io^$dnstype=~A|~CNAME
-||microsoftapp.net^$dnstype=~A|~CNAME
 ||bing.com.cn^$dnstype=~A|~CNAME
 ||bing123.com^$dnstype=~A|~CNAME
 ||ditu.live.com^$dnstype=~A|~CNAME
