@@ -1,6 +1,6 @@
 ||msftstatic.com^$dnstype=A
 ||digicert.com^$dnstype=A
-||smartscreen.microsoft.com^$dnstype=A
+||microsoft.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
