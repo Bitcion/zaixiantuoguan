@@ -53,3 +53,4 @@
 +.tw
 +.bing.com
 +.msn.com
++.bing.net
