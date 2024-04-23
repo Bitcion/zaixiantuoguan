@@ -21,6 +21,8 @@
 ||microsoft-falcon.io^$dnstype=A
 ||microsoftapp.net^$dnstype=A
 ||bingapis.com^$dnstype=A
+||intercom.io^$dnstype=A
+||intercomcdn.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
@@ -214,17 +216,8 @@
 ||yusercontent.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
-||usefathom.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||oaistatic.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
-||ai.com^$dnstype=~A|~CNAME
-||auth0.com^$dnstype=~A|~CNAME
-||client-api.arkoselabs.com^$dnstype=~A|~CNAME
-||events.statsigapi.net^$dnstype=~A|~CNAME
-||featuregates.org^$dnstype=~A|~CNAME
-||intercom.io^$dnstype=A
-||intercomcdn.com^$dnstype=A
-||poe.com^$dnstype=~A|~CNAME
-||ibytedtos.com^$dnstype=~A|~CNAME
+
