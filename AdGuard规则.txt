@@ -16,6 +16,9 @@
 ||microsoftonline.com^$dnstype=A
 ||msn.cn^$dnstype=A
 ||microsofttranslator.com^$dnstype=A
+||live.com^$dnstype=A
+||skype.com^$dnstype=A
+||microsoftapp.net^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
