@@ -238,6 +238,7 @@
 ||sprinklesapp.com^$dnstype=~A|~CNAME
 ||bingviz.com^$dnstype=~A|~CNAME
 ||microsoft-falcon.io^$dnstype=~A|~CNAME
+||azureedge.net^$dnstype=~A|~CNAME
 ||microsoftapp.net^$dnstype=~A|~CNAME
 ||bing.com.cn^$dnstype=~A|~CNAME
 ||bing123.com^$dnstype=~A|~CNAME
