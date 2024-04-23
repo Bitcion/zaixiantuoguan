@@ -5,6 +5,9 @@
 ||msedge.net^$dnstype=A
 ||office.net^$dnstype=A
 ||windows.com^$dnstype=A
+||akamaized.net^$dnstype=A
+||virtualearth.net^$dnstype=A
+||apple.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
