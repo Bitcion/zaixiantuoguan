@@ -35,4 +35,3 @@
 +.tw
 +.bing.com
 +.msn.com
-wwwprod.www-bing-com.akadns.net
