@@ -12,6 +12,8 @@
 ||nelreports.net^$dnstype=A
 ||mozilla.org^$dnstype=A
 ||live.com^$dnstype=A
+@@||messenger.live.com^$dnstype=A
+||messenger.live.com^$dnstype=~A|~CNAME
 ||msftauth.net^$dnstype=A
 ||microsoftonline.com^$dnstype=A
 ||msn.cn^$dnstype=A
@@ -241,7 +243,6 @@
 ||bing.com.cn^$dnstype=~A|~CNAME
 ||bing123.com^$dnstype=~A|~CNAME
 ||ditu.live.com^$dnstype=~A|~CNAME
-||messenger.live.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||oaistatic.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
