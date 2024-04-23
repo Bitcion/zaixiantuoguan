@@ -19,17 +19,6 @@
 +.ibytedtos.com
 +.steamstatic.com
 +.steam-api.com
-+.intercomcdn.com
-+.clean.gg
-+.scorecardresearch.com
-+.rubiconproject.com
-+.indexww.com
-+.media.net
-+.pubmatic.com
-+.casalemedia.com
-+.3lift.com
-+.openx.net
-+.criteo.com
 +.spotify.com
 +.anthropic.com
 +.mxyssr.com
@@ -39,7 +28,6 @@
 +.ipinfo.io
 +.oaistatic.com
 +.chatgpt.com
-+.intercom.io
 +.blocktempo.com
 +.terabox.app
 +.terabox.com
