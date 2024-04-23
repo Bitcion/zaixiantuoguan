@@ -17,6 +17,7 @@
 ||msn.cn^$dnstype=A
 ||microsofttranslator.com^$dnstype=A
 ||appcenter.ms^$dnstype=A
+||microsoft-falcon.io^$dnstype=A
 
 ||microsoftapp.net^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
