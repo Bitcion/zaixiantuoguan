@@ -1,4 +1,5 @@
 ||msftstatic.com^$dnstype=A
+||digicert.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
