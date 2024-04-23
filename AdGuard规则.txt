@@ -12,7 +12,6 @@
 ||nelreports.net^$dnstype=A
 ||mozilla.org^$dnstype=A
 ||messenger.live.com^$dnstype=~A|~CNAME
-||live.com^$dnstype=A
 ||msftauth.net^$dnstype=A
 ||microsoftonline.com^$dnstype=A
 ||msn.cn^$dnstype=A
