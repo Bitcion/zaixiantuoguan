@@ -20,6 +20,7 @@
 ||appcenter.ms^$dnstype=A
 ||microsoft-falcon.io^$dnstype=A
 ||microsoftapp.net^$dnstype=A
+||bingapis.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
