@@ -1,3 +1,5 @@
+||msftstatic.com^$dnstype=A
+
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
