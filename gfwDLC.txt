@@ -35,3 +35,4 @@
 +.tw
 +.bing.com
 +.msn.com
++.microsofttranslator.com
