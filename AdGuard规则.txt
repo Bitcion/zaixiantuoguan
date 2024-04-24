@@ -16,7 +16,6 @@
 ||microsoftonline.com^$dnstype=A
 ||msn.cn^$dnstype=A
 ||skype.com^$dnstype=A
-||microsofttranslator.com^$dnstype=A
 ||appcenter.ms^$dnstype=A
 ||microsoft-falcon.io^$dnstype=A
 ||microsoftapp.net^$dnstype=A
