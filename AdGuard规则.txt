@@ -24,7 +24,6 @@
 ||intercom.io^$dnstype=A
 ||intercomcdn.com^$dnstype=A
 ||windows.net^$dnstype=A
-||scorecardresearch.com^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
