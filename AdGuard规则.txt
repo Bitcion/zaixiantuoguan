@@ -23,6 +23,7 @@
 ||bingapis.com^$dnstype=A
 ||intercom.io^$dnstype=A
 ||intercomcdn.com^$dnstype=A
+||windows.net^$dnstype=A
 
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
