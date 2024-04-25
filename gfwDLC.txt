@@ -36,3 +36,4 @@
 +.bing.com
 +.msn.com
 +.microsofttranslator.com
++.uscardforum.com
