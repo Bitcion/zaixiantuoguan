@@ -25,8 +25,6 @@
 ||windows.net^$dnstype=A
 ||microsofttranslator.com^$dnstype=A
 
-||icook.tw^$dnstype=~A|~CNAME
-||icook.hk^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
