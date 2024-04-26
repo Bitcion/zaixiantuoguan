@@ -1,6 +1,5 @@
 ||msftstatic.com^$dnstype=A
 ||digicert.com^$dnstype=A
-||microsoft.com^$dnstype=A
 ||apple.cn^$dnstype=A
 ||msedge.net^$dnstype=A
 ||office.net^$dnstype=A
