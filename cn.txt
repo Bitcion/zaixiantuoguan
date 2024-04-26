@@ -1,4 +1,3 @@
-wechat.com
 miui.com
 bilibili.com
 bilivideo.cn
@@ -18,3 +17,4 @@ ttlivecdn.com
 ttwstatic.com
 tiktokcdn-us.com
 fastly.net
+data.microsoft.com
