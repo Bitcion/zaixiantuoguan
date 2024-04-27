@@ -34,6 +34,7 @@
 +.claude.ai
 +.tw
 +.bing.com
++.bing.net
 +.msn.com
 +.microsofttranslator.com
 +.uscardforum.com
