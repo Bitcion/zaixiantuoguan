@@ -24,6 +24,7 @@
 ||windows.net^$dnstype=A
 ||microsofttranslator.com^$dnstype=A
 
+||bing.net^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
