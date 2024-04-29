@@ -1,4 +1,4 @@
-||bing.net^$dnstype=~A|~CNAME
+||cn.mm.bing.net^
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
 ||usefathom.com^$dnstype=~A|~CNAME
