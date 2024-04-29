@@ -667,11 +667,11 @@ if [ ! -f "$app_21" ] || [ ! -s "$app_21" ] ; then
 	cat > "$app_21" <<-\EEE
 dns:
   enable: true
-  ipv6: false
+  ipv6: true
   listen: 0.0.0.0:8053
   default-nameserver :
-    - 8.8.8.8
-  enhanced-mode: fake-ip
+    - 223.5.5.5
+  enhanced-mode: redir-host
   # enhanced-mode: redir-host # 或 fake-ip
   # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
   # # 实验性功能 hosts, 支持通配符 (例如 *.clash.dev 甚至 *.foo.*.example.com)
@@ -699,10 +699,6 @@ dns:
     # 与 nameserver 内的服务器列表同时发起请求，当规则符合 GEOIP 在 CN 以外时，fallback 列表内的域名服务器生效。
     - https://dns.google/dns-query
     - https://1.0.0.1/dns-query
-    - tcp://8.8.8.8:53
-    - tcp://8.8.4.4:53
-    - tcp://208.67.222.222:443
-    - tcp://208.67.220.220:443
     # - tls://1.0.0.1:853
     # - tls://dns.google:853
     # - tls://dns.google
@@ -715,16 +711,12 @@ dns:
     ipcidr:
       - 240.0.0.0/4
     domain:
-      - '+.google.com'
-      - '+.googleapis.com'
-      - '+.youtube.com'
-      - '+.appspot.com'
-      - '+.telegram.com'
-      - '+.facebook.com'
-      - '+.twitter.com'
-      - '+.blogger.com'
-      - '+.gmail.com'
-      - '+.gvt1.com'
+      - '+.bing.com'
+      - '+.yahoo.com'
+  tun:
+  enable: true
+  stack: system 
+  auto-route: false    
 
 EEE
 	chmod 755 "$app_21"
@@ -735,7 +727,7 @@ if [ -z "$(cat $app_21 | grep sniffer)" ] ; then
 	cat >> "$app_21" <<-\EEE
 sniffer:
   enable: true
-  override-destination: true
+  override-destination: false
   sniff:
     http: { ports: [80, 8080] }
     tls: { ports: [443, 8443] }
