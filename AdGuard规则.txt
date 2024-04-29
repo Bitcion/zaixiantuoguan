@@ -1,4 +1,6 @@
 ||cn.mm.bing.net^
+||cn.bing.com^
+||bing123.com^
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
 ||usefathom.com^$dnstype=~A|~CNAME
