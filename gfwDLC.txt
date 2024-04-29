@@ -38,3 +38,4 @@
 +.msn.com
 +.microsofttranslator.com
 +.uscardforum.com
++.openai.com.cdn.cloudflare.net
