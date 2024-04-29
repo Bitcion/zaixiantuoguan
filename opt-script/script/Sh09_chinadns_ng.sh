@@ -367,6 +367,10 @@ server-name smartdns
 # 附加配置文件
 # conf-file [file]
 # conf-file /etc/storage/smartdns.more.conf
+conf-file /opt/anti-ad-for-smartdns.conf
+domain-set -name gfw -file /opt/gfw.txt
+domain-set -name cn -file /opt/cn.txt
+domain-set -name quic -file /opt/quic.txt
 
 # dns服务器绑定ip和端口，默认dns服务器端口为53，支持绑定多个ip和端口
 # bind udp server
@@ -389,7 +393,7 @@ server-name smartdns
 #  IPV6:
 #    bind [::]:53
 #    bind-tcp [::]:53
-bind 0.0.0.0:8051 -group china
+bind 0.0.0.0:8051 -group china  -no-speed-check -no-dualstack-selection -no-cache
 bind 0.0.0.0:8052 -group office
 
 # china 服务器
@@ -401,39 +405,10 @@ server 1.2.4.8 -group china
 #server 240c::6644 -group china
 
 # office 服务器 https://kb.adguard.com/en/general/dns-providers
-# Google DNS
-server 8.8.8.8 -group office
-#server 2001:4860:4860::8888 -group office
-server-https https://dns.google/dns-query -group office
-server-tcp 8.8.8.8 -group office
-server-tls 8.8.8.8 -group office
-# Cloudflare DNS
-server 1.0.0.1 -group office
-#server 2606:4700:4700::1111 -group office
-server-https https://dns.cloudflare.com/dns-query -group office
-server-tls 1.0.0.1 -group office
-# adguard
-#server 176.103.130.130 -group office
-#server 2a00:5a60::ad1:0ff -group office
-#server-https https://dns.adguard.com/dns-query -group office
-# OpenDNS
-server 208.67.222.222 -group office
-server-tcp 208.67.222.222:443 -group office
-#server 2620:119:35::35 -group office
-# Yandex
-#server 77.88.8.8 -group office
-#server 2a02:6b8::feed:0ff -group office
-# Neustar Recursive
-#server 156.154.70.1 -group office
-#server 2610:a1:1018::1 -group office
-# verisign
-#server 64.6.64.6 -group office
-#server 2620:74:1b::1:1 -group office
-# Quad101
-#server 101.101.101.101 -group office
-#server 2001:de4::101 -group office
-# safedns
-#server 195.46.39.39 -group office
+#server-https https://dns.google/dns-query -group office
+#server-tls 2001:4860:4860::8844 -group office
+#server-https https://dns.cloudflare.com/dns-query -group office
+#server-tls 1.0.0.1 -group office
 
 # TCP链接空闲超时时间
 # tcp-idle-time [second]
@@ -442,7 +417,7 @@ server-tcp 208.67.222.222:443 -group office
 # 域名结果缓存个数
 # cache-size [number]
 #   0: for no cache
-cache-size 512
+# cache-size 512
 
 # 域名预先获取功能
 # prefetch-domain [yes|no]
@@ -547,13 +522,17 @@ rr-ttl-min 300
 # nameserver /domain/[group|-]
 # nameserver /www.example.com/office, Set the domain name to use the appropriate server group.
 # nameserver /www.example.com/-, ignore this domain
-nameserver /opt.cn2qq.com/office
+nameserver /domain-set:gfw/office
+nameserver /domain-set:cn/china
+nameserver /domain-set:quic/office
+
 
 # 指定域名IP地址
 # address /domain/[ip|-|-4|-6|#|#4|#6]
 # address /www.example.com/1.2.3.4, return ip 1.2.3.4 to client
 # address /www.example.com/-, ignore address, query from upstream, suffix 4, for ipv4, 6 for ipv6, none for all
 # address /www.example.com/#, return SOA to client, suffix 4, for ipv4, 6 for ipv6, none for all
+address /bing.com/204.79.197.200
 
 # 设置IPSET超时功能启用
 # ipset-timeout yes
