@@ -404,7 +404,9 @@ server 1.2.4.8 -group china
 #server 240c::6666 -group china
 #server 240c::6644 -group china
 
-# office 服务器 https://kb.adguard.com/en/general/dns-providers
+# office 服务器 
+
+server 0.0.0.0:8054 -group office
 #server-https https://dns.google/dns-query -group office
 #server-tls 2001:4860:4860::8844 -group office
 #server-https https://dns.cloudflare.com/dns-query -group office
