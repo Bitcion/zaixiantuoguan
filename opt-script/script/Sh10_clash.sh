@@ -688,17 +688,15 @@ dns:
   #   - localhost.ptlogin2.qq.com
 
   nameserver:
-    - 223.5.5.5
-    - 114.114.114.114
-    - 119.29.29.29
-    # - tls://dns.rubyfish.cn:853
-    # - https://dns.rubyfish.cn/dns-query
-    # - https://dns.alidns.com/dns-query
+    - tls://1dot1dot1dot1.cloudflare-dns.com
+    - https://one.one.one.one/dns-query
+    - https://dns.google/dns-query
 
   fallback:
     # 与 nameserver 内的服务器列表同时发起请求，当规则符合 GEOIP 在 CN 以外时，fallback 列表内的域名服务器生效。
+    - tls://1dot1dot1dot1.cloudflare-dns.com
+    - https://one.one.one.one/dns-query
     - https://dns.google/dns-query
-    - https://1.0.0.1/dns-query
     # - tls://1.0.0.1:853
     # - tls://dns.google:853
     # - tls://dns.google
