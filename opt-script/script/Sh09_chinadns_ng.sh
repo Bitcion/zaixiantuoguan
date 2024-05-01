@@ -393,7 +393,7 @@ domain-set -name quic -file /opt/quic.txt
 #  IPV6:
 #    bind [::]:53
 #    bind-tcp [::]:53
-bind 0.0.0.0:8051 -group china  -no-speed-check -no-dualstack-selection -no-cache
+bind 0.0.0.0:8051 -group china -no-cache
 bind 0.0.0.0:8052 -group office
 
 # china 服务器
@@ -442,7 +442,7 @@ prefetch-domain yes
 # example:
 #   speed-check-mode ping,tcp:80
 #   speed-check-mode tcp:443,ping
-#   speed-check-mode none
+    speed-check-mode none
 
 # 强制AAAA地址返回SOA
 # force-AAAA-SOA [yes|no]
@@ -450,11 +450,11 @@ prefetch-domain yes
 # 启用IPV4，IPV6双栈IP优化选择策略
 # dualstack-ip-selection-threshold [num] (0~1000)
 # dualstack-ip-selection [yes|no]
-# dualstack-ip-selection yes
+  dualstack-ip-selection no
 
 # edns客户端子网
 # edns-client-subnet [ip/subnet]
-# edns-client-subnet 192.168.1.1/24
+# edns-client-subnet edns-client-subnet [2409:8080:0:4:2c6:2f6:2:0]/128
 # edns-client-subnet [8::8]/56
 
 # ttl用于所有资源记录
@@ -471,8 +471,8 @@ rr-ttl-min 300
 # log-file: 日志文件的文件路径。
 # log-size: log-size：每个日志文件的大小，支持k，m，g
 # log-num: number of logs
-#log-level warn
-#log-file /tmp/syslog.log
+# log-level warn
+# log-file /tmp/syslog.log
 # log-size 128k
 # log-num 2
 
