@@ -39,3 +39,4 @@
 +.microsofttranslator.com
 +.uscardforum.com
 +.openai.com.cdn.cloudflare.net
++.nextapple.com
