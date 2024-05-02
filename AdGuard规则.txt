@@ -1,3 +1,7 @@
+||msftstatic.com^$dnstype=A
+||msftstatic.com^$dnstype=A
+||digicert.com^$dnstype=A
+
 ||cn.mm.bing.net^
 ||cn.bing.com^
 ||bing123.com^
