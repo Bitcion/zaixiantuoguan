@@ -32,7 +32,6 @@
 +.github.io
 +.zuomengyun.top
 +.claude.ai
-+.tw
 +.bing.com
 +.bing.net
 +.msn.com
