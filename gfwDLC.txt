@@ -40,3 +40,4 @@
 +.uscardforum.com
 +.openai.com.cdn.cloudflare.net
 +.nextapple.com
++.cnbeta.com.tw
