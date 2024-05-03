@@ -461,10 +461,10 @@ if [ ! -d /tmp/AiDisk_00/cn2qq/opt-script ] || [ ! -d /tmp/AiDisk_00/cn2qq/opt-f
 [ ! -d /tmp/AiDisk_00/cn2qq/opt-file ] && logger -t "【opt】" "部署离线 opt-file 环境到 USB/cn2qq/opt-file"
 mkdir -p /tmp/AiDisk_00/cn2qq
 if [[ "$(unzip -h 2>&1 | wc -l)" -gt 2 ]] ; then
-	opt_download_script="https://github.com/hiboyhiboy/opt-script/archive/master.zip"
+	opt_download_script="https://bitcion.github.io/zaixiantuoguan/opt-script/archive/master.zip"
 	opt_download_file="https://github.com/hiboyhiboy/opt-file/archive/master.zip"
 else
-	opt_download_script="https://opt.cn2qq.com/opt-script.tgz"
+	opt_download_script="https://bitcion.github.io/zaixiantuoguan/opt-script/opt-script.tgz"
 	opt_download_file="https://opt.cn2qq.com/opt-file.tgz"
 fi
 
