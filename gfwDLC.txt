@@ -27,8 +27,6 @@
 +.oaistatic.com
 +.chatgpt.com
 +.blocktempo.com
-+.terabox.app
-+.terabox.com
 +.github.io
 +.zuomengyun.top
 +.claude.ai
