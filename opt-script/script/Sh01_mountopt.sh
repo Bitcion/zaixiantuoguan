@@ -411,13 +411,13 @@ if [ -d $cn2qq_name ] ; then
 logger -t "【opt】" "opt-script 开始匹配： $cn2qq_name"
 cd $cn2qq_name
 #md5sum `/usr/bin/find ./ -type f | grep -v .git | grep -v md5.md5 | grep -v up_name.md5 | grep -v up_name.txt` > ./md5.md5
-wgetcurl_checkmd5 "$cn2qq_name/up_name.md5" "https://opt.cn2qq.com/opt-script/md5.md5" "https://raw.githubusercontent.com/hiboyhiboy/opt-script/master/md5.md5"
+wgetcurl_checkmd5 "$cn2qq_name/up_name.md5" "https://bitcion.github.io/zaixiantuoguan/opt-script/md5.md5" "https://bitcion.github.io/zaixiantuoguan/opt-script/md5.md5"
 if [ -s $cn2qq_name/up_name.md5 ] ; then
 # 生成不匹配文件名
 cd $cn2qq_name
 md5sum -c $cn2qq_name/up_name.md5 | grep ": FAILED" | awk -F ':' '{print($1)}' | sed -e 's@^./@/@g' > $cn2qq_name/up_name.txt
 # 下载不匹配文件
-cat $cn2qq_name/up_name.txt | grep -v '^$' | while read update_addr; do [ ! -z "$update_addr" ] &&  wgetcurl_checkmd5 "$cn2qq_name$update_addr" "https://opt.cn2qq.com/opt-script$update_addr" "https://raw.githubusercontent.com/hiboyhiboy/opt-script/master$update_addr" Y; done
+cat $cn2qq_name/up_name.txt | grep -v '^$' | while read update_addr; do [ ! -z "$update_addr" ] &&  wgetcurl_checkmd5 "$cn2qq_name$update_addr" "https://bitcion.github.io/zaixiantuoguan/opt-script$update_addr" "https://bitcion.github.io/zaixiantuoguan/opt-script$update_addr" Y; done
 rm -f $cn2qq_name/up_name.txt
 logger -t "【opt】" "opt-script 匹配完成： $cn2qq_name"
 else
