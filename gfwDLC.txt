@@ -38,3 +38,4 @@
 +.nextapple.com
 +.cnbeta.com.tw
 steamcommunity.com
++.github.dev
