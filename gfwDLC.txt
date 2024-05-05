@@ -39,3 +39,4 @@
 steamcommunity.com
 +.github.dev
 +.tw
++.openai.com
