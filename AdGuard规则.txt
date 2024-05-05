@@ -1,5 +1,6 @@
 ||msftstatic.com^$dnstype=A
 ||digicert.com^$dnstype=A
+||miui.com^$dnstype=A
 
 ||cn.mm.bing.net^
 ||cn.bing.com^
