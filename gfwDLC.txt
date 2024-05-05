@@ -34,7 +34,6 @@
 +.bing.net
 +.msn.com
 +.microsofttranslator.com
-+.openai.com.cdn.cloudflare.net
 +.nextapple.com
 +.cnbeta.com.tw
 steamcommunity.com
