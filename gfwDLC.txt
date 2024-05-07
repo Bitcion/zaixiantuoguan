@@ -38,5 +38,6 @@
 +.cnbeta.com.tw
 steamcommunity.com
 +.github.dev
++.cnbeta.com.tw
 +.tw
 +.openai.com
