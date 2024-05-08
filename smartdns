@@ -6,6 +6,7 @@ domain-set -name cn -file /opt/cn.txt
 
 edns自已定义ip
 [2409:8080:0:4:2c6:2f6:2:0]/128
+[2409:8080::]/56
 
 server 211.137.191.27 -group china 
 server 2409:803C:2000:2::27 -group china
