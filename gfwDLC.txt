@@ -1,3 +1,4 @@
+wallet.google
 +.bytefcdn-ttpeu.com
 +.ibyteimg.com
 +.worldfcdn2.com
