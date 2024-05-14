@@ -1,3 +1,4 @@
++.cnbeta.com.tw
 +.livekit.cloud
 wallet.google
 +.bytefcdn-ttpeu.com
