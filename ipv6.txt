@@ -939,6 +939,7 @@
 ||channelnewsasia.com^$dnstype=~A|~CNAME
 ||chaoex.com^$dnstype=~A|~CNAME
 ||chapm25.com^$dnstype=~A|~CNAME
+||chatgpt.com^$dnstype=~A|~CNAME
 ||chatnook.com^$dnstype=~A|~CNAME
 ||chaturbate.com^$dnstype=~A|~CNAME
 ||checkgfw.com^$dnstype=~A|~CNAME
