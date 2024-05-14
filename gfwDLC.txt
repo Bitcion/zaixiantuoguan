@@ -37,7 +37,6 @@ wallet.google
 +.msn.com
 +.microsofttranslator.com
 +.nextapple.com
-+.cnbeta.com.tw
 steamcommunity.com
 +.github.dev
 +.cnbeta.com.tw
