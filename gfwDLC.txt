@@ -1,3 +1,4 @@
++.livekit.cloud
 wallet.google
 +.bytefcdn-ttpeu.com
 +.ibyteimg.com
