@@ -1,3 +1,4 @@
+||cnbetacdn.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
 ||bard.google.com^$dnstype=~A|~CNAME
