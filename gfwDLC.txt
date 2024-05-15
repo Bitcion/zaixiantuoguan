@@ -1,3 +1,4 @@
++.uscardforum.com
 +.cnbeta.com.tw
 +.livekit.cloud
 wallet.google
