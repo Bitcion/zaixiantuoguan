@@ -1,3 +1,4 @@
+||investing.com^$dnstype=A
 ||digicert.com^$dnstype=A
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
