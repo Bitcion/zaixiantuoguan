@@ -1,3 +1,5 @@
+||digicert.com^$dnstype=A
+
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
@@ -56,6 +58,4 @@
 ||oaistatic.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
 ||openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
-
-||digicert.com^$dnstype=A
 
