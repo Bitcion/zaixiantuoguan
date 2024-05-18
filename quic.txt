@@ -1,3 +1,5 @@
 netflix.com
 nflxso.net
 bing.com
+openai.com
+chatgpt.com
