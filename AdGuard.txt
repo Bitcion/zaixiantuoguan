@@ -1,4 +1,5 @@
 ||digicert.com^$dnstype=A
+||a-msedge.net^$dnstype=A
 
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
