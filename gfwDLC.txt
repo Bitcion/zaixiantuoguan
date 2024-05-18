@@ -43,5 +43,4 @@ gemini.google.com
 steamcommunity.com
 +.github.dev
 +.cnbeta.com.tw
-+.tw
 +.openai.com
