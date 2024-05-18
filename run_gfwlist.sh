@@ -20,10 +20,10 @@ rm -f ./gfwlist_domains.txt
 # 初始化一个关联数组来存储已有规则
 declare -A existing_rules
 
-# 从AdGuard规则.txt中读取已有规则
+# 从AdGuard.txt中读取已有规则
 while read -r line; do
     existing_rules["$line"]=1
-done < AdGuard规则.txt
+done < AdGuard.txt
 
 # 从ipv4.txt中读取域名并转换为Adguard规则格式
 while read -r line; do
@@ -34,6 +34,6 @@ while read -r line; do
     fi
 done < ipv4.txt
 
-# 将新规则追加到AdGuard规则.txt
-cat adguard_rules.txt >> AdGuard规则.txt
+# 将新规则追加到AdGuard.txt
+cat adguard_rules.txt >> AdGuard.txt
 rm adguard_rules.txt
