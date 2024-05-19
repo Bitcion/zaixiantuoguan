@@ -1,8 +1,12 @@
+bard.google.com
+gemini.google.com
+copilot.microsoft.com
+wallet.google
+steamcommunity.com
 +.investing.com
 +.uscardforum.com
 +.cnbeta.com.tw
 +.livekit.cloud
-wallet.google
 +.messenger.live.com
 +.steamstatic.com
 +.steam-api.com
@@ -10,8 +14,6 @@ wallet.google
 +.anthropic.com
 +.mxyssr.com
 +.cn2qq.com
-bard.google.com
-gemini.google.com
 +.ipinfo.io
 +.oaistatic.com
 +.chatgpt.com
@@ -21,6 +23,5 @@ gemini.google.com
 +.claude.ai
 +.microsofttranslator.com
 +.nextapple.com
-steamcommunity.com
 +.github.dev
 +.openai.com
