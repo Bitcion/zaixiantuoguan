@@ -2,7 +2,6 @@
 ||msftstatic.com^$dnstype=A
 ||windows.com^$dnstype=A
 ||microsoft.com^$dnstype=A
-||win10-trt.msedge.net^$dnstype=A
 
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
