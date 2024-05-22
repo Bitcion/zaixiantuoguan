@@ -1,7 +1,8 @@
 #!/bin/bash
 
-# 删除旧的ipv6.txt文件
+# 删除旧的ipv6.txt和AdGuard.txt文件
 rm -f ./ipv6.txt
+rm -f ./AdGuard.txt
 
 # 下载gfwlist2dnsmasq.sh脚本
 wget https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh
@@ -17,23 +18,8 @@ sed 's/.\*/\\|\\|&\\^\\$dnstype\\=~A\\|~CNAME/' ./gfwlist_domains.txt > ./ipv6.t
 rm -f gfwlist2dnsmasq.sh
 rm -f ./gfwlist_domains.txt
 
-# 初始化一个关联数组来存储已有规则
-declare -A existing_rules
-
-# 从AdGuard.txt中读取已有规则
-while read -r line; do
-    existing_rules["$line"]=1
-done < AdGuard.txt
-
-# 从ipv4.txt中读取域名并转换为Adguard规则格式
+# 从ipv4.txt中读取域名并转换为Adguard规则格式，写入AdGuard.txt
 while read -r line; do
     rule="||$line^$dnstype=~A|~CNAME"
-    # 检查规则是否已存在
-    if [[ -z "${existing_rules["$rule"]}" ]]; then
-        echo "$rule" >> adguard_rules.txt
-    fi
+    echo "$rule" >> AdGuard.txt
 done < ipv4.txt
-
-# 将新规则追加到AdGuard.txt
-cat adguard_rules.txt >> AdGuard.txt
-rm adguard_rules.txt
