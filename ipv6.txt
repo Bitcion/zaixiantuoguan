@@ -1,0 +1,1 @@
+||singapore.com^$dnstype=A
