@@ -3,3 +3,4 @@ bilivideo.cn
 schwab.com
 apple.com
 icloud.com
+msftstatic.com
