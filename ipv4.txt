@@ -1,8 +1,8 @@
+usefathom.com
 copilot.microsoft.com
 cnbeta.com.tw
 gemini.google.com
 bard.google.com
-usefathom.com
 us-west-2.amazonaws.com
 fast.com
 netflix.com
