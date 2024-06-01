@@ -1,3 +1,1 @@
-||singapore.com^$dnstype=A
-||www.yan.sg^$dnstype=A
-||mothership.sg^$dnstype=A
+||digicert.com.com^$dnstype=A
