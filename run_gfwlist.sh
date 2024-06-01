@@ -1,11 +1,10 @@
 #!/bin/bash
 
-# 删除旧的AdGuard.txt文件
+# 删除旧的 AdGuard.txt 文件
 rm -f ./AdGuard.txt
 
-# 从ipv4.txt中读取域名并转换为Adguard规则格式,写入AdGuard.txt
+# 从 ipv4.txt 中读取域名并转换为 AdGuard 规则格式,写入 AdGuard.txt
 while read -r line; do
-    # 直接写入$dnstype变量的文字
-    rule="||$line^\\\$dnstype=~A|~CNAME"
+    rule="||$line^$dnstype=~A|~CNAME"
     echo "$rule" >> AdGuard.txt
 done < ipv4.txt
