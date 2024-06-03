@@ -26,3 +26,6 @@ steamcommunity.com
 +.nextapple.com
 +.github.dev
 +.openai.com
++.opendota.com
++.dotabuff.com
+
