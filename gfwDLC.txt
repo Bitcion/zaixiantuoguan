@@ -5,7 +5,6 @@ copilot.microsoft.com
 wallet.google
 steamcommunity.com
 +.investing.com
-+.uscardforum.com
 +.cnbeta.com.tw
 +.livekit.cloud
 +.messenger.live.com
