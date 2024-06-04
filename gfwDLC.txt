@@ -28,4 +28,6 @@ steamcommunity.com
 +.openai.com
 +.opendota.com
 +.dotabuff.com
++.ibkr.com
+
 
