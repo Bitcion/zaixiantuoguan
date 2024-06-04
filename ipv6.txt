@@ -1,1 +1,2 @@
-||digicert.com.com^$dnstype=A
+||digicert.com^$dnstype=A
+||miui.com^$dnstype=A
