@@ -28,5 +28,6 @@ steamcommunity.com
 +.opendota.com
 +.dotabuff.com
 +.ibkr.com
++.uscardforum.com
 
 
