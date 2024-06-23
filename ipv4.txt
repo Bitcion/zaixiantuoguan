@@ -1,4 +1,3 @@
-usefathom.com
 copilot.microsoft.com
 cnbeta.com.tw
 gemini.google.com
