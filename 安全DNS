@@ -3,7 +3,6 @@ tls://dns.google
 https://doh.opendns.com/dns-query
 tls://dns.opendns.com
 h3://cloudflare-dns.com/dns-query
-quic://dns.adguard-dns.com
-quic://dns.east.comss.one
-h3://doh-jp.blahdns.com/dns-query
+https://kr-sel.doh.sb/dns-query
+https://hk-hkg.doh.sb/dns-query
 https://[2620:119:fc::2]/dns-query
