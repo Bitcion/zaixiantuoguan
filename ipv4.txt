@@ -51,6 +51,7 @@ yusercontent.com
 claude.ai
 anthropic.com
 bing.com
+bing.net
 openai.com
 oaistatic.com
 chatgpt.com
