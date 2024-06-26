@@ -1,4 +1,3 @@
-.techbang.com
 x.com
 bard.google.com
 gemini.google.com
@@ -31,5 +30,6 @@ steamcommunity.com
 +.ibkr.com
 +.uscardforum.com
 +.ctee.com.tw
-
++.a-msedge.net
++.techbang.com
 
