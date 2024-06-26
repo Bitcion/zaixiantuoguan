@@ -51,6 +51,7 @@
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
+||bing.net^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||oaistatic.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
