@@ -56,3 +56,4 @@ openai.com
 oaistatic.com
 chatgpt.com
 openai.com.cdn.cloudflare.net
+github.io
