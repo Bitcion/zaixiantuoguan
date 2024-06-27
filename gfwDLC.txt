@@ -6,7 +6,6 @@ wallet.google
 steamcommunity.com
 +.investing.com
 +.cnbeta.com.tw
-+.livekit.cloud
 +.messenger.live.com
 +.steamstatic.com
 +.steam-api.com
@@ -15,7 +14,6 @@ steamcommunity.com
 +.mxyssr.com
 +.cn2qq.com
 +.ipinfo.io
-+.oaistatic.com
 +.chatgpt.com
 +.blocktempo.com
 +.github.io
