@@ -31,5 +31,6 @@ steamcommunity.com
 +.uscardforum.com
 +.ctee.com.tw
 +.techbang.com
++.livekit.cloud
 +.whatismyip.com
 whatismyipaddress.com
