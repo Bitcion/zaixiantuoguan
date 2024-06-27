@@ -5,3 +5,4 @@ apple.cn
 icloud.com
 douyucdn.cn
 bilibili.com
+polestar.com
