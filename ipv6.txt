@@ -1,4 +1,4 @@
 ||digicert.com^$dnstype=A
 ||miui.com^$dnstype=A
 ||msftstatic.com^$dnstype=A
-||polestar.com^$dnstype=A
+||polestar.com^$dnstype=A|CNAME
