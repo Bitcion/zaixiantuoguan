@@ -30,4 +30,5 @@ steamcommunity.com
 +.ctee.com.tw
 +.techbang.com
 +.whatismyip.com
++.freeterabox.com
 whatismyipaddress.com
