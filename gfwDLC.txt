@@ -1,4 +1,4 @@
-x.com
+.x.com
 bard.google.com
 gemini.google.com
 copilot.microsoft.com
