@@ -1,3 +1,4 @@
+||forbes.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
 ||gemini.google.com^$dnstype=~A|~CNAME
