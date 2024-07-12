@@ -30,7 +30,6 @@ spotify.com
 yahoo.com
 claude.ai
 anthropic.com
-bing.com
 bing.net
 openai.com
 chatgpt.com
