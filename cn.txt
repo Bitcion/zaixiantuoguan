@@ -4,5 +4,4 @@ apple.cn
 icloud.com
 douyucdn.cn
 bilibili.com
-schwab.com
 miui.com
