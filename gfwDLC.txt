@@ -2,6 +2,7 @@ bard.google.com
 gemini.google.com
 copilot.microsoft.com
 steamcommunity.com
+.techbang.com
 +.schwab.com
 +.investing.com
 +.cnbeta.com.tw
