@@ -34,8 +34,3 @@ bing.net
 openai.com
 chatgpt.com
 github.io
-
-rfi.fr
-dw.com
-rfa.org
-voachinese.com
