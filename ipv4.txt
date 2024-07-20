@@ -36,3 +36,4 @@ bing.net
 openai.com
 chatgpt.com
 github.io
+x.com
