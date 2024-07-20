@@ -3,8 +3,6 @@ gemini.google.com
 copilot.microsoft.com
 steamcommunity.com
 .techbang.com
-.schwab.com
-.ibkr.com
 .investing.com
 .cnbeta.com.tw
 .messenger.live.com
