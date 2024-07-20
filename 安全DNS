@@ -1,5 +1,6 @@
 h3://dns.google/dns-query
 tls://dns.google
+tls://1dot1dot1dot1.cloudflare-dns.com
 https://doh.opendns.com/dns-query
 tls://dns.opendns.com
 h3://cloudflare-dns.com/dns-query
