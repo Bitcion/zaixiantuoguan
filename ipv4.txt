@@ -33,6 +33,8 @@ claude.ai
 anthropic.com
 bing.com
 bing.net
+msn.com
+msn.cn
 openai.com
 chatgpt.com
 github.io
