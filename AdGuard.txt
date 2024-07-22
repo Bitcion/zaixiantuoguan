@@ -33,6 +33,8 @@
 ||anthropic.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
+||msn.com^$dnstype=~A|~CNAME
+||msn.cn^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
 ||github.io^$dnstype=~A|~CNAME
