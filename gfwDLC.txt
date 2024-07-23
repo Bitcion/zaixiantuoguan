@@ -16,7 +16,6 @@ steamcommunity.com
 .chatgpt.com
 .github.io
 .claude.ai
-.microsofttranslator.com
 .github.dev
 .openai.com
 .opendota.com
