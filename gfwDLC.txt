@@ -23,7 +23,4 @@ steamcommunity.com
 .dotabuff.com
 .uscardforum.com
 .whatismyip.com
-.terabox.com
-terabox.app
-.freeterabox.com
 whatismyipaddress.com
