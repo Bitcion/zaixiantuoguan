@@ -1,3 +1,5 @@
+||dns.google^$dnstype=~A|~CNAME
+||investing.com^$dnstype=~A|~CNAME
 ||cloudflare-dns.com^$dnstype=~A|~CNAME
 ||ios.chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 ||forbes.com^$dnstype=~A|~CNAME
