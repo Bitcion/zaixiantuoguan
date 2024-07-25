@@ -1,4 +1,3 @@
-dns.google
 investing.com
 cloudflare-dns.com
 ios.chat.openai.com.cdn.cloudflare.net
