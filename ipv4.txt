@@ -34,6 +34,7 @@ claude.ai
 anthropic.com
 bing.com
 bing.net
+a-msedge.net
 msn.com
 msn.cn
 openai.com
