@@ -34,6 +34,7 @@
 ||anthropic.com^$dnstype=~A|~CNAME
 ||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
+||a-msedge.net^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
 ||msn.cn^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
