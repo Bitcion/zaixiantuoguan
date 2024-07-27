@@ -12,6 +12,7 @@ steamcommunity.com
 .anthropic.com
 .mxyssr.com
 .cn2qq.com
+chatgpt.com
 .chatgpt.com
 .github.io
 .claude.ai
