@@ -43,3 +43,4 @@ chatgpt.com
 github.io
 x.com
 yimg.com
+yahoodns.net
