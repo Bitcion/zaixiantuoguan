@@ -6,7 +6,6 @@ copilot.microsoft.com
 cnbeta.com.tw
 gemini.google.com
 bard.google.com
-us-west-2.amazonaws.com
 fast.com
 netflix.com
 netflix.net
@@ -38,4 +37,3 @@ chatgpt.com
 github.io
 x.com
 yimg.com
-yahoodns.net
