@@ -32,7 +32,6 @@ yahoo.com
 claude.ai
 anthropic.com
 bing.com
-e86303.dscx.akamaiedge.net
 bing.net
 msn.com
 openai.com
