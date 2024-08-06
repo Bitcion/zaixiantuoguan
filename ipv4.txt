@@ -34,8 +34,6 @@ claude.ai
 anthropic.com
 bing.com
 bing.net
-a-msedge.net
-ax-msedge.net
 msn.com
 openai.com
 chatgpt.com
