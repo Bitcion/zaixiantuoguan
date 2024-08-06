@@ -35,6 +35,7 @@
 ||bing.com^$dnstype=~A|~CNAME
 ||bing.net^$dnstype=~A|~CNAME
 ||a-msedge.net^$dnstype=~A|~CNAME
+||ax-msedge.net^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
 ||openai.com^$dnstype=~A|~CNAME
 ||chatgpt.com^$dnstype=~A|~CNAME
