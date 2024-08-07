@@ -1,4 +1,6 @@
 bing.com
+a-msedge.net
+msedge.net
 bing.net
 investing.com
 ios.chat.openai.com.cdn.cloudflare.net
