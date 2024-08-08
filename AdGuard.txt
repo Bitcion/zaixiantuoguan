@@ -1,12 +1,9 @@
-||bing.com^$dnstype=~A|~CNAME
-||bing.net^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
 ||ios.chat.openai.com.cdn.cloudflare.net^$dnstype=~A|~CNAME
 ||forbes.com^$dnstype=~A|~CNAME
+||google.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
-||gemini.google.com^$dnstype=~A|~CNAME
-||bard.google.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
