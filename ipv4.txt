@@ -4,8 +4,6 @@ forbes.com
 google.com
 copilot.microsoft.com
 cnbeta.com.tw
-gemini.google.com
-bard.google.com
 fast.com
 netflix.com
 netflix.net
