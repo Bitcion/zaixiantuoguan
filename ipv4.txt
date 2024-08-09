@@ -2,7 +2,6 @@ bing.com
 investing.com
 ios.chat.openai.com.cdn.cloudflare.net
 forbes.com
-google.com
 copilot.microsoft.com
 cnbeta.com.tw
 fast.com
