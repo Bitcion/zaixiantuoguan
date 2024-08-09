@@ -1,8 +1,8 @@
-ipinfo.io
-bard.google.com
-gemini.google.com
-copilot.microsoft.com
-steamcommunity.com
++.ipinfo.io
++.bard.google.com
++.gemini.google.com
++.copilot.microsoft.com
++.steamcommunity.com
 .cnbeta.com.tw
 .messenger.live.com
 .steamstatic.com
@@ -10,9 +10,8 @@ steamcommunity.com
 .spotify.com
 .anthropic.com
 .mxyssr.com
-chatgpt.com
-.chatgpt.com
++.chatgpt.com
 .claude.ai
 .openai.com
 .whatismyip.com
-.investing.com
++.investing.com
