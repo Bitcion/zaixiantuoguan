@@ -10,14 +10,9 @@ steamcommunity.com
 .spotify.com
 .anthropic.com
 .mxyssr.com
-.cn2qq.com
 chatgpt.com
 .chatgpt.com
-.github.io
 .claude.ai
-.github.dev
 .openai.com
-.opendota.com
-.dotabuff.com
 .whatismyip.com
 .investing.com
