@@ -1,5 +1,3 @@
-bing.com
-a-msedge.net
 investing.com
 ios.chat.openai.com.cdn.cloudflare.net
 forbes.com
