@@ -29,6 +29,7 @@ claude.ai
 anthropic.com
 msn.com
 openai.com
+ios.chat.openai.com.cdn.cloudflare.net
 chatgpt.com
 github.io
 x.com
