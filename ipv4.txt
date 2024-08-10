@@ -1,5 +1,4 @@
 investing.com
-ios.chat.openai.com.cdn.cloudflare.net
 forbes.com
 copilot.microsoft.com
 cnbeta.com.tw
