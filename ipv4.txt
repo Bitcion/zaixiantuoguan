@@ -3,7 +3,7 @@ investing.com
 forbes.com
 copilot.microsoft.com
 cnbeta.com.tw
-us-west-2.amazonaws.com
+elb.us-east-2.amazonaws.com
 fast.com
 netflix.com
 netflix.net
