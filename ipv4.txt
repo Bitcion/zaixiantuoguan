@@ -26,8 +26,7 @@ nflxso.net
 nflxvideo.net
 spotify.com
 yahoo.com
-tw.yahoo.com
-hk.yahoo.com
+yahoodns.net
 claude.ai
 anthropic.com
 msn.com
