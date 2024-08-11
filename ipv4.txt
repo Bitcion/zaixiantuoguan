@@ -27,8 +27,6 @@ nflxso.net
 nflxvideo.net
 spotify.com
 yahoo.com
-hk.yahoo.com
-tw.yahoo.com
 yahoodns.net
 s.yimg.com
 claude.ai
