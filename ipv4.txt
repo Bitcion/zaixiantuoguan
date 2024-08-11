@@ -26,10 +26,8 @@ nflxsearch.net
 nflxso.net
 nflxvideo.net
 spotify.com
-yahoo.com
++.yahoo.com
 s.yimg.com
-hk.yahoo.com
-tw.yahoo.com
 claude.ai
 anthropic.com
 msn.com
