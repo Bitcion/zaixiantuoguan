@@ -1,3 +1,6 @@
+#chianadns-ng
+-n -b 0.0.0.0 -c udp://127.0.0.1#8051 -t udp://198.18.0.2 -m /opt/app/chinadns_ng/chnlist.txt,/opt/cn.txt -g /opt/app/chinadns_ng/gfwlist.txt -M --group ipv4 --group-dnl /opt/ipv4.txt --group-upstream udp://127.0.0.1#8052 -N tag:ipv4
+
 # gfwlist的域名集，路径是sstproxy的，chinadns-ng也有相同文件
 domain-set -name gfwlist -file /opt/app/ss_tproxy/rule/gfwlist.txt
 conf-file /opt/anti-ad-for-smartdns.conf
