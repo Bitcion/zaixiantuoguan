@@ -27,6 +27,7 @@ nflxso.net
 nflxvideo.net
 spotify.com
 yahoo.com
+s.yimg.com
 hk.yahoo.com
 tw.yahoo.com
 claude.ai
@@ -36,7 +37,6 @@ openai.com
 chatgpt.com
 github.io
 x.com
-yimg.com
 mxyssr.com
 bbc.co.uk
 bbci.co.uk
