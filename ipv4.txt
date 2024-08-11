@@ -28,7 +28,7 @@ nflxvideo.net
 spotify.com
 yahoo.com
 yahoodns.net
-yimg.com
+s.yimg.com
 claude.ai
 anthropic.com
 msn.com
