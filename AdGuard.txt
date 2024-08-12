@@ -1,8 +1,10 @@
+||uscardforum.com^$dnstype=~A|~CNAME
+||bing.com^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
 ||forbes.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
-||us-west-2.amazonaws.com^$dnstype=~A|~CNAME
+||elb.us-east-2.amazonaws.com^$dnstype=~A|~CNAME
 ||fast.com^$dnstype=~A|~CNAME
 ||netflix.com^$dnstype=~A|~CNAME
 ||netflix.net^$dnstype=~A|~CNAME
@@ -26,6 +28,9 @@
 ||nflxvideo.net^$dnstype=~A|~CNAME
 ||spotify.com^$dnstype=~A|~CNAME
 ||yahoo.com^$dnstype=~A|~CNAME
+||yahoo.com.tw^$dnstype=~A|~CNAME
+||yahoodns.net^$dnstype=~A|~CNAME
+||s.yimg.com^$dnstype=~A|~CNAME
 ||claude.ai^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
@@ -33,8 +38,9 @@
 ||chatgpt.com^$dnstype=~A|~CNAME
 ||github.io^$dnstype=~A|~CNAME
 ||x.com^$dnstype=~A|~CNAME
-||yimg.com^$dnstype=~A|~CNAME
 ||mxyssr.com^$dnstype=~A|~CNAME
+||bbc.co.uk^$dnstype=~A|~CNAME
+||bbci.co.uk^$dnstype=~A|~CNAME
 ||tiktok.com^$dnstype=~A|~CNAME
 ||byteeffecttos-g.com^$dnstype=~A|~CNAME
 ||pitaya-clientai.com^$dnstype=~A|~CNAME
