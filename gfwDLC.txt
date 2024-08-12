@@ -6,5 +6,4 @@
 +.anthropic.com
 +.mxyssr.com
 +.claude.ai
-+.elb.us-east-2.amazonaws.com
 +.investing.com
