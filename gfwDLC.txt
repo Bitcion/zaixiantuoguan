@@ -14,5 +14,4 @@
 +.claude.ai
 +.openai.com
 +.whatismyip.com
-+.investing.com
 +.elb.us-east-2.amazonaws.com
