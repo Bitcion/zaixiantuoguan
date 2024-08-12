@@ -29,7 +29,8 @@ nflxvideo.net
 spotify.com
 yahoo.com
 yahoo.com.tw
-yahoodns.net
+hk.yahoo.com
+tw.yahoo.com
 s.yimg.com
 claude.ai
 anthropic.com
