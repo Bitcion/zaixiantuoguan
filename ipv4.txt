@@ -1,7 +1,4 @@
-uscardforum.com
-blocktempo.com
 investing.com
-forbes.com
 copilot.microsoft.com
 cnbeta.com.tw
 elb.us-east-2.amazonaws.com
