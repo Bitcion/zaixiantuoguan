@@ -1,11 +1,8 @@
 dns:
   enable: true
-  ipv6: true
-  default-nameserver:          #解析非IP的dns用的dns服务器,只支持纯IP
-    - 223.5.5.5  
-  nameserver-policy:                #指定域名使用自定义DNS解析
-    '+.internal.crop.com': '114.114.114.114'
   listen: 0.0.0.0:8053
+  default-nameserver :
+    - 223.5.5.5
   enhanced-mode: redir-host
   # enhanced-mode: redir-host # 或 fake-ip
   # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
@@ -15,45 +12,33 @@ dns:
   # hosts:
   #   '*.clash.dev': 127.0.0.1
   #   'alpha.clash.dev': '::1'
+  use-hosts: true # 查询 hosts
+  # 配置不使用fake-ip的域名
+  fake-ip-filter:
+    - '+.*'
+  #   - '*.lan'
+  #   - localhost.ptlogin2.qq.com
 
   nameserver:
-    - 211.137.191.27
-    - 223.5.5.5
-    - 218.201.96.131
-
-  fallback:
-    # 与 nameserver 内的服务器列表同时发起请求，当规则符合 GEOIP 在 CN 以外时，fallback 列表内的域名服务器生效。
-    - tls://208.67.222.222
-    - tls://dns.google
-    - 192.168.123.87
-
-  fallback-filter:                   #回落DNS服务器过滤
-    geoip: true                      #为真时，不匹配为geoip规则的使用fallback返回结果
-    geoip-code: CN                   #geoip匹配区域设定
-    geosite:                         #【Meta专属】设定geosite某分类使用fallback返回结果
-      - gfw
-    domain:                          #列表中的域名使用fallback返回解析结果
-      - '+.bing.com'
-      - '+.bing.net'
-
-sniffer:                         #【Meta专属】sniffer域名嗅探器
-  enable: true                   #嗅探开关
-  sniffing:                      #嗅探协议对象：目前支持tls/http
-    - tls
-    - http
-  skip-domain:
-    - '*.apple.com'
-    - '*.schwab.com'
-  force-domain:
-    - '*.netflix.com'
+    - https://[2620:119:fc::2]/dns-query
+    - https://[2001:4860:4860::8888]/dns-query#h3=true
+    - https://[2001:4860:4860::8888]/dns-query#h3=true
+    - https://kr-sel.doh.sb/dns-query
+    - https://hk-hkg.doh.sb/dns-query
+  nameserver-policy:
+    "geosite:bing,yahoo,openai":
+      - 0.0.0.0:8052
+    "geosite:cn,apple,private":
+      - 211.137.191.27
+      - 2409:803C:2000:2::27
+      - 2409:803C:2000:4::131
+sniffer:
+  enable: true
+  override-destination: false
+  sniff:
+    tls: { ports: [853, 5228] }
 
 tun:
   enable: true
-  stack: system
-  dns-hijack:
-    - tcp://8.8.8.8:53
-    - 8.8.8.8:53    
-    - 8.8.4.4:53   
-    - tcp://[2001:4860:4860::8888]:53        
+  stack: system 
   auto-route: false
-  auto-detect-interface: false
