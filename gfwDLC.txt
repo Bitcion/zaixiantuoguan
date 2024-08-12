@@ -1,4 +1,3 @@
-+.ipinfo.io
 +.steamcommunity.com
 +.cnbeta.com.tw
 +.steamstatic.com
