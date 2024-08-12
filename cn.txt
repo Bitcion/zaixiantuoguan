@@ -1,3 +1,2 @@
 schwab.com
 ibkr.com
-api.ibkr.com
