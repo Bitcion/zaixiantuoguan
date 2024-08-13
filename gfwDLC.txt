@@ -6,3 +6,4 @@
 +.mxyssr.com
 +.claude.ai
 +.investing.com
++.spotify.com
