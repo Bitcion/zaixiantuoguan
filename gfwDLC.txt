@@ -1,4 +1,3 @@
-+.elb.us-east-2.amazonaws.com
 +.steamcommunity.com
 +.cnbeta.com.tw
 +.steamstatic.com
