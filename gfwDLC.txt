@@ -8,3 +8,4 @@
 +.investing.com
 +.spotify.com
 +.cnyes.com
++.bitfinex.com
