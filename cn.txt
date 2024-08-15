@@ -1,2 +1,2 @@
-+.schwab.com
-+.ibkr.com
+schwab.com
+ibkr.com
