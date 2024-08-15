@@ -2,10 +2,6 @@
 +.steamstatic.com
 +.steam-api.com
 +.anthropic.com
-+.mxyssr.com
 +.claude.ai
 +.spotify.com
-+.cnyes.com
 +.bitfinex.com
-+.cnbeta.com.tw
-+.investing.com
