@@ -1,11 +1,11 @@
 +.steamcommunity.com
-+.cnbeta.com.tw
 +.steamstatic.com
 +.steam-api.com
 +.anthropic.com
 +.mxyssr.com
 +.claude.ai
-+.investing.com
 +.spotify.com
 +.cnyes.com
 +.bitfinex.com
++.cnbeta.com.tw
++.investing.com
