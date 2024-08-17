@@ -5,5 +5,5 @@
 .claude.ai
 .spotify.com
 .bitfinex.com
-.cnbeta.com.tw
-.investing.com
++.cnbeta.com.tw
++.investing.com
