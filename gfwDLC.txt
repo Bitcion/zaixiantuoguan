@@ -1,7 +1,6 @@
 +.steamcommunity.com
 +.steamstatic.com
 +.steam-api.com
-+.anthropic.com
 +.claude.ai
 +.spotify.com
 +.bitfinex.com
