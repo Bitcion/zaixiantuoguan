@@ -1,9 +1,9 @@
-.steamcommunity.com
-.steamstatic.com
-.steam-api.com
-.anthropic.com
-.claude.ai
-.spotify.com
-.bitfinex.com
++.steamcommunity.com
++.steamstatic.com
++.steam-api.com
++.anthropic.com
++.claude.ai
++.spotify.com
++.bitfinex.com
 +.cnbeta.com.tw
 +.investing.com
