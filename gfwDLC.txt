@@ -6,3 +6,4 @@
 +.bitfinex.com
 +.cnbeta.com.tw
 +.investing.com
++.bybit.com
