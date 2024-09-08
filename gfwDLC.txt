@@ -3,7 +3,8 @@
 +.steam-api.com
 +.claude.ai
 +.spotify.com
-+.bitfinex.com
 +.cnbeta.com.tw
 +.investing.com
 +.bybit.com
++.kraken.com
++.bitfinex.com
