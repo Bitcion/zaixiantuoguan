@@ -2,3 +2,4 @@
 ||investing.com^$dnstype=~A|~CNAME
 ||aljazeera.net^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
+||copilot.microsoft.com^$dnstype=~A|~CNAME
