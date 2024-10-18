@@ -8,4 +8,5 @@
 +.bybit.com
 +.kraken.com
 +.bitfinex.com
++.wikipedia.org
 copilot.microsoft.com
