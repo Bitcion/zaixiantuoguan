@@ -3,3 +3,5 @@
 ||aljazeera.net^$dnstype=~A|~CNAME
 ||msn.com^$dnstype=~A|~CNAME
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
+||apple-relay.cloudflare.com^$dnstype=~A|~CNAME
+||apple-relay.apple.com^$dnstype=~A|~CNAME
