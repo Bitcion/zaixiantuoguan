@@ -5,3 +5,4 @@
 ||copilot.microsoft.com^$dnstype=~A|~CNAME
 ||apple-relay.cloudflare.com^$dnstype=~A|~CNAME
 ||apple-relay.apple.com^$dnstype=~A|~CNAME
+||anthropic.com^$dnstype=~A|~CNAME
