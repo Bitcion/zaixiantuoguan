@@ -10,4 +10,3 @@
 +.bitfinex.com
 +.wikipedia.org
 copilot.microsoft.com
-+.microsoftapp.net
