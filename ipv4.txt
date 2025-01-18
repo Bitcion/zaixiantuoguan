@@ -7,3 +7,4 @@ apple-relay.cloudflare.com
 apple-relay.apple.com
 anthropic.com
 microsoftapp.net
+microsoft-falcon.io
