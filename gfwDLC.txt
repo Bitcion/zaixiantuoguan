@@ -9,5 +9,6 @@
 +.kraken.com
 +.bitfinex.com
 +.wikipedia.org
++.freeterabox.com
 copilot.microsoft.com
 opt.cn2qq.com
