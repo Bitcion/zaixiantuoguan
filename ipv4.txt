@@ -6,4 +6,3 @@ copilot.microsoft.com
 apple-relay.cloudflare.com
 apple-relay.apple.com
 anthropic.com
-e107108.dscx.akamaiedge.net
