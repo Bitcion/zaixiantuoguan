@@ -10,7 +10,6 @@
 +.bitfinex.com
 +.wikipedia.org
 +.freeterabox.com
-+.playtika.com
 copilot.microsoft.com
 e107108.dscx.akamaiedge.net
 opt.cn2qq.com
