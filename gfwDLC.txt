@@ -8,7 +8,6 @@
 +.bitfinex.com
 +.wikipedia.org
 +.freeterabox.com
-+.google.com
 copilot.microsoft.com
 e107108.dscx.akamaiedge.net
 opt.cn2qq.com
