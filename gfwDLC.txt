@@ -1,4 +1,3 @@
-+.steamstatic.com
 +.claude.ai
 +.spotify.com
 +.cnbeta.com.tw
