@@ -7,3 +7,4 @@
 ||apple-relay.apple.com^$dnstype=~A|~CNAME
 ||anthropic.com^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
+||rockstargames.com^$dnstype=~A|~CNAME
