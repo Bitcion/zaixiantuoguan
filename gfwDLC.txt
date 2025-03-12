@@ -7,6 +7,7 @@
 +.bitfinex.com
 +.wikipedia.org
 +.freeterabox.com
++.mxdingyue.top
 copilot.microsoft.com
 e107108.dscx.akamaiedge.net
 opt.cn2qq.com
