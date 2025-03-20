@@ -10,15 +10,14 @@ dns:
     - '+.*'
 
   nameserver:
-    - tcp://one.one.one.one#♻️ 自动选择
-    - tcp://dns.google#♻️ 自动选择
-    - https://dns.google/dns-query
-    - https://hk-hkg.doh.sb/dns-query
-    - https://sg-sin.doh.sb/dns-query
-    - https://kr-sel.doh.sb/dns-query
-    - https://hk-hkg.doh.sb/dns-query
-    - https://jp-nrt.doh.sb/dns-query
-    - https://sg-sin.doh.sb/dns-query
+    - https://dns.twnic.tw/dns-query
+    - https://[2620:119:fc::2]/dns-query
+    - https://[2001:4860:4860::8844]/dns-query#h3=true
+    - https://dns.google/dns-query#♻️ 自动选择&h3=true
+    - https://[2001:4860:4860::8888]/dns-query#h3=true
+    - https://dns.cloudflare.com/dns-query
+  proxy-server-nameserver:
+    - https://dns.cloudflare.com/dns-query
   nameserver-policy:
     "rule-set:DLC规则": 
       - tcp://0.0.0.0:8052
@@ -28,10 +27,6 @@ dns:
       - tcp://0.0.0.0:8052
     "geosite:apple,category-ads-all": 
       - 0.0.0.0:8051
-
-  proxy-server-nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
 
 sniffer:
   enable: true
