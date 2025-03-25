@@ -8,3 +8,4 @@ apple-relay.apple.com
 anthropic.com
 playtika.com
 rockstargames.com
+aicoin.com
