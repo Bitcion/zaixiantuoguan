@@ -1,13 +1,8 @@
-+.aicoin.com
 +.claude.ai
 +.spotify.com
-+.cnbeta.com.tw
-+.investing.com
 +.bybit.com
 +.kraken.com
 +.bitfinex.com
-+.wikipedia.org
-+.freeterabox.com
 +.mxdingyue.top
 +.steamstatic.com
 copilot.microsoft.com
