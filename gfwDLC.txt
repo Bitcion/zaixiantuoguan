@@ -1,3 +1,6 @@
++.cnbeta.com.tw
++.investing.com
++.wikipedia.org
 +.claude.ai
 +.spotify.com
 +.bybit.com
