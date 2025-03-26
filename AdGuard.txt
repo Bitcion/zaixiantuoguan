@@ -8,3 +8,4 @@
 ||anthropic.com^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
 ||rockstargames.com^$dnstype=~A|~CNAME
+||aicoin.com^$dnstype=~A|~CNAME
