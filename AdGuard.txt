@@ -1,3 +1,4 @@
+||bing.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
 ||aljazeera.net^$dnstype=~A|~CNAME
