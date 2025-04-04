@@ -4,29 +4,34 @@ dns:
   prefer-h3: true
   listen: 0.0.0.0:8054
   default-nameserver :
-    - 223.5.5.5
+    - 119.29.29.29
   enhanced-mode: redir-host
   fake-ip-filter:
     - '+.*'
-
-  nameserver:
-    - https://dns.twnic.tw/dns-query
-    - https://[2620:119:fc::2]/dns-query
-    - https://[2001:4860:4860::8844]/dns-query#h3=true
-    - https://dns.google/dns-query#♻️ 自动选择&h3=true
-    - https://[2001:4860:4860::8888]/dns-query#h3=true
-    - https://dns.cloudflare.com/dns-query
   proxy-server-nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  nameserver:
+    - one.one.one.one#♻️ 自动选择
+    - tcp://dns.google#♻️ 自动选择
+    - https://dns.twnic.tw/dns-query
+    - https://dns.hinet.net/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://dns.google/dns-query
     - https://dns.cloudflare.com/dns-query
+    - https://unfiltered.adguard-dns.com/dns-query
   nameserver-policy:
     "rule-set:DLC规则": 
       - tcp://0.0.0.0:8052
-    "geosite:netflix": 
-      - 0.0.0.0:8052
-    "geosite:bing,openai,yahoo": 
+      - xzb.257335.xyz:8052    
+    "geosite:bing,openai,yahoo,netflix": 
       - tcp://0.0.0.0:8052
-    "geosite:apple,category-ads-all": 
-      - 0.0.0.0:8051
+      - xzb.257335.xyz:8052    
+    "geosite:category-ads-all": 
+      - xzb.257335.xyz:8051  
+    "geosite:cn": 
+      - 218.201.96.130
+      - https://doh.pub/dns-query
 
 sniffer:
   enable: true
