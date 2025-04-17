@@ -2,7 +2,6 @@
 +.investing.com
 +.wikipedia.org
 +.claude.ai
-+.spotify.com
 +.bybit.com
 +.kraken.com
 +.bitfinex.com
