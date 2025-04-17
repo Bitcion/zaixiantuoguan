@@ -8,5 +8,4 @@
 +.bitfinex.com
 +.mxdingyue.top
 +.steamstatic.com
-copilot.microsoft.com
 opt.cn2qq.com
