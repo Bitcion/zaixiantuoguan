@@ -12,4 +12,4 @@
 +.playtika.com
 copilot.microsoft.com
 opt.cn2qq.com
-whatismyiplookup.com
+2ip.io
