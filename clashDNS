@@ -5,6 +5,7 @@ dns:
   listen: 0.0.0.0:8054
   default-nameserver :
     - 119.29.29.29
+    - 1.1.1.1
   enhanced-mode: redir-host
   fake-ip-filter:
     - '+.*'
@@ -17,18 +18,17 @@ dns:
     - https://dns.twnic.tw/dns-query
     - https://dns.hinet.net/dns-query
     - https://doh.opendns.com/dns-query
-    - https://dns.google/dns-query
     - https://dns.cloudflare.com/dns-query
-    - https://unfiltered.adguard-dns.com/dns-query
   nameserver-policy:
     "rule-set:DLC规则": 
       - tcp://0.0.0.0:8052  
+      - xzb.257335.xyz:8052 
     "geosite:bing,openai,yahoo,netflix": 
-      - tcp://0.0.0.0:8052
-    "geosite:category-ads-all": 
-      - 0.0.0.0:8051  
-    "geosite:cn": 
-      - 218.201.96.130
+      - tcp://0.0.0.0:8052  
+      - xzb.257335.xyz:8052 
+    "geosite:cn,category-ads-all": 
+      - 2409:803C:2000:2::27
+      - 2409:803c:2000:3::130
       - https://doh.pub/dns-query
 
 sniffer:
@@ -41,5 +41,3 @@ tun:
   enable: true
   stack: system 
   auto-route: false
-  dns-hijack:
-    - 'any:53'
