@@ -1,6 +1,6 @@
 #!/bin/bash
 /usr/bin/aria.sh stop
-list=`wget -qO- https://cf.trackerslist.com/all_aria2.txt|awk NF|sed ":a;N;s/\n/,/g;ta"`
+list=`wget -qO- https://cf.trackerslist.com/best.txt|awk NF|sed ":a;N;s/\n/,/g;ta"`
 echo ${list}
 if [ -z "`grep "bt-tracker" /etc/storage/aria2_conf.sh`" ]; then
     sed -i '$a bt-tracker='${list} /etc/storage/aria2_conf.sh
