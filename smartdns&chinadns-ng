@@ -1,6 +1,5 @@
 #chianadns-ng
--d gfw --cache 0 -b :: -c ::#8051,udp://::#8054,198.18.0.2 -t udp://::#8054,198.18.0.2 --chnlist-first -m /opt/app/chinadns_ng/chnlist.txt -g /opt/app/chinadns_ng/gfwlist.txt 
-
+-d gfw -M --cache 0 -b :: -c ::#8051,udp://::#8054,198.18.0.2 -t udp://::#8054,198.18.0.2 --chnlist-first -m /opt/app/chinadns_ng/chnlist.txt -g /opt/app/chinadns_ng/gfwlist.txt 
 
 
 
