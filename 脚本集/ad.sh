@@ -31,4 +31,4 @@ download_and_process "https://bitcion.github.io/zaixiantuoguan/cn.txt" "/opt/cn.
 download_and_process "https://bitcion.github.io/zaixiantuoguan/ipv4.txt" "/opt/quic.txt" "cat"
 
 # 下载和处理anti-ad-for-smartdns.conf文件，替换/#为/#4
-download_and_process "https://anti-ad.net/anti-ad-for-smartdns.conf" "/opt/anti-ad-for-smartdns.conf" "sed 's/#/#4/g'"
+download_and_process "https://anti-ad.net/anti-ad-for-smartdns.conf" "/opt/anti-ad-for-smartdns.conf" "sed '/^[^#]/s/\/#/\/#4/g'"
