@@ -24,9 +24,6 @@ download_and_process() {
     rm -f "$TMP_FILE"
 }
 
-# 下载和处理AdGuard规则文件，生成gfw.txt文件
-download_and_process "https://bitcion.github.io/zaixiantuoguan/AdGuard%E8%A7%84%E5%88%99.txt" "/opt/ipv4.txt" "grep -oE '([a-zA-Z0-9.-]+)\^' | sed 's/\^//'"
-
 # 下载和处理cn.txt文件，不需要额外处理
 download_and_process "https://bitcion.github.io/zaixiantuoguan/cn.txt" "/opt/cn.txt" "cat"
 
