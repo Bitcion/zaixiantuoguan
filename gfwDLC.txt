@@ -10,6 +10,5 @@
 +.epochtimes.com
 +.ntdtv.com
 +.playtika.com
-copilot.microsoft.com
 opt.cn2qq.com
 2ip.io
