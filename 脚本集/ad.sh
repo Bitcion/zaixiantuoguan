@@ -25,13 +25,13 @@ download_and_process() {
 }
 
 # 下载和处理AdGuard规则文件，生成gfw.txt文件
-download_and_process "https://bitcion.github.io/zaixiantuoguan/AdGuard%E8%A7%84%E5%88%99.txt" "/opt/gfw.txt" "grep -oE '([a-zA-Z0-9.-]+)\^' | sed 's/\^//'"
+download_and_process "https://bitcion.github.io/zaixiantuoguan/AdGuard%E8%A7%84%E5%88%99.txt" "/opt/ipv4.txt" "grep -oE '([a-zA-Z0-9.-]+)\^' | sed 's/\^//'"
 
 # 下载和处理cn.txt文件，不需要额外处理
 download_and_process "https://bitcion.github.io/zaixiantuoguan/cn.txt" "/opt/cn.txt" "cat"
 
 # 下载和处理DLC.txt文件，不需要额外处理
-download_and_process "https://bitcion.github.io/zaixiantuoguan/quic.txt" "/opt/quic.txt" "cat"
+download_and_process "https://bitcion.github.io/zaixiantuoguan/ipv4.txt" "/opt/quic.txt" "cat"
 
 # 下载和处理anti-ad-for-smartdns.conf文件，替换/#为/#4
 download_and_process "https://anti-ad.net/anti-ad-for-smartdns.conf" "/opt/anti-ad-for-smartdns.conf" "sed 's/#/#4/g'"
