@@ -1,9 +1,4 @@
-h3://dns.google/dns-query
-tls://dns.google
 tls://1dot1dot1dot1.cloudflare-dns.com
-https://doh.opendns.com/dns-query
+https://0ms.dev/dns-query
 tls://dns.opendns.com
-h3://cloudflare-dns.com/dns-query
-https://kr-sel.doh.sb/dns-query
-https://hk-hkg.doh.sb/dns-query
 https://[2620:119:fc::2]/dns-query
