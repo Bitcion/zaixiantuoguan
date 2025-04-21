@@ -2,3 +2,4 @@ tls://1dot1dot1dot1.cloudflare-dns.com
 https://0ms.dev/dns-query
 tls://dns.opendns.com
 https://[2620:119:fc::2]/dns-query
+https://dns.cloudflare.com/dns-query
