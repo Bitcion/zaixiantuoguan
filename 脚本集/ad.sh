@@ -22,8 +22,28 @@ download_and_process() {
 
 # 第一部分：下载和处理各种文件
 download_and_process "https://bitcion.github.io/zaixiantuoguan/cn.txt" "/opt/cn.txt" "cat"
-download_and_process "https://bitcion.github.io/zaixiantuoguan/ipv4.txt" "/opt/quic.txt" "cat"
-download_and_process "https://anti-ad.net/anti-ad-for-smartdns.conf" "/opt/anti-ad-for-smartdns.conf" "sed '/^[^#]/s/\/#/\/#4/g'"
+
+# 下载anti-ad-for-smartdns.conf一次，然后进行两种处理
+ANTI_AD_URL="https://anti-ad.net/anti-ad-for-smartdns.conf"
+ANTI_AD_TMP="/tmp/anti-ad-temp.txt"
+
+# 下载文件
+wget -O "$ANTI_AD_TMP" "$ANTI_AD_URL"
+
+if [ $? -eq 0 ]; then
+    # 处理为ad.txt（提取域名）
+    cat "$ANTI_AD_TMP" | grep -o 'address /[^/]*/' | sed 's/address \///;s/\///' > "/opt/ad.txt"
+    echo "Updated ad.txt successfully."
+    
+    # 处理为anti-ad-for-smartdns.conf（替换IPv4标记）
+    cat "$ANTI_AD_TMP" | sed '/^[^#]/s/\/#/\/#4/g' > "/opt/anti-ad-for-smartdns.conf"
+    echo "Updated anti-ad-for-smartdns.conf successfully."
+else
+    echo "Failed to download the file from $ANTI_AD_URL."
+fi
+
+# 删除临时文件
+rm -f "$ANTI_AD_TMP"
 
 # 第二部分：更新aria2的BT追踪器列表
 /usr/bin/aria.sh stop
