@@ -24,7 +24,7 @@ download_and_process "https://bitcion.github.io/zaixiantuoguan/cn.txt" "/opt/cn.
 download_and_process "https://anti-ad.net/domains.txt" "/opt/ad.txt" "cat"
 download_and_process "https://anti-ad.net/anti-ad-for-smartdns.conf" "/opt/anti-ad-for-smartdns.conf" "sed '/^[^#]/s/\/#/\/#4/g'"
 # 第二部分：更新aria2的BT追踪器列表
-/usr/bin/aria.sh stop
+
 list=`wget -qO- https://cf.trackerslist.com/best.txt|awk NF|sed ":a;N;s/\n/,/g;ta"`
 echo ${list}
 if [ -z "`grep "bt-tracker" /etc/storage/aria2_conf.sh`" ]; then
@@ -34,4 +34,3 @@ else
     sed -i "s@bt-tracker.*@bt-tracker=$list@g" /etc/storage/aria2_conf.sh
     echo 升级完成...
 fi
-/usr/bin/aria.sh restart
