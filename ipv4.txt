@@ -2,7 +2,6 @@ wikipedia.org
 steamstatic.com
 playtika.com
 cnbeta.com.tw
-investing.com
 aicoin.com
 apple-relay.cloudflare.com
 apple-relay.apple.com
