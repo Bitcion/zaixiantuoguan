@@ -8,4 +8,5 @@ copilot.microsoft.com
 +.epochtimes.com
 +.ntdtv.com
 +.playtika.com
++.kraken.com
 2ip.io
