@@ -2,7 +2,7 @@
 
 # 定义输入和输出文件
 INPUT_FILE="gfwDLC.txt"
-OUTPUT_FILE="IPV4.TXT"
+OUTPUT_FILE="ipv4.txt"
 
 # 如果输出文件已存在，先删除它
 if [ -f "$OUTPUT_FILE" ]; then
