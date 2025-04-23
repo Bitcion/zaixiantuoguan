@@ -8,4 +8,9 @@
 +.kraken.com
 +.cnbeta.com.tw
 +.investing.com
++.rockstargames.com
++.aljazeera.net
++.aicoin.com
+apple-relay.cloudflare.com
+apple-relay.apple.com
 gemini.google.com
