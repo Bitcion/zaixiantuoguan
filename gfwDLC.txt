@@ -9,4 +9,3 @@ copilot.microsoft.com
 +.ntdtv.com
 +.playtika.com
 +.kraken.com
-2ip.io
