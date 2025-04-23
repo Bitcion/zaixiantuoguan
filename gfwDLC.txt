@@ -9,3 +9,4 @@ copilot.microsoft.com
 +.ntdtv.com
 +.playtika.com
 +.kraken.com
+gemini.google.com
