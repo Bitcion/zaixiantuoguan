@@ -1,15 +1,11 @@
 copilot.microsoft.com
-+.cnbeta.com.tw
-+.investing.com
 +.wikipedia.org
 +.claude.ai
 +.bybit.com
-+.kraken.com
 +.bitfinex.com
 +.mxdingyue.top
 +.steamstatic.com
 +.epochtimes.com
 +.ntdtv.com
 +.playtika.com
-opt.cn2qq.com
 2ip.io
