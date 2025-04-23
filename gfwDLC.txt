@@ -8,4 +8,6 @@
 +.ntdtv.com
 +.playtika.com
 +.kraken.com
++.cnbeta.com.tw
++.investing.com
 gemini.google.com
