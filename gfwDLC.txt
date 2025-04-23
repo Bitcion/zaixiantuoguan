@@ -4,8 +4,6 @@
 +.bitfinex.com
 +.mxdingyue.top
 +.steamstatic.com
-+.epochtimes.com
-+.ntdtv.com
 +.playtika.com
 +.kraken.com
 +.cnbeta.com.tw
