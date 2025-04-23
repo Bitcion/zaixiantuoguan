@@ -1,12 +1,2 @@
-bing.com
-cnbeta.com.tw
-investing.com
-aljazeera.net
-msn.com
-copilot.microsoft.com
-apple-relay.cloudflare.com
-apple-relay.apple.com
-anthropic.com
 playtika.com
 rockstargames.com
-aicoin.com
