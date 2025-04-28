@@ -4,8 +4,8 @@ wikipedia.org
 steamstatic.com
 playtika.com
 cnbeta.com.tw
-aicoin.com
 investing.com
 apple-relay.cloudflare.com
 apple-relay.apple.com
 gemini.google.com
+aicoin.com
