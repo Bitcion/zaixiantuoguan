@@ -1,3 +1,5 @@
+Claude.ai
++.anthropic.com
 +.wikipedia.org
 +.steamstatic.com
 +.playtika.com
