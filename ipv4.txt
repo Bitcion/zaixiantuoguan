@@ -10,3 +10,4 @@ apple-relay.apple.com
 gemini.google.com
 aicoin.com
 mitrade.com
+bitfinex.com
