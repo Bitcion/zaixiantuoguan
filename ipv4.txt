@@ -11,3 +11,4 @@ gemini.google.com
 aicoin.com
 mitrade.com
 bitfinex.com
+aljazeera.net
