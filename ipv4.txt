@@ -12,3 +12,4 @@ aicoin.com
 mitrade.com
 bitfinex.com
 aljazeera.net
+coindesk.com
