@@ -3,3 +3,4 @@ ntp.msn.com
 ibkr.com
 battle.net
 blizzard.com
+schwab.com
