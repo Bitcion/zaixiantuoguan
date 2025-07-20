@@ -13,4 +13,3 @@ mitrade.com
 bitfinex.com
 aljazeera.net
 coindesk.com
-telephony.goog
