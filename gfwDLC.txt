@@ -16,4 +16,3 @@ gemini.google.com
 +.telephony.goog
 +.yimg.com
 +.yahoo.com
-+.terabox.com
