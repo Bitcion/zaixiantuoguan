@@ -16,3 +16,4 @@ coindesk.com
 telephony.goog
 yimg.com
 yahoo.com
+terabox.com
