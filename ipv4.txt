@@ -6,7 +6,6 @@ playtika.com
 cnbeta.com.tw
 apple-relay.cloudflare.com
 apple-relay.apple.com
-gemini.google.com
 aicoin.com
 mitrade.com
 bitfinex.com
