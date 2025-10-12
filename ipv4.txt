@@ -14,4 +14,3 @@ coindesk.com
 telephony.goog
 yimg.com
 yahoo.com
-investing.com
