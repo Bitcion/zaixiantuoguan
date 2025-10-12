@@ -14,4 +14,3 @@ apple-relay.apple.com
 +.telephony.goog
 +.yimg.com
 +.yahoo.com
-+.investing.com
