@@ -1,0 +1,55 @@
+dns:
+  enable: true
+  cache-algorithm: arc
+  prefer-h3: true
+  listen: 0.0.0.0:8054
+  default-nameserver :
+    - 223.5.5.5
+  enhanced-mode: redir-host
+  # enhanced-mode: redir-host # 或 fake-ip
+  # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
+  # # 实验性功能 hosts, 支持通配符 (例如 *.clash.dev 甚至 *.foo.*.example.com)
+  # # 静态的域名 比 通配域名 具有更高的优先级 (foo.example.com 优先于 *.example.com)
+  # # 注意: hosts 在 fake-ip 模式下不生效
+  # hosts:
+  #   '*.clash.dev': 127.0.0.1
+  #   'alpha.clash.dev': '::1'
+  use-hosts: true # 查询 hosts
+  # 配置不使用fake-ip的域名
+  fake-ip-filter:
+    - '+.*'
+  #   - '*.lan'
+  #   - localhost.ptlogin2.qq.com
+
+  proxy-server-nameserver:
+    - https://dns.alidns.com/dns-query
+
+  nameserver:
+    - https://dns64.dns.google/dns-query#h3=true
+    - https://doh.opendns.com/dns-query
+    - tls://dns.opendns.com
+    - tls://one.one.one.one#♻️ 自动选择
+
+  nameserver-policy:
+    "RULE-SET:DLC规则":
+      - tcp://0.0.0.0:8052 
+      - xzb.257335.xyz:8052
+    "geosite:bing,openai,netflix,google-gemini": 
+      - tcp://0.0.0.0:8052 
+      - xzb.257335.xyz:8052
+    "+.yfsp.tv,+.cnbeta.com.tw,+.investing.com": 
+      - tcp://0.0.0.0:8052 
+      - xzb.257335.xyz:8052
+      
+sniffer:
+  enable: true
+  override-destination: false
+  sniff:
+    tls: { ports: [853, 8443, 5223] }     
+
+tun:
+  enable: true
+  stack: system 
+  mtu: 1492
+  auto-route: false
+
