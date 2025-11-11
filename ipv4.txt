@@ -9,3 +9,4 @@ apple-relay.apple.com
 bitfinex.com
 yimg.com
 yahoo.com
+yfsp.tv
