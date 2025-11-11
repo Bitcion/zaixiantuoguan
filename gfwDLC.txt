@@ -3,4 +3,3 @@ Claude.ai
 +.wikipedia.org
 +.playtika.com
 +.bitfinex.com
-+.spotify.com
