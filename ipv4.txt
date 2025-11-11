@@ -9,3 +9,5 @@ bitfinex.com
 yimg.com
 yahoo.com
 cnbeta.com.tw
+yfsp.tv
+investing.com
