@@ -3,11 +3,9 @@ anthropic.com
 wikipedia.org
 steamstatic.com
 playtika.com
-cnbeta.com.tw
 apple-relay.cloudflare.com
 apple-relay.apple.com
 bitfinex.com
 yimg.com
 yahoo.com
-yfsp.tv
-investing.com
+cnbeta.com.tw
