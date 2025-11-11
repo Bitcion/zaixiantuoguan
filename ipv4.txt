@@ -10,3 +10,4 @@ bitfinex.com
 yimg.com
 yahoo.com
 yfsp.tv
+investing.com
