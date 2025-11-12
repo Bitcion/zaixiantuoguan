@@ -7,9 +7,9 @@ bitfinex.com
 yfsp.tv
 investing.com
 cnbeta.com.tw
-cnbeta.com
 #自定义gfw
 github.io
 rockstargames.com
 mxdingyue.top
 mxyssr.com
+cnbeta.com
