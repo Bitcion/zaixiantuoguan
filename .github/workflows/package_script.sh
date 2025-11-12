@@ -31,16 +31,16 @@ if [ -n "$line_num" ]; then
         fi
     done < /tmp/before.txt
     
-    echo "#屏蔽ipv6" > "$OUTPUT_FILE"
+    echo "#屏蔽ipv6,在gfwDLC.txt中添加" > "$OUTPUT_FILE"
     cat "$TEMP_FILE" >> "$OUTPUT_FILE"
-    echo "#自定义gfw" >> "$OUTPUT_FILE"
+    echo "#自定义gfw,直接在下面添加" >> "$OUTPUT_FILE"
     echo "" >> "$OUTPUT_FILE"
     sed '/^$/d' /tmp/after.txt >> "$OUTPUT_FILE"
     rm /tmp/before.txt /tmp/after.txt
 else
-    echo "#屏蔽ipv6" > "$OUTPUT_FILE"
+    echo "#屏蔽ipv6,在gfwDLC.txt中添加" > "$OUTPUT_FILE"
     cat "$TEMP_FILE" >> "$OUTPUT_FILE"
-    echo "#自定义gfw" >> "$OUTPUT_FILE"
+    echo "#自定义gfw,直接在下面添加" >> "$OUTPUT_FILE"
     echo "" >> "$OUTPUT_FILE"
 fi
 
