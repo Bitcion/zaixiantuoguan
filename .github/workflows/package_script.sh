@@ -8,7 +8,7 @@ TEMP_FILE=$(mktemp)
 sed 's/^+\.//' "$INPUT_FILE" > "$TEMP_FILE"
 
 if [ ! -f "$OUTPUT_FILE" ]; then
-    echo "#屏蔽ipv6" > "$OUTPUT_FILE"
+    echo "#屏蔽ipv6,在gfwDLC.txt中添加" > "$OUTPUT_FILE"
     cat "$TEMP_FILE" >> "$OUTPUT_FILE"
     echo "#自定义gfw" >> "$OUTPUT_FILE"
     echo "" >> "$OUTPUT_FILE"
@@ -16,7 +16,7 @@ if [ ! -f "$OUTPUT_FILE" ]; then
     exit 0
 fi
 
-line_num=$(grep -n "^#自定义gfw" "$OUTPUT_FILE" | cut -d: -f1)
+line_num=$(grep -n "^#自定义gfw,直接在下面添加" "$OUTPUT_FILE" | cut -d: -f1)
 
 if [ -n "$line_num" ]; then
     head -n $((line_num - 1)) "$OUTPUT_FILE" > /tmp/before.txt
