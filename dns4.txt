@@ -1,2 +1,3 @@
 +.cnbeta.com.tw
 +.investing.com
++.yfsp.tv
