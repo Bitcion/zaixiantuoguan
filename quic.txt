@@ -1,8 +1,4 @@
 github.io
-apple-relay.cloudflare.com
-apple-relay.apple.com
-yimg.com
-yahoo.com
 kraken.com
 rockstargames.com
 mxdingyue.top
