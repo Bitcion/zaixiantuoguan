@@ -1,13 +1,11 @@
 #!/bin/bash
-/usr/bin/aria.sh stop
-list=`wget -qO- https://cf.trackerslist.com/best.txt|awk NF|sed ":a;N;s/\n/,/g;ta"`
-echo ${list}
-if [ -z "`grep "bt-tracker" /etc/storage/aria2_conf.sh`" ]; then
-    sed -i '$a bt-tracker='${list} /etc/storage/aria2_conf.sh
-    echo 添加"bt-tracker="前缀...
-else
-    sed -i "s@bt-tracker.*@bt-tracker=$list@g" /etc/storage/aria2_conf.sh
-    echo 升级完成...
-fi
-/usr/bin/aria.sh restart
+INPUT_FILE="gfwDLC.txt"
+OUTPUT_FILE="ipv4.txt"
 
+[ ! -f "$INPUT_FILE" ] && exit 1
+[ ! -f "$OUTPUT_FILE" ] && touch "$OUTPUT_FILE"
+
+sed 's/^+\.//' "$INPUT_FILE" | sort -u > /tmp/new_sorted.txt
+sort -u "$OUTPUT_FILE" > /tmp/old_sorted.txt
+comm -23 /tmp/new_sorted.txt /tmp/old_sorted.txt >> "$OUTPUT_FILE"
+rm /tmp/new_sorted.txt /tmp/old_sorted.txt
