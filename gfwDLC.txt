@@ -6,3 +6,4 @@ Claude.ai
 +.yfsp.tv
 +.investing.com
 +.cnbeta.com.tw
++.cnbeta.com
