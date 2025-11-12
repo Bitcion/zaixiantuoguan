@@ -1,3 +1,4 @@
+#屏蔽ipv6
 Claude.ai
 anthropic.com
 wikipedia.org
@@ -6,9 +7,9 @@ bitfinex.com
 yfsp.tv
 investing.com
 cnbeta.com.tw
+cnbeta.com
+#自定义gfw
 github.io
 rockstargames.com
 mxdingyue.top
 mxyssr.com
-cnbeta.com
-#自定义gfw
