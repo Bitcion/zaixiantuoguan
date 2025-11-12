@@ -5,3 +5,4 @@
 +.bitfinex.com
 +.yfsp.tv
 +.cnbeta.com.tw
++.investing.com
