@@ -1,4 +1,4 @@
-Claude.ai
++.Claude.ai
 +.anthropic.com
 +.wikipedia.org
 +.playtika.com
