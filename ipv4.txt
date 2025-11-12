@@ -1,4 +1,4 @@
-#屏蔽ipv6
+#屏蔽ipv6,在gfwDLC.txt中添加
 Claude.ai
 anthropic.com
 wikipedia.org
@@ -7,5 +7,5 @@ bitfinex.com
 yfsp.tv
 investing.com
 cnbeta.com.tw
-#自定义gfw
+#自定义gfw,直接在下面添加
 
