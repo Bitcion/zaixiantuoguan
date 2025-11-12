@@ -3,3 +3,4 @@ anthropic.com
 wikipedia.org
 playtika.com
 bitfinex.com
+yfsp.tv
