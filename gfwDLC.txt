@@ -5,3 +5,4 @@ Claude.ai
 +.bitfinex.com
 +.yfsp.tv
 +.investing.com
++.cnbeta.com.tw
