@@ -7,6 +7,7 @@ bitfinex.com
 yfsp.tv
 cnbeta.com.tw
 investing.com
+edge.microsoft.com
 #自定义gfw,直接在下面添加
 
 github.io
