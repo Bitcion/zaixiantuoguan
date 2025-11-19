@@ -6,4 +6,3 @@
 +.yfsp.tv
 +.cnbeta.com.tw
 +.investing.com
-+.l.google.com
