@@ -1,5 +1,6 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
 Claude.ai
+Claude.com
 anthropic.com
 wikipedia.org
 playtika.com
