@@ -8,9 +8,9 @@ bitfinex.com
 yfsp.tv
 cnbeta.com.tw
 investing.com
-github.io
 #自定义gfw,直接在下面添加
 
 rockstargames.com
 mxdingyue.top
 mxyssr.com
+github.io
