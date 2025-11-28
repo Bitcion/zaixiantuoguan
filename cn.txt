@@ -4,3 +4,4 @@ ibkr.com
 battle.net
 blizzard.com
 schwab.com
+stun.l.google.com
