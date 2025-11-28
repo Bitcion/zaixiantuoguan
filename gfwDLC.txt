@@ -7,4 +7,3 @@
 +.yfsp.tv
 +.cnbeta.com.tw
 +.investing.com
-+.github.io
