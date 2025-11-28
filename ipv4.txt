@@ -6,6 +6,7 @@ wikipedia.org
 playtika.com
 bitfinex.com
 yfsp.tv
+hlive.io
 cnbeta.com.tw
 investing.com
 #自定义gfw,直接在下面添加
