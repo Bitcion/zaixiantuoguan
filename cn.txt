@@ -1,3 +1,4 @@
 battle.net
 blizzard.com
 stun.l.google.com
+deepwiki.com
