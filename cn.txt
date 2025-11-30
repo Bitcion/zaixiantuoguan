@@ -3,3 +3,4 @@
 +.deepwiki.com
 +.wechat.com
 +.paypal.com
++.l.google.com
