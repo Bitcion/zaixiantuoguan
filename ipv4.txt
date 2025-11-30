@@ -9,6 +9,7 @@ yfsp.tv
 hlive.io
 cnbeta.com.tw
 investing.com
+telephony.goog
 #自定义gfw,直接在下面添加
 
 rockstargames.com
