@@ -8,3 +8,4 @@
 +.hlive.io
 +.cnbeta.com.tw
 +.investing.com
++.telephony.goog
