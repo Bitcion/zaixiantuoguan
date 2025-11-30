@@ -5,8 +5,6 @@ anthropic.com
 wikipedia.org
 playtika.com
 bitfinex.com
-yfsp.tv
-hlive.io
 cnbeta.com.tw
 investing.com
 telephony.goog
@@ -14,3 +12,5 @@ telephony.goog
 
 rockstargames.com
 mxyssr.com
+yfsp.tv
+hlive.io
