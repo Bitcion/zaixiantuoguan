@@ -4,8 +4,6 @@
 +.wikipedia.org
 +.playtika.com
 +.bitfinex.com
-+.yfsp.tv
-+.hlive.io
 +.cnbeta.com.tw
 +.investing.com
 +.telephony.goog
