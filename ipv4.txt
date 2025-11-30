@@ -8,6 +8,8 @@ bitfinex.com
 cnbeta.com.tw
 investing.com
 telephony.goog
+yfsp.tv
+hlive.io
 #自定义gfw,直接在下面添加
 
 rockstargames.com
