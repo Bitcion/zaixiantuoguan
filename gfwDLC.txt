@@ -7,4 +7,3 @@
 +.cnbeta.com.tw
 +.investing.com
 +.telephony.goog
-+.yfsp.tv
