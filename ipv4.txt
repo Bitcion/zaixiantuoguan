@@ -12,3 +12,4 @@ telephony.goog
 
 rockstargames.com
 mxyssr.com
+pipecdn.vip
