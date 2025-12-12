@@ -4,4 +4,3 @@
 +.wechat.com
 +.paypal.com
 +.l.google.com
-+.ibkr.com
