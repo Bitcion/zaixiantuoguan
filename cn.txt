@@ -6,3 +6,4 @@
 +.l.google.com
 +.ibkr.com
 +.schwab.com
++.devin.ai
