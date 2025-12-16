@@ -1,6 +1,3 @@
-+.Claude.ai
-+.Claude.com
-+.anthropic.com
 +.wikipedia.org
 +.playtika.com
 +.bitfinex.com
