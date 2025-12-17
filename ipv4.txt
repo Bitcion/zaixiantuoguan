@@ -5,6 +5,7 @@ bitfinex.com
 cnbeta.com.tw
 investing.com
 github.io
+reddit.map.fastly.net
 #自定义gfw,直接在下面添加
 
 rockstargames.com
