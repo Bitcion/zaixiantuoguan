@@ -3,7 +3,6 @@
 +.deepwiki.com
 +.wechat.com
 +.paypal.com
-+.l.google.com
 +.ibkr.com
 +.schwab.com
 +.devin.ai
