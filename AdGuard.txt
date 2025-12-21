@@ -1,5 +1,3 @@
-! 屏蔽ipv6，从 gfwDLC.txt 自动生成
-! 生成时间: 2025-12-21 10:13:49
 ||wikipedia.org^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
 ||bitfinex.com^$dnstype=~A|~CNAME
