@@ -5,4 +5,3 @@
 +.investing.com
 +.github.io
 +.reddit.map.fastly.net
-+.rfi.fr
