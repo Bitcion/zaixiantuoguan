@@ -9,5 +9,4 @@ reddit.map.fastly.net
 #自定义gfw,直接在下面添加
 
 mxyssr.com
-rfi.fr
 rockstargames.com
