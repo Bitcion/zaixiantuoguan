@@ -5,3 +5,4 @@
 ||investing.com^$dnstype=~A|~CNAME
 ||github.io^$dnstype=~A|~CNAME
 ||reddit.map.fastly.net^$dnstype=~A|~CNAME
+||rfi.fr^$dnstype=~A|~CNAME

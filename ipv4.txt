@@ -6,6 +6,7 @@ cnbeta.com.tw
 investing.com
 github.io
 reddit.map.fastly.net
+rfi.fr
 #自定义gfw,直接在下面添加
 
 mxyssr.com
