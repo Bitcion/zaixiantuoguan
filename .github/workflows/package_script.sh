@@ -83,11 +83,7 @@ while IFS= read -r domain; do
 done < "$TEMP_FILE" > "$ADGUARD_TEMP"
 
 # 写入 AdGuard.txt
-{
-    echo "! 屏蔽ipv6，从 gfwDLC.txt 自动生成"
-    echo "! 生成时间: $(date '+%Y-%m-%d %H:%M:%S')"
-    cat "$ADGUARD_TEMP"
-} > "$ADGUARD_OUTPUT"
+cat "$ADGUARD_TEMP" > "$ADGUARD_OUTPUT"
 
 echo "已生成 $ADGUARD_OUTPUT"
 
