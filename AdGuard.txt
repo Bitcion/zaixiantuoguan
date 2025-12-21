@@ -1,12 +1,9 @@
-||bing.com^$dnstype=~A|~CNAME
+! 屏蔽ipv6，从 gfwDLC.txt 自动生成
+! 生成时间: 2025-12-21 10:13:49
+||wikipedia.org^$dnstype=~A|~CNAME
+||playtika.com^$dnstype=~A|~CNAME
+||bitfinex.com^$dnstype=~A|~CNAME
 ||cnbeta.com.tw^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
-||aljazeera.net^$dnstype=~A|~CNAME
-||msn.com^$dnstype=~A|~CNAME
-||copilot.microsoft.com^$dnstype=~A|~CNAME
-||apple-relay.cloudflare.com^$dnstype=~A|~CNAME
-||apple-relay.apple.com^$dnstype=~A|~CNAME
-||anthropic.com^$dnstype=~A|~CNAME
-||playtika.com^$dnstype=~A|~CNAME
-||rockstargames.com^$dnstype=~A|~CNAME
-||aicoin.com^$dnstype=~A|~CNAME
+||github.io^$dnstype=~A|~CNAME
+||reddit.map.fastly.net^$dnstype=~A|~CNAME
