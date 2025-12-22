@@ -1,7 +1,3 @@
 ||wikipedia.org^$dnstype=~A|~CNAME
-||playtika.com^$dnstype=~A|~CNAME
 ||bitfinex.com^$dnstype=~A|~CNAME
-||cnbeta.com.tw^$dnstype=~A|~CNAME
-||investing.com^$dnstype=~A|~CNAME
-||github.io^$dnstype=~A|~CNAME
 ||reddit.map.fastly.net^$dnstype=~A|~CNAME

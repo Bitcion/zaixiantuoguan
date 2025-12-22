@@ -1,12 +1,12 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
 wikipedia.org
-playtika.com
 bitfinex.com
-cnbeta.com.tw
-investing.com
-github.io
 reddit.map.fastly.net
 #自定义gfw,直接在下面添加
 
+cnbeta.com.tw
+github.io
+investing.com
 mxyssr.com
+playtika.com
 rockstargames.com
