@@ -1,7 +1,3 @@
 +.wikipedia.org
-+.playtika.com
 +.bitfinex.com
-+.cnbeta.com.tw
-+.investing.com
-+.github.io
 +.reddit.map.fastly.net
