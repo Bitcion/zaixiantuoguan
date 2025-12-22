@@ -6,7 +6,5 @@ playtika.com
 investing.com
 #自定义gfw,直接在下面添加
 
-cnbeta.com.tw
-github.io
 mxyssr.com
 rockstargames.com
