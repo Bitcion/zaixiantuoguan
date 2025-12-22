@@ -4,6 +4,7 @@ bitfinex.com
 reddit.map.fastly.net
 playtika.com
 investing.com
+yfsp.com
 #自定义gfw,直接在下面添加
 
 mxyssr.com

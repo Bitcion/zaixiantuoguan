@@ -3,3 +3,4 @@
 ||reddit.map.fastly.net^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
+||yfsp.com^$dnstype=~A|~CNAME
