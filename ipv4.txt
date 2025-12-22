@@ -7,6 +7,6 @@ investing.com
 yfsp.com
 #自定义gfw,直接在下面添加
 
+github.io
 mxyssr.com
 rockstargames.com
-github.io
