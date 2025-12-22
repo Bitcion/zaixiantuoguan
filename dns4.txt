@@ -1,2 +1,4 @@
++.github.io
++.cnbeta.com.tw
 +.hlive.io
 +.iyf.tv
