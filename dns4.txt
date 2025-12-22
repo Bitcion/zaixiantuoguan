@@ -1,1 +1,5 @@
++.playtika.com
++.cnbeta.com.tw
++.investing.com
++.github.io
 +.hlive.io
