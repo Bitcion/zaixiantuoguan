@@ -3,3 +3,4 @@
 +.reddit.map.fastly.net
 +.playtika.com
 +.investing.com
++.yfsp.com
