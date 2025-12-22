@@ -2,6 +2,10 @@
 wikipedia.org
 bitfinex.com
 reddit.map.fastly.net
+playtika.com
+cnbeta.com.tw
+investing.com
+github.io
 #自定义gfw,直接在下面添加
 
 cnbeta.com.tw
