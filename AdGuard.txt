@@ -4,3 +4,4 @@
 ||playtika.com^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
 ||yfsp.com^$dnstype=~A|~CNAME
+||worldjournal.com^$dnstype=~A|~CNAME
