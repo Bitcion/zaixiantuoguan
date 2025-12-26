@@ -4,3 +4,4 @@
 +.playtika.com
 +.investing.com
 +.yfsp.com
++.worldjournal.com
