@@ -6,7 +6,7 @@ playtika.com
 investing.com
 yfsp.com
 worldjournal.com
-#自定义gfw,直接在下面添加
+#自定义gfw保留ipv6
 
 ctee.com.tw
 mxyssr.com
