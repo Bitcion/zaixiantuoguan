@@ -1,13 +1,13 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
 wikipedia.org
 bitfinex.com
-reddit.map.fastly.net
 playtika.com
 investing.com
-yfsp.com
-worldjournal.com
 #自定义gfw,直接在下面添加
 
 mxyssr.com
 nephobox.com
+reddit.map.fastly.net
 rockstargames.com
+worldjournal.com
+yfsp.com

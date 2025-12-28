@@ -1,7 +1,4 @@
 ||wikipedia.org^$dnstype=~A|~CNAME
 ||bitfinex.com^$dnstype=~A|~CNAME
-||reddit.map.fastly.net^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
-||yfsp.com^$dnstype=~A|~CNAME
-||worldjournal.com^$dnstype=~A|~CNAME
