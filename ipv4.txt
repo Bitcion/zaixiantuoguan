@@ -8,7 +8,6 @@ yfsp.com
 worldjournal.com
 #自定义gfw,直接在下面添加
 
-ctee.com.tw
 mxyssr.com
 nephobox.com
 rockstargames.com
