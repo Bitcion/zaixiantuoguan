@@ -2,3 +2,5 @@
 +.cnbeta.com.tw
 +.hlive.io
 +.iyf.tv
++.rfi.fr
++.ctee.com.tw
