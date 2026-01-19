@@ -1,3 +1,4 @@
++.ax-msedge.net
 +.wikipedia.org
 +.bitfinex.com
 +.playtika.com
