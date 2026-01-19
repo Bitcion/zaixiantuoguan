@@ -1,4 +1,5 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
+ax-msedge.net
 wikipedia.org
 bitfinex.com
 playtika.com
