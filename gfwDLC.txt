@@ -4,3 +4,4 @@
 +.playtika.com
 +.investing.com
 +.worldjournal.com
++.coindesk.com
