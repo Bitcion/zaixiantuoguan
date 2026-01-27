@@ -6,6 +6,7 @@ playtika.com
 investing.com
 worldjournal.com
 coindesk.com
+theblockbeats.info
 #自定义gfw,直接在下面添加
 
 ctee.com.tw
