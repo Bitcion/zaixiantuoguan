@@ -5,3 +5,4 @@
 +.investing.com
 +.worldjournal.com
 +.coindesk.com
++.theblockbeats.info
