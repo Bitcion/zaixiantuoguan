@@ -5,4 +5,3 @@
 ||investing.com^$dnstype=~A|~CNAME
 ||worldjournal.com^$dnstype=~A|~CNAME
 ||coindesk.com^$dnstype=~A|~CNAME
-||theblockbeats.info^$dnstype=~A|~CNAME
