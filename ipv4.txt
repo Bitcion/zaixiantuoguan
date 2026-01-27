@@ -9,9 +9,9 @@ coindesk.com
 #自定义gfw,直接在下面添加
 
 ctee.com.tw
+freeterabox.com
 mxyssr.com
 nephobox.com
-freeterabox.com
 rockstargames.com
 techbang.com
 worldjournal.com
