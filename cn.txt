@@ -4,5 +4,4 @@
 +.wechat.com
 +.paypal.com
 +.schwab.com
-+.ibkr.com
 +.devin.ai
