@@ -1,4 +1,4 @@
-||ax-msedge.net^$dnstype=~A|~CNAME
+||bing.com^$dnstype=~A|~CNAME
 ||wikipedia.org^$dnstype=~A|~CNAME
 ||bitfinex.com^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
