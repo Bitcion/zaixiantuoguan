@@ -6,6 +6,5 @@ playtika.com
 investing.com
 #自定义gfw,直接在下面添加
 
-ax-msedge.net
 mxyssr.com
 rockstargames.com
