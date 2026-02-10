@@ -1,10 +1,10 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
-bing.com
 wikipedia.org
 bitfinex.com
 playtika.com
 investing.com
 #自定义gfw,直接在下面添加
 
+bing.com
 mxyssr.com
 rockstargames.com
