@@ -1,4 +1,3 @@
-+.bing.com
 +.wikipedia.org
 +.bitfinex.com
 +.playtika.com
