@@ -2,4 +2,4 @@
 +.bitfinex.com
 +.playtika.com
 +.investing.com
-+.actual.battle.net
++.warcraft3.battle.net
