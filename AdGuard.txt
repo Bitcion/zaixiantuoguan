@@ -2,4 +2,3 @@
 ||bitfinex.com^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
 ||investing.com^$dnstype=~A|~CNAME
-||warcraft3.battle.net^$dnstype=~A|~CNAME
