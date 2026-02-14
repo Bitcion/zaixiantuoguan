@@ -2,4 +2,3 @@
 +.bitfinex.com
 +.playtika.com
 +.investing.com
-+.battle.net
