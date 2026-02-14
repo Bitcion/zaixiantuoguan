@@ -1,5 +1,4 @@
 +.battle.net
-+.blizzard.com
 +.deepwiki.com
 +.wechat.com
 +.paypal.com
