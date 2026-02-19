@@ -2,3 +2,4 @@
 +.bitfinex.com
 +.playtika.com
 +.investing.com
++.edge.microsoft.com
