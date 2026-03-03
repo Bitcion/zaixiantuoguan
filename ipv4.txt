@@ -7,7 +7,6 @@ edge.microsoft.com
 
 actual.battle.net
 battle.net
-investing.com
 mxyssr.com
 rockstargames.com
 warcraft3.battle.net
