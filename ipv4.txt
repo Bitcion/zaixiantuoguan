@@ -2,12 +2,12 @@
 wikipedia.org
 bitfinex.com
 playtika.com
-investing.com
 edge.microsoft.com
 #自定义gfw,直接在下面添加
 
 actual.battle.net
 battle.net
+investing.com
 mxyssr.com
 rockstargames.com
 warcraft3.battle.net
