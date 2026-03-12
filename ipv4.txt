@@ -6,7 +6,6 @@ playtika.com
 
 actual.battle.net
 battle.net
-edge.microsoft.com
 mxyssr.com
 rockstargames.com
 warcraft3.battle.net
