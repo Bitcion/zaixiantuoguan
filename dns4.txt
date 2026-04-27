@@ -1,4 +1,3 @@
 +.github.io
 +.cnbeta.com.tw
 +.byteglb.com
-+.app-analytics-services-att.com
