@@ -1,8 +1,5 @@
 +.deepwiki.com
 +.wechat.com
 +.paypal.com
-+.schwab.com
 +.devin.ai
-+.api.ibkr.com
 +.cachefly.net
-+.byteglb.com
