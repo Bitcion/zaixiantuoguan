@@ -1,3 +1,4 @@
 ||wikipedia.org^$dnstype=~A|~CNAME
 ||bitfinex.com^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
+||bloomberg.com^$dnstype=~A|~CNAME
