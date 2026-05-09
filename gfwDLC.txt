@@ -1,4 +1,5 @@
 +.wikipedia.org
 +.bitfinex.com
 +.playtika.com
++.byteglb.com
 +.bloomberg.com
