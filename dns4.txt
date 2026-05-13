@@ -2,3 +2,4 @@
 +.cnbeta.com.tw
 +.bloomberg.com
 +.byteglb.com
++.51cg1.com
