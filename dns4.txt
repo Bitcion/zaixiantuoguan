@@ -1,2 +1,3 @@
 +.github.io
 +.cnbeta.com.tw
++.51cg1.com
