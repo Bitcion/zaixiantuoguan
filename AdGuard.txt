@@ -3,4 +3,3 @@
 ||playtika.com^$dnstype=~A|~CNAME
 ||byteglb.com^$dnstype=~A|~CNAME
 ||bloomberg.com^$dnstype=~A|~CNAME
-||91cg1.com^$dnstype=~A|~CNAME
