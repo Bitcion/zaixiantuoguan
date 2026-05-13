@@ -2,12 +2,13 @@
 wikipedia.org
 bitfinex.com
 playtika.com
-byteglb.com
-bloomberg.com
+91cg1.com
 #自定义gfw,直接在下面添加
 
 actual.battle.net
 battle.net
+bloomberg.com
+byteglb.com
 mxyssr.com
 rockstargames.com
 warcraft3.battle.net
