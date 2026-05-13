@@ -4,7 +4,7 @@ bitfinex.com
 playtika.com
 #自定义gfw,直接在下面添加
 
-91cg1.com
+51cg1.com
 actual.battle.net
 battle.net
 byteglb.com
