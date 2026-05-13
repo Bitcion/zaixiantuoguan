@@ -1,2 +1,4 @@
 +.github.io
 +.cnbeta.com.tw
++.bloomberg.com
++.byteglb.com
