@@ -1,7 +1,6 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
 wikipedia.org
 bitfinex.com
-github.io
 cnbeta.com.tw
 playtika.com
 byteglb.com
@@ -10,5 +9,6 @@ byteoversea.net
 #自定义gfw,直接在下面添加
 
 battle.net
+github.io
 mxyssr.com
 rockstargames.com
