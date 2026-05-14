@@ -1,6 +1,5 @@
 +.wikipedia.org
 +.bitfinex.com
-+.github.io
 +.cnbeta.com.tw
 +.playtika.com
 +.byteglb.com
