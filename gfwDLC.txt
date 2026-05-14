@@ -1,6 +1,10 @@
 +.wikipedia.org
 +.bitfinex.com
 +.cnbeta.com.tw
++.apple-dns.net
++.mask-api.icloud.com
++.mask-h2.icloud.com
++.mask.icloud.com
 +.playtika.com
 +.byteglb.com
 +.byteoversea.net
