@@ -2,4 +2,5 @@
 +.bitfinex.com
 +.playtika.com
 +.byteglb.com
++.byteoversea.net
 +.51cg1.com
