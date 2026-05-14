@@ -2,4 +2,5 @@
 ||bitfinex.com^$dnstype=~A|~CNAME
 ||playtika.com^$dnstype=~A|~CNAME
 ||byteglb.com^$dnstype=~A|~CNAME
+||byteoversea.net^$dnstype=~A|~CNAME
 ||51cg1.com^$dnstype=~A|~CNAME

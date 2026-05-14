@@ -3,6 +3,7 @@ wikipedia.org
 bitfinex.com
 playtika.com
 byteglb.com
+byteoversea.net
 51cg1.com
 #自定义gfw,直接在下面添加
 
