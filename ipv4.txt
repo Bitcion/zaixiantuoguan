@@ -9,6 +9,5 @@ byteoversea.net
 #自定义gfw,直接在下面添加
 
 battle.net
-github.io
 mxyssr.com
 rockstargames.com
