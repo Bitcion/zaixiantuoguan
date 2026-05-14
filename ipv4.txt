@@ -1,6 +1,8 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
 wikipedia.org
 bitfinex.com
+github.io
+cnbeta.com.tw
 playtika.com
 byteglb.com
 byteoversea.net
