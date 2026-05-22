@@ -3,4 +3,3 @@
 +.paypal.com
 +.devin.ai
 +.cachefly.net
-+.stun.l.google.com
