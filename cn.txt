@@ -1,7 +1,8 @@
++.cnmmfw.com
++.cnmnnbgfwgov.com
 +.deepwiki.com
 +.wechat.com
 +.paypal.com
 +.devin.ai
 +.cachefly.net
-+.cnmmfw.com
-+.cnmnnbgfwgov.com
+
