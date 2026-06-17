@@ -1,4 +1,5 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
+challenges.cloudflare.com
 wikipedia.org
 bitfinex.com
 cnbeta.com.tw
