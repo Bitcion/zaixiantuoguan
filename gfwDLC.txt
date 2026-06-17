@@ -1,3 +1,4 @@
++.challenges.cloudflare.com
 +.wikipedia.org
 +.bitfinex.com
 +.cnbeta.com.tw
