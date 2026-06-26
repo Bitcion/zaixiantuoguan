@@ -12,6 +12,6 @@ playtika.com
 #自定义gfw,直接在下面添加
 
 battle.net
-mxyssr.com
 ibyteimg.com
+mxyssr.com
 rockstargames.com
