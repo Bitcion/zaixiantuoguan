@@ -1,11 +1,2 @@
-||challenges.cloudflare.com^$dnstype=~A|~CNAME
 ||copilot.fun^$dnstype=~A|~CNAME
 ||wikipedia.org^$dnstype=~A|~CNAME
-||bitfinex.com^$dnstype=~A|~CNAME
-||cnbeta.com.tw^$dnstype=~A|~CNAME
-||apple-dns.net^$dnstype=~A|~CNAME
-||mask-api.icloud.com^$dnstype=~A|~CNAME
-||mask-h2.icloud.com^$dnstype=~A|~CNAME
-||mask.icloud.com^$dnstype=~A|~CNAME
-||playtika.com^$dnstype=~A|~CNAME
-||51cg1.com^$dnstype=~A|~CNAME
