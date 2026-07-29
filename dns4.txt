@@ -1,5 +1,2 @@
-+.schwab.com
-+.interactivebrokers.com
-+.azure.com
 +.yfsp.tv
 +.pipecdn.vip
