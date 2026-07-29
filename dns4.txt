@@ -1,2 +1,10 @@
 +.yfsp.tv
 +.pipecdn.vip
++.challenges.cloudflare.com
++.cnbeta.com.tw
++.apple-dns.net
++.mask-api.icloud.com
++.mask-h2.icloud.com
++.mask.icloud.com
++.playtika.com
++.51cg1.com
