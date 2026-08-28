@@ -9,6 +9,7 @@ battle.net
 bitfinex.com
 challenges.cloudflare.com
 cnbeta.com.tw
+ctee.com.tw
 ibyteimg.com
 mask-api.icloud.com
 mask-h2.icloud.com
@@ -16,4 +17,3 @@ mask.icloud.com
 mxyssr.com
 playtika.com
 rockstargames.com
-ctee.com.tw
