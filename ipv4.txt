@@ -3,11 +3,9 @@ copilot.fun
 wikipedia.org
 #自定义gfw,直接在下面添加
 
-51cg1.com
 apple-dns.net
 battle.net
 bitfinex.com
-challenges.cloudflare.com
 cnbeta.com.tw
 ctee.com.tw
 ibyteimg.com
