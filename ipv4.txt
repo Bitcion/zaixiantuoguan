@@ -3,6 +3,7 @@ copilot.fun
 wikipedia.org
 #自定义gfw,直接在下面添加
 
+challenges.cloudflare.com
 apple-dns.net
 battle.net
 bitfinex.com
