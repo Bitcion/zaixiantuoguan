@@ -2,7 +2,7 @@
 copilot.fun
 wikipedia.org
 prod.ondemandconnectivity.com
-ls.apple.com/
+ls.apple.com
 #自定义gfw,直接在下面添加
 
 apple-dns.net
@@ -11,6 +11,7 @@ bitfinex.com
 challenges.cloudflare.com
 cnbeta.com.tw
 ibyteimg.com
+ls.apple.com/
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
