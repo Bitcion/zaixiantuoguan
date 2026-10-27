@@ -1,4 +1,4 @@
 +.copilot.fun
 +.wikipedia.org
 +.prod.ondemandconnectivity.com
-+.ls.apple.com/
++.ls.apple.com
