@@ -11,7 +11,6 @@ bitfinex.com
 challenges.cloudflare.com
 cnbeta.com.tw
 ibyteimg.com
-ls.apple.com/
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
