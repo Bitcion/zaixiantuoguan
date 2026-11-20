@@ -1,4 +1,3 @@
-+.challenges.cloudflare.com
 +.cnbeta.com.tw
 +.apple-dns.net
 +.mask-api.icloud.com
