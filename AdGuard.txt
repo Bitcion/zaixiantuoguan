@@ -4,3 +4,4 @@
 ||mask-api.icloud.com^$dnstype=~A|~CNAME
 ||mask-h2.icloud.com^$dnstype=~A|~CNAME
 ||mask.icloud.com^$dnstype=~A|~CNAME
+||gateway.icloud.com^$dnstype=~A|~CNAME
