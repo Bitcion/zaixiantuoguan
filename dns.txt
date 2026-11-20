@@ -1,4 +1,3 @@
-+.ls.apple.com
 +.bitfinex.com
 +.schwab.com
 +.interactivebrokers.com
