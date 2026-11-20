@@ -5,7 +5,4 @@
 +.mask-h2.icloud.com
 +.mask.icloud.com
 +.playtika.com
-+.yfsp.tv
-+.pipecdn.vip
-+.globalcdmnetworkb.vip
 +.investing.com
