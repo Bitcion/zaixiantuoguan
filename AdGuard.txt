@@ -1,1 +1,6 @@
 ||wikipedia.org^$dnstype=~A|~CNAME
+||apple-dns.net^$dnstype=~A|~CNAME
+||ls.apple.com^$dnstype=~A|~CNAME
+||mask-api.icloud.com^$dnstype=~A|~CNAME
+||mask-h2.icloud.com^$dnstype=~A|~CNAME
+||mask.icloud.com^$dnstype=~A|~CNAME
