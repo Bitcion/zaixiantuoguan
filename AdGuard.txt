@@ -1,4 +1,5 @@
 ||copilot.fun^$dnstype=~A|~CNAME
+||substrate.office.com^$dnstype=~A|~CNAME
 ||wikipedia.org^$dnstype=~A|~CNAME
 ||prod.ondemandconnectivity.com^$dnstype=~A|~CNAME
 ||ls.apple.com^$dnstype=~A|~CNAME
