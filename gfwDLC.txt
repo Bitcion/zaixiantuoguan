@@ -5,3 +5,9 @@
 +.mask-h2.icloud.com
 +.mask.icloud.com
 +.gateway.icloud.com
++.guzzoni.apple.com
++.smoot.apple.com
++.apple-relay.apple.com
++.apple-relay.fastly-edge.com
++.apple-relay.cloudflare.com
++.cp4.cloudflare.com
