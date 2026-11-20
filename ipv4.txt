@@ -2,19 +2,16 @@
 wikipedia.org
 #自定义gfw,直接在下面添加
 
-apple-dns.net
 battle.net
 bitfinex.com
 challenges.cloudflare.com
 cnbeta.com.tw
-copilot.fun
 ibyteimg.com
+apple-dns.net
 ls.apple.com
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
 mxyssr.com
 playtika.com
-prod.ondemandconnectivity.com
 rockstargames.com
-substrate.office.com
