@@ -10,7 +10,6 @@ mask.icloud.com
 battle.net
 bitfinex.com
 challenges.cloudflare.com
-cnbeta.com.tw
 ibyteimg.com
 mxyssr.com
 playtika.com
