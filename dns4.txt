@@ -1,5 +1,4 @@
 +.challenges.cloudflare.com
-+.substrate.office.com
 +.cnbeta.com.tw
 +.apple-dns.net
 +.mask-api.icloud.com
