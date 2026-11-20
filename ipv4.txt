@@ -1,8 +1,5 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
-copilot.fun
-substrate.office.com
 wikipedia.org
-prod.ondemandconnectivity.com
 ls.apple.com
 #自定义gfw,直接在下面添加
 
@@ -11,10 +8,13 @@ battle.net
 bitfinex.com
 challenges.cloudflare.com
 cnbeta.com.tw
+copilot.fun
 ibyteimg.com
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
 mxyssr.com
 playtika.com
+prod.ondemandconnectivity.com
 rockstargames.com
+substrate.office.com
