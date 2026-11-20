@@ -1,6 +1,5 @@
 #屏蔽ipv6,在gfwDLC.txt中添加
 wikipedia.org
-ls.apple.com
 #自定义gfw,直接在下面添加
 
 apple-dns.net
@@ -10,6 +9,7 @@ challenges.cloudflare.com
 cnbeta.com.tw
 copilot.fun
 ibyteimg.com
+ls.apple.com
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
