@@ -1,4 +1,5 @@
 +.copilot.fun
++.substrate.office.com
 +.wikipedia.org
 +.prod.ondemandconnectivity.com
 +.ls.apple.com
